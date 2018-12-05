@@ -1,4 +1,4 @@
-DROP TABLE unit_attack_pattern;
+DROP TABLE IF EXISTS unit_attack_pattern;
 CREATE TABLE IF NOT EXISTS `unit_attack_pattern` (`pattern_id` INTEGER NOT NULL,`unit_id` INTEGER NOT NULL,`loop_start` INTEGER NOT NULL,`loop_end` INTEGER NOT NULL,`atk_pattern_1` INTEGER NOT NULL,`atk_pattern_2` INTEGER NOT NULL,`atk_pattern_3` INTEGER NOT NULL,`atk_pattern_4` INTEGER NOT NULL,`atk_pattern_5` INTEGER NOT NULL,`atk_pattern_6` INTEGER NOT NULL,`atk_pattern_7` INTEGER NOT NULL,`atk_pattern_8` INTEGER NOT NULL,`atk_pattern_9` INTEGER NOT NULL,`atk_pattern_10` INTEGER NOT NULL,`atk_pattern_11` INTEGER NOT NULL,`atk_pattern_12` INTEGER NOT NULL,`atk_pattern_13` INTEGER NOT NULL,`atk_pattern_14` INTEGER NOT NULL,`atk_pattern_15` INTEGER NOT NULL,`atk_pattern_16` INTEGER NOT NULL,`atk_pattern_17` INTEGER NOT NULL,`atk_pattern_18` INTEGER NOT NULL,`atk_pattern_19` INTEGER NOT NULL,`atk_pattern_20` INTEGER NOT NULL,PRIMARY KEY(`pattern_id`));
 INSERT INTO `unit_attack_pattern` VALUES (10010101,100101,3,7,1002,1001,1,1,1002,1,1001,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO `unit_attack_pattern` VALUES (10020101,100201,3,10,1002,1001,1,1,1002,1,1001,1,1,1001,0,0,0,0,0,0,0,0,0,0);

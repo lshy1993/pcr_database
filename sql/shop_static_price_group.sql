@@ -1,4 +1,4 @@
-DROP TABLE shop_static_price_group;
+DROP TABLE IF EXISTS shop_static_price_group;
 CREATE TABLE IF NOT EXISTS `shop_static_price_group` (`id` INTEGER NOT NULL,`price_group_id` INTEGER NOT NULL,`buy_count_from` INTEGER NOT NULL,`buy_count_to` INTEGER NOT NULL,`count` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `shop_static_price_group` VALUES (1,1,1,20,1);
 INSERT INTO `shop_static_price_group` VALUES (2,1,21,40,2);

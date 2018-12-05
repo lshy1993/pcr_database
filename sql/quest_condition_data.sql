@@ -1,4 +1,4 @@
-DROP TABLE quest_condition_data;
+DROP TABLE IF EXISTS quest_condition_data;
 CREATE TABLE IF NOT EXISTS `quest_condition_data` (`quest_id` INTEGER NOT NULL,`condition_quest_id_1` INTEGER NOT NULL,`condition_quest_id_2` INTEGER NOT NULL,`condition_quest_id_3` INTEGER NOT NULL,`condition_quest_id_4` INTEGER NOT NULL,`condition_quest_id_5` INTEGER NOT NULL,`release_quest_id_1` INTEGER NOT NULL,`release_quest_id_2` INTEGER NOT NULL,`release_quest_id_3` INTEGER NOT NULL,`release_quest_id_4` INTEGER NOT NULL,`release_quest_id_5` INTEGER NOT NULL,PRIMARY KEY(`quest_id`));
 INSERT INTO `quest_condition_data` VALUES (11001001,0,0,0,0,0,11001002,0,0,0,0);
 INSERT INTO `quest_condition_data` VALUES (11001002,11001001,0,0,0,0,11001003,0,0,0,0);

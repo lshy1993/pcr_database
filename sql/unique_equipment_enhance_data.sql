@@ -1,4 +1,4 @@
-DROP TABLE unique_equipment_enhance_data;
+DROP TABLE IF EXISTS unique_equipment_enhance_data;
 CREATE TABLE IF NOT EXISTS `unique_equipment_enhance_data` (`equip_slot` INTEGER NOT NULL,`enhance_level` INTEGER NOT NULL,`needed_point` INTEGER NOT NULL,`total_point` INTEGER NOT NULL,`needed_mana` INTEGER NOT NULL,`rank` INTEGER NOT NULL,PRIMARY KEY(`enhance_level`));
 INSERT INTO `unique_equipment_enhance_data` VALUES (1,2,10,10,500,1);
 INSERT INTO `unique_equipment_enhance_data` VALUES (1,3,10,20,500,1);

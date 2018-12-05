@@ -1,4 +1,4 @@
-DROP TABLE unit_enemy_data;
+DROP TABLE IF EXISTS unit_enemy_data;
 CREATE TABLE IF NOT EXISTS `unit_enemy_data` (`unit_id` INTEGER NOT NULL,`unit_name` TEXT NOT NULL,`prefab_id` INTEGER NOT NULL,`motion_type` INTEGER NOT NULL,`se_type` INTEGER NOT NULL,`move_speed` INTEGER NOT NULL,`search_area_width` INTEGER NOT NULL,`atk_type` INTEGER NOT NULL,`normal_atk_cast_time` REAL NOT NULL,`cutin` INTEGER NOT NULL,`visual_change_flag` INTEGER NOT NULL,`comment` TEXT NOT NULL,PRIMARY KEY(`unit_id`));
 INSERT INTO `unit_enemy_data` VALUES (200100,"ウキキー",200100,0,0,270,800,1,3.5,0,0,"【物理】遠距離攻撃\n大きな岩を投げて、遠くから\n攻撃してくるサルの魔物。");
 INSERT INTO `unit_enemy_data` VALUES (200200,"バルーンバード",200200,0,0,270,800,1,3,0,0,"【回復】範囲回復\nぷっくりお腹に溜めた魔力を、\n癒しの波動に変えるトリの魔物。");

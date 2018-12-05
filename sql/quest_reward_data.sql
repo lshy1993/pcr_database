@@ -1,4 +1,4 @@
-DROP TABLE quest_reward_data;
+DROP TABLE IF EXISTS quest_reward_data;
 CREATE TABLE IF NOT EXISTS `quest_reward_data` (`reward_group_id` INTEGER NOT NULL,`reward_type_1` INTEGER NOT NULL,`reward_id_1` INTEGER NOT NULL,`reward_num_1` INTEGER NOT NULL,`reward_type_2` INTEGER NOT NULL,`reward_id_2` INTEGER NOT NULL,`reward_num_2` INTEGER NOT NULL,`reward_type_3` INTEGER NOT NULL,`reward_id_3` INTEGER NOT NULL,`reward_num_3` INTEGER NOT NULL,`reward_type_4` INTEGER NOT NULL,`reward_id_4` INTEGER NOT NULL,`reward_num_4` INTEGER NOT NULL,`reward_type_5` INTEGER NOT NULL,`reward_id_5` INTEGER NOT NULL,`reward_num_5` INTEGER NOT NULL,PRIMARY KEY(`reward_group_id`));
 INSERT INTO `quest_reward_data` VALUES (110010011,4,101011,1,4,101281,1,0,0,0,0,0,0,0,0,0);
 INSERT INTO `quest_reward_data` VALUES (110010021,4,101251,1,4,101521,1,0,0,0,0,0,0,0,0,0);

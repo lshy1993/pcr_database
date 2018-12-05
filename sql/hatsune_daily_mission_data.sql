@@ -1,4 +1,4 @@
-DROP TABLE hatsune_daily_mission_data;
+DROP TABLE IF EXISTS hatsune_daily_mission_data;
 CREATE TABLE IF NOT EXISTS `hatsune_daily_mission_data` (`daily_mission_id` INTEGER NOT NULL,`disp_group` INTEGER NOT NULL,`category_icon` INTEGER NOT NULL,`description` TEXT NOT NULL,`mission_condition` INTEGER NOT NULL,`condition_value_1` INTEGER,`condition_value_2` INTEGER,`condition_value_3` INTEGER,`condition_num` INTEGER NOT NULL,`mission_reward_id` INTEGER NOT NULL,`system_id` INTEGER,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,PRIMARY KEY(`daily_mission_id`));
 INSERT INTO `hatsune_daily_mission_data` VALUES (61001001,101,601,"ジズに1回挑戦しよう（NORMAL、HARD共通） ",9012,0,0,0,1,61001001,6008,"2018/03/31 15:00:00","2018/04/24 14:59:59");
 INSERT INTO `hatsune_daily_mission_data` VALUES (61001002,102,601,"イベントクエストを10回クリアしよう",9004,0,0,0,10,61001002,6004,"2018/03/31 15:00:00","2018/04/24 14:59:59");

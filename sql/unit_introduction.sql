@@ -1,4 +1,4 @@
-DROP TABLE unit_introduction;
+DROP TABLE IF EXISTS unit_introduction;
 CREATE TABLE IF NOT EXISTS `unit_introduction` (`id` INTEGER NOT NULL,`gacha_id` INTEGER NOT NULL,`introduction_number` INTEGER NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,`maximum_chunk_size_1` INTEGER NOT NULL,`maximum_chunk_size_loop_1` INTEGER NOT NULL,`maximum_chunk_size_2` INTEGER NOT NULL,`maximum_chunk_size_loop_2` INTEGER NOT NULL,`maximum_chunk_size_3` INTEGER NOT NULL,`maximum_chunk_size_loop_3` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `unit_introduction` VALUES (1,30001,1,"2015/04/01 15:00:00","2018/02/28 14:59:59",380000,380000,0,0,0,0);
 INSERT INTO `unit_introduction` VALUES (2,30002,1,"2018/02/28 15:00:00","2018/03/15 14:59:59",380000,380000,0,0,0,0);

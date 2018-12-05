@@ -1,4 +1,4 @@
-DROP TABLE hatsune_description;
+DROP TABLE IF EXISTS hatsune_description;
 CREATE TABLE IF NOT EXISTS `hatsune_description` (`id` INTEGER NOT NULL,`event_id` INTEGER NOT NULL,`type` INTEGER NOT NULL,`description` TEXT NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `hatsune_description` VALUES (1,10001,1,"イベントでは、特別なストーリーを楽しめます。\nイベントストーリーは、イベントクエストを進めると解放されていきます。");
 INSERT INTO `hatsune_description` VALUES (2,10001,1,"イベントクエストを進めるとボスが登場します。\nボスには、ボスチケットを使うことで挑むことができます。\nボス撃破で、討伐証を大量にゲットできるので、思い切って挑戦しましょう。");

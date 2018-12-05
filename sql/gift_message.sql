@@ -1,4 +1,4 @@
-DROP TABLE gift_message;
+DROP TABLE IF EXISTS gift_message;
 CREATE TABLE IF NOT EXISTS `gift_message` (`id` INTEGER NOT NULL,`discription` TEXT NOT NULL,`type_1` INTEGER NOT NULL,`type_2` INTEGER NOT NULL,`type_3` INTEGER NOT NULL,`type_4` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `gift_message` VALUES (2001,"「{0}」{1}日目で獲得したアイテムです。",1,2,0,0);
 INSERT INTO `gift_message` VALUES (2002,"「{0}」で獲得したアイテムです。",3,0,0,0);

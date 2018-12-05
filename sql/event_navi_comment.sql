@@ -1,4 +1,4 @@
-DROP TABLE event_navi_comment;
+DROP TABLE IF EXISTS event_navi_comment;
 CREATE TABLE IF NOT EXISTS `event_navi_comment` (`comment_id` INTEGER NOT NULL,`where_type` INTEGER NOT NULL,`character_id` INTEGER NOT NULL,`face_type` INTEGER NOT NULL,`character_name` TEXT NOT NULL,`description` TEXT,`voice_id` INTEGER NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,`pos_x` REAL NOT NULL,`pos_y` REAL NOT NULL,`change_face_time` REAL NOT NULL,`change_face_type` INTEGER NOT NULL,`event_id` INTEGER NOT NULL,PRIMARY KEY(`comment_id`));
 INSERT INTO `event_navi_comment` VALUES (51001,51,108401,1,"チカ（クリスマス）","",101,"2018/11/30 12:00:00","2018/12/18 14:59:59",-285,8,3.18,2,10009);
 INSERT INTO `event_navi_comment` VALUES (51002,51,108501,4,"クルミ（クリスマス）","",201,"2018/11/30 12:00:00","2018/12/18 14:59:59",-285,8,0,4,10009);

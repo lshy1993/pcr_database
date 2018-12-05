@@ -1,4 +1,4 @@
-DROP TABLE story_character_mask;
+DROP TABLE IF EXISTS story_character_mask;
 CREATE TABLE IF NOT EXISTS `story_character_mask` (`chara_id` INTEGER NOT NULL,`offset` REAL NOT NULL,`size` REAL NOT NULL,`softness` REAL NOT NULL,PRIMARY KEY(`chara_id`));
 INSERT INTO `story_character_mask` VALUES (111,0,700,50);
 INSERT INTO `story_character_mask` VALUES (131,0,800,50);

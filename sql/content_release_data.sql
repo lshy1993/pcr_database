@@ -1,4 +1,4 @@
-DROP TABLE content_release_data;
+DROP TABLE IF EXISTS content_release_data;
 CREATE TABLE IF NOT EXISTS `content_release_data` (`system_id` INTEGER NOT NULL,`team_level` INTEGER NOT NULL,`story_id` INTEGER NOT NULL,`quest_id` INTEGER NOT NULL,`dialog` TEXT NOT NULL,PRIMARY KEY(`system_id`));
 INSERT INTO `content_release_data` VALUES (101,1,0,0,"");
 INSERT INTO `content_release_data` VALUES (102,1,0,11002008,"メインクエスト2-8（NORMAL）クリアで解放");

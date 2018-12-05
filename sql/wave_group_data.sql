@@ -1,4 +1,4 @@
-DROP TABLE wave_group_data;
+DROP TABLE IF EXISTS wave_group_data;
 CREATE TABLE IF NOT EXISTS `wave_group_data` (`id` INTEGER NOT NULL,`wave_group_id` INTEGER NOT NULL,`odds` INTEGER NOT NULL,`enemy_id_1` INTEGER NOT NULL,`drop_gold_1` INTEGER NOT NULL,`drop_reward_id_1` INTEGER NOT NULL,`enemy_id_2` INTEGER NOT NULL,`drop_gold_2` INTEGER NOT NULL,`drop_reward_id_2` INTEGER NOT NULL,`enemy_id_3` INTEGER NOT NULL,`drop_gold_3` INTEGER NOT NULL,`drop_reward_id_3` INTEGER NOT NULL,`enemy_id_4` INTEGER NOT NULL,`drop_gold_4` INTEGER NOT NULL,`drop_reward_id_4` INTEGER NOT NULL,`enemy_id_5` INTEGER NOT NULL,`drop_gold_5` INTEGER NOT NULL,`drop_reward_id_5` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `wave_group_data` VALUES (100000001,512000021,100,100000001,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO `wave_group_data` VALUES (100000002,512000022,100,100000001,0,0,100000001,0,0,100000002,0,0,0,0,0,0,0,0);

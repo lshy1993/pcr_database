@@ -1,4 +1,4 @@
-DROP TABLE music_content;
+DROP TABLE IF EXISTS music_content;
 CREATE TABLE IF NOT EXISTS `music_content` (`music_id` INTEGER NOT NULL,`name` TEXT NOT NULL,`total_playing_time` TEXT NOT NULL,`listen_start_time` TEXT NOT NULL,`detail` TEXT NOT NULL,`sheet_id` TEXT NOT NULL,`cue_id` TEXT NOT NULL,PRIMARY KEY(`music_id`));
 INSERT INTO `music_content` VALUES (1,"Lost Princess","01:33","00:58","キャラクターソング\n\n時間 / 01:33\n歌　 / ペコリーヌ（Ｍ・Ａ・Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n作詞 / しほり\n作曲 / 田中公平\n編曲 / 根岸貴幸","bgm_M152","bgm_M152");
 INSERT INTO `music_content` VALUES (2,"Connecting Happy!!","01:56","01:01","キャラクターソング\n\n時間 / 01:56\n歌　 / ペコリーヌ（Ｍ・Ａ・Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n作詞 / 畑亜貴\n作曲 / 高尾奏之介\n編曲 / 奈良悠樹","bgm_M153","bgm_M153");

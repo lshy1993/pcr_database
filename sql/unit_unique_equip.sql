@@ -1,4 +1,4 @@
-DROP TABLE unit_unique_equip;
+DROP TABLE IF EXISTS unit_unique_equip;
 CREATE TABLE IF NOT EXISTS `unit_unique_equip` (`unit_id` INTEGER NOT NULL,`equip_slot` INTEGER NOT NULL,`equip_id` INTEGER NOT NULL,PRIMARY KEY(`unit_id`));
 INSERT INTO `unit_unique_equip` VALUES (100101,1,130011);
 INSERT INTO `unit_unique_equip` VALUES (100201,1,130021);

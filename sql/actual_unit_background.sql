@@ -1,4 +1,4 @@
-DROP TABLE actual_unit_background;
+DROP TABLE IF EXISTS actual_unit_background;
 CREATE TABLE IF NOT EXISTS `actual_unit_background` (`unit_id` INTEGER NOT NULL,`unit_name` TEXT NOT NULL,`bg_id` INTEGER NOT NULL,`face_type` INTEGER NOT NULL,PRIMARY KEY(`unit_id`));
 INSERT INTO `actual_unit_background` VALUES (100131,"春咲 ひより",510100,4);
 INSERT INTO `actual_unit_background` VALUES (100231,"草野 優衣",510220,2);

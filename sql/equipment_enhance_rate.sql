@@ -1,4 +1,4 @@
-DROP TABLE equipment_enhance_rate;
+DROP TABLE IF EXISTS equipment_enhance_rate;
 CREATE TABLE IF NOT EXISTS `equipment_enhance_rate` (`equipment_id` INTEGER NOT NULL,`equipment_name` TEXT NOT NULL,`description` TEXT NOT NULL,`promotion_level` INTEGER NOT NULL,`hp` REAL NOT NULL,`atk` REAL NOT NULL,`magic_str` REAL NOT NULL,`def` REAL NOT NULL,`magic_def` REAL NOT NULL,`physical_critical` REAL NOT NULL,`magic_critical` REAL NOT NULL,`wave_hp_recovery` REAL NOT NULL,`wave_energy_recovery` REAL NOT NULL,`dodge` REAL NOT NULL,`physical_penetrate` REAL NOT NULL,`magic_penetrate` REAL NOT NULL,`life_steal` REAL NOT NULL,`hp_recovery_rate` REAL NOT NULL,`energy_recovery_rate` REAL NOT NULL,`energy_reduce_rate` REAL NOT NULL,`accuracy` REAL NOT NULL,PRIMARY KEY(`equipment_id`));
 INSERT INTO `equipment_enhance_rate` VALUES (101011,"アイアンブレード","剣",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO `equipment_enhance_rate` VALUES (101071,"キラーペンシル","短剣",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

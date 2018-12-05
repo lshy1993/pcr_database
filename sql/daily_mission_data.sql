@@ -1,4 +1,4 @@
-DROP TABLE daily_mission_data;
+DROP TABLE IF EXISTS daily_mission_data;
 CREATE TABLE IF NOT EXISTS `daily_mission_data` (`daily_mission_id` INTEGER NOT NULL,`disp_group` INTEGER NOT NULL,`category_icon` INTEGER NOT NULL,`description` TEXT NOT NULL,`mission_condition` INTEGER NOT NULL,`condition_value_1` INTEGER,`condition_value_2` INTEGER,`condition_value_3` INTEGER,`condition_num` INTEGER NOT NULL,`mission_reward_id` INTEGER NOT NULL,`system_id` INTEGER,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,PRIMARY KEY(`daily_mission_id`));
 INSERT INTO `daily_mission_data` VALUES (11001001,1,200,"メインまたはイベントクエストを10回クリアしよう",1008,0,0,0,10,11001001,101,"2015/04/01 15:00:00","2030/04/01 14:59:59");
 INSERT INTO `daily_mission_data` VALUES (11001002,1,200,"メインまたはイベントクエストを20回クリアしよう",1008,0,0,0,20,11001002,101,"2018/11/06 5:00:00","2030/04/01 14:59:59");

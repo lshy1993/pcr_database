@@ -1,4 +1,4 @@
-DROP TABLE mission_reward_data;
+DROP TABLE IF EXISTS mission_reward_data;
 CREATE TABLE IF NOT EXISTS `mission_reward_data` (`id` INTEGER NOT NULL,`mission_reward_id` INTEGER NOT NULL,`reward_type` INTEGER NOT NULL,`reward_id` INTEGER,`reward_num` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `mission_reward_data` VALUES (1,18001001,6,93001,100);
 INSERT INTO `mission_reward_data` VALUES (2,18001002,6,93001,100);

@@ -1,4 +1,4 @@
-DROP TABLE room_chat_info;
+DROP TABLE IF EXISTS room_chat_info;
 CREATE TABLE IF NOT EXISTS `room_chat_info` (`id` INTEGER NOT NULL,`formation_id` INTEGER NOT NULL,`scenario_id` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `room_chat_info` VALUES (1,2,1);
 INSERT INTO `room_chat_info` VALUES (2,1,2);

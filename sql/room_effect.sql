@@ -1,4 +1,4 @@
-DROP TABLE room_effect;
+DROP TABLE IF EXISTS room_effect;
 CREATE TABLE IF NOT EXISTS `room_effect` (`id` INTEGER NOT NULL,`reward_get` INTEGER NOT NULL,`jukebox` INTEGER NOT NULL,`nebbia` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `room_effect` VALUES (1,1,0,0);
 INSERT INTO `room_effect` VALUES (2,2,0,0);

@@ -1,4 +1,4 @@
-DROP TABLE unit_data;
+DROP TABLE IF EXISTS unit_data;
 CREATE TABLE IF NOT EXISTS `unit_data` (`unit_id` INTEGER NOT NULL,`unit_name` TEXT NOT NULL,`kana` TEXT NOT NULL,`prefab_id` INTEGER NOT NULL,`rarity` INTEGER NOT NULL,`motion_type` INTEGER NOT NULL,`se_type` INTEGER NOT NULL,`move_speed` INTEGER NOT NULL,`search_area_width` INTEGER NOT NULL,`atk_type` INTEGER NOT NULL,`normal_atk_cast_time` REAL NOT NULL,`cutin_1` INTEGER NOT NULL,`cutin_2` INTEGER NOT NULL,`guild_id` INTEGER NOT NULL,`exskill_display` INTEGER NOT NULL,`comment` TEXT NOT NULL,`only_disp_owned` INTEGER NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,PRIMARY KEY(`unit_id`));
 INSERT INTO `unit_data` VALUES (100101,"ヒヨリ","ひより",100101,1,1,1,450,200,1,2.295,100101,0,7,0,"【物理】前衛で、敵前線を押し返す笑顔の元気娘。\n前衛に対して大ダメージを与えるユニオンバーストと、\n自身の攻撃力を強化するスキルを持つ攻撃役。",0,"2015/04/01 15:00:00","2030/12/31 15:00:00");
 INSERT INTO `unit_data` VALUES (100201,"ユイ","ゆい",100201,1,7,7,450,800,2,2.27,100201,0,7,0,"【魔法】最後衛から、味方の回復と補助を行う魔法士。\n打たれ弱いが高い魔法攻撃力を持ち、ランクを上げると\n攻撃も補助もバランスよくこなせるようになる。",0,"2015/04/01 15:00:00","2030/12/31 15:00:00");

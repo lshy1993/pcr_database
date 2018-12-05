@@ -1,4 +1,4 @@
-DROP TABLE hatsune_schedule;
+DROP TABLE IF EXISTS hatsune_schedule;
 CREATE TABLE IF NOT EXISTS `hatsune_schedule` (`event_id` INTEGER NOT NULL,`teaser_time` TEXT NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,`close_time` TEXT NOT NULL,`background` INTEGER NOT NULL,`sheet_id` TEXT NOT NULL,`que_id` TEXT NOT NULL,`banner_unit_id` INTEGER NOT NULL,`count_start_time` TEXT NOT NULL,`backgroud_size_x` INTEGER NOT NULL,`backgroud_size_y` INTEGER NOT NULL,`backgroud_pos_x` INTEGER NOT NULL,`backgroud_pos_y` INTEGER NOT NULL,PRIMARY KEY(`event_id`));
 INSERT INTO `hatsune_schedule` VALUES (10001,"2018/03/26 15:00:00","2018/03/31 15:00:00","2018/04/19 15:00:00","2018/04/24 14:59:59",500213,"bgm_M32","bgm_M32",0,"2018/03/31 15:00:00",0,0,0,0);
 INSERT INTO `hatsune_schedule` VALUES (10002,"2018/04/26 15:00:00","2018/04/30 12:00:00","2018/05/21 14:59:59","2018/05/25 14:59:59",500193,"bgm_M98","bgm_M98",103601,"2018/03/31 15:00:00",0,0,0,0);

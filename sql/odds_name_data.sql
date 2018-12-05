@@ -1,4 +1,4 @@
-DROP TABLE odds_name_data;
+DROP TABLE IF EXISTS odds_name_data;
 CREATE TABLE IF NOT EXISTS `odds_name_data` (`id` INTEGER NOT NULL,`odds_file` TEXT NOT NULL,`name` TEXT NOT NULL,`icon_type` INTEGER NOT NULL,`description` TEXT NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `odds_name_data` VALUES (1,"box_rank_1-3","ランダム装備BOX",99002,"ランダムな装備が獲得できる。");
 INSERT INTO `odds_name_data` VALUES (2,"eq_rank_3-6","RANK3～6の装備アイテム",99002,"キャラのRANK1～4で必要となる装備アイテム");

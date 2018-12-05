@@ -1,4 +1,4 @@
-DROP TABLE stamp;
+DROP TABLE IF EXISTS stamp;
 CREATE TABLE IF NOT EXISTS `stamp` (`stamp_id` INTEGER NOT NULL,`disp_order` INTEGER NOT NULL,`description` TEXT NOT NULL,`start_date` TEXT NOT NULL,`end_date` TEXT NOT NULL,PRIMARY KEY(`stamp_id`));
 INSERT INTO `stamp` VALUES (100101,4,"がんばれー！","2015/04/01 14:00:00","2099/08/01 14:59:59");
 INSERT INTO `stamp` VALUES (100201,5,"ありがとう","2015/04/01 14:00:00","2099/08/01 14:59:59");

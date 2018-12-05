@@ -1,4 +1,4 @@
-DROP TABLE unit_mypage_pos;
+DROP TABLE IF EXISTS unit_mypage_pos;
 CREATE TABLE IF NOT EXISTS `unit_mypage_pos` (`id` INTEGER NOT NULL,`pos_x` REAL NOT NULL,`pos_y` REAL NOT NULL,`scale` REAL NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `unit_mypage_pos` VALUES (100101,-354,938,1.6);
 INSERT INTO `unit_mypage_pos` VALUES (100201,-499,952,1.6);

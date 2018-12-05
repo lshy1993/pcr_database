@@ -1,4 +1,4 @@
-DROP TABLE album_voice_list;
+DROP TABLE IF EXISTS album_voice_list;
 CREATE TABLE IF NOT EXISTS `album_voice_list` (`id` INTEGER NOT NULL,`unit_id` INTEGER NOT NULL,`sheet_id` TEXT NOT NULL,`voice_id` TEXT NOT NULL,`title` TEXT NOT NULL,`description` TEXT NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `album_voice_list` VALUES (10010101,100101,"vo_btl_100101","vo_btl_100101_win_001","勝利1","");
 INSERT INTO `album_voice_list` VALUES (10010102,100101,"vo_btl_100101","vo_btl_100101_win_002","勝利2","");

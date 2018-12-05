@@ -1,4 +1,4 @@
-DROP TABLE skill_cost;
+DROP TABLE IF EXISTS skill_cost;
 CREATE TABLE IF NOT EXISTS `skill_cost` (`target_level` INTEGER NOT NULL,`cost` INTEGER NOT NULL,PRIMARY KEY(`target_level`));
 INSERT INTO `skill_cost` VALUES (1,0);
 INSERT INTO `skill_cost` VALUES (2,240);

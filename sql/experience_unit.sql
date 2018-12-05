@@ -1,4 +1,4 @@
-DROP TABLE experience_unit;
+DROP TABLE IF EXISTS experience_unit;
 CREATE TABLE IF NOT EXISTS `experience_unit` (`unit_level` INTEGER NOT NULL,`total_exp` INTEGER NOT NULL,PRIMARY KEY(`unit_level`));
 INSERT INTO `experience_unit` VALUES (1,0);
 INSERT INTO `experience_unit` VALUES (2,24);

@@ -1,4 +1,4 @@
-DROP TABLE hatsune_unlock_story_condition;
+DROP TABLE IF EXISTS hatsune_unlock_story_condition;
 CREATE TABLE IF NOT EXISTS `hatsune_unlock_story_condition` (`story_id` INTEGER NOT NULL,`event_id` INTEGER NOT NULL,`condition_entry` INTEGER NOT NULL,`condition_quest_id` INTEGER NOT NULL,`condition_boss_id` INTEGER NOT NULL,`condition_mission_id` INTEGER NOT NULL,`condition_time` TEXT NOT NULL,PRIMARY KEY(`story_id`));
 INSERT INTO `hatsune_unlock_story_condition` VALUES (5001000,10001,1,0,0,0,"0");
 INSERT INTO `hatsune_unlock_story_condition` VALUES (5001001,10001,0,10001103,0,0,"0");

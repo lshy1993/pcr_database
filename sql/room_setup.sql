@@ -1,4 +1,4 @@
-DROP TABLE room_setup;
+DROP TABLE IF EXISTS room_setup;
 CREATE TABLE IF NOT EXISTS `room_setup` (`room_item_id` INTEGER NOT NULL,`grid_height` INTEGER NOT NULL,`grid_width` INTEGER NOT NULL,`unit_id` INTEGER NOT NULL,PRIMARY KEY(`room_item_id`));
 INSERT INTO `room_setup` VALUES (1,2,3,190801);
 INSERT INTO `room_setup` VALUES (7,1,1,0);

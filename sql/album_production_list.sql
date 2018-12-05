@@ -1,4 +1,4 @@
-DROP TABLE album_production_list;
+DROP TABLE IF EXISTS album_production_list;
 CREATE TABLE IF NOT EXISTS `album_production_list` (`id` INTEGER NOT NULL,`unit_id` INTEGER NOT NULL,`type` INTEGER NOT NULL,`title` TEXT NOT NULL,`description` TEXT NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `album_production_list` VALUES (10010101,100101,201,"解放演出1","");
 INSERT INTO `album_production_list` VALUES (10010102,100101,101,"絆ランク演出1","");

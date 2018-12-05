@@ -1,4 +1,4 @@
-DROP TABLE unlock_skill_data;
+DROP TABLE IF EXISTS unlock_skill_data;
 CREATE TABLE IF NOT EXISTS `unlock_skill_data` (`promotion_level` INTEGER NOT NULL,`unlock_skill` INTEGER NOT NULL,PRIMARY KEY(`unlock_skill`));
 INSERT INTO `unlock_skill_data` VALUES (1,101);
 INSERT INTO `unlock_skill_data` VALUES (2,201);

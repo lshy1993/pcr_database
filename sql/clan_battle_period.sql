@@ -1,4 +1,4 @@
-DROP TABLE clan_battle_period;
+DROP TABLE IF EXISTS clan_battle_period;
 CREATE TABLE IF NOT EXISTS `clan_battle_period` (`clan_battle_id` INTEGER NOT NULL,`period` INTEGER NOT NULL,`period_detail` TEXT NOT NULL,`period_detail_bg` INTEGER NOT NULL,`period_detail_bg_position` INTEGER NOT NULL,`period_detail_boss_position_x` INTEGER NOT NULL,`period_detail_boss_position_y` INTEGER NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,`interval_start` TEXT NOT NULL,`interval_end` TEXT NOT NULL,`calc_start` TEXT NOT NULL,`result_start` TEXT NOT NULL,`result_end` TEXT NOT NULL,PRIMARY KEY(`period`));
 INSERT INTO `clan_battle_period` VALUES (1001,1,"クランバトル開始！クランメンバーと協力して\nモンスターを討伐しよう！",101011,0,0,0,"2018/03/21 5:00:00","2018/03/31 23:59:59","2018/04/01","2018/04/20 4:59:59","2018/04/01","2018/04/05 17:00:00","2018/04/20 4:59:59");
 INSERT INTO `clan_battle_period` VALUES (1002,1,"クランメンバーと協力して\n強力なモンスターを討伐しよう！",101021,0,0,0,"2018/04/20 5:00:00","2018/04/30 23:59:59","2018/05/01","2018/05/22 4:59:59","2018/05/01","2018/05/02 17:00:00","2018/05/22 4:59:59");

@@ -1,4 +1,4 @@
-DROP TABLE quest_defeat_notice;
+DROP TABLE IF EXISTS quest_defeat_notice;
 CREATE TABLE IF NOT EXISTS `quest_defeat_notice` (`id` INTEGER NOT NULL,`image_id` INTEGER NOT NULL,`required_team_level` INTEGER NOT NULL,`required_quest_id` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `quest_defeat_notice` VALUES (1,11,-1,-1);
 INSERT INTO `quest_defeat_notice` VALUES (2,12,-1,-1);

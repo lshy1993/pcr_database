@@ -1,4 +1,4 @@
-DROP TABLE gacha_data;
+DROP TABLE IF EXISTS gacha_data;
 CREATE TABLE IF NOT EXISTS `gacha_data` (`gacha_id` INTEGER NOT NULL,`gacha_name` TEXT NOT NULL,`description` TEXT NOT NULL,`gacha_detail` INTEGER NOT NULL,`gacha_cost_type` INTEGER NOT NULL,`price` INTEGER NOT NULL,`free_gacha_type` INTEGER NOT NULL,`free_gacha_interval_time` INTEGER NOT NULL,`free_gacha_count` INTEGER NOT NULL,`discount_price` INTEGER NOT NULL,`gacha_odds` TEXT NOT NULL,`gacha_odds_star2` TEXT NOT NULL,`gacha_type` INTEGER NOT NULL,`movie_id` INTEGER NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,`ticket_id` INTEGER NOT NULL,`special_id` INTEGER NOT NULL,PRIMARY KEY(`gacha_id`));
 INSERT INTO `gacha_data` VALUES (10001,"ノーマルガチャ","アイテムやメモリーピースをGET！",1,3,0,1,0,10,0,"10001","",0,0,"2015/04/01 15:00:00","2018/02/28 14:59:59",0,0);
 INSERT INTO `gacha_data` VALUES (10002,"ノーマルガチャ","アイテムやメモリーピースをGET！",1,3,0,1,0,10,0,"10002","",0,0,"2018/02/28 15:00:00","2018/03/15 14:59:59",0,0);

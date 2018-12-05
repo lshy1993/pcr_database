@@ -1,4 +1,4 @@
-DROP TABLE skip_monster_data;
+DROP TABLE IF EXISTS skip_monster_data;
 CREATE TABLE IF NOT EXISTS `skip_monster_data` (`quest_id` INTEGER NOT NULL,`area_id` INTEGER NOT NULL,`quest_name` TEXT NOT NULL,`wave_group_id_1` INTEGER NOT NULL,`bg_skip_id` INTEGER NOT NULL,PRIMARY KEY(`quest_id`));
 INSERT INTO `skip_monster_data` VALUES (10001101,10001101,"イベント01ノーマル 1-1",101020403,100011);
 INSERT INTO `skip_monster_data` VALUES (10001102,10001101,"イベント01ノーマル 1-2",101010103,100011);

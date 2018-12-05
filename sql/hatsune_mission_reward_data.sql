@@ -1,4 +1,4 @@
-DROP TABLE hatsune_mission_reward_data;
+DROP TABLE IF EXISTS hatsune_mission_reward_data;
 CREATE TABLE IF NOT EXISTS `hatsune_mission_reward_data` (`id` INTEGER NOT NULL,`mission_reward_id` INTEGER NOT NULL,`reward_type` INTEGER NOT NULL,`reward_id` INTEGER,`reward_num` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `hatsune_mission_reward_data` VALUES (1,61001001,2,60002,5);
 INSERT INTO `hatsune_mission_reward_data` VALUES (2,61001002,2,60002,5);

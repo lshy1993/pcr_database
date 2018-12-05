@@ -129,36 +129,6 @@
     "description": "えへへ…\\n騎士くんの手だ…\\nあったかいな…♪",
     "insert_word_type": 0
 }{
-    "id": 14,
-    "unit_id": 100101,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよー！\\n今日も元気に\\nいっちゃうよー！",
-    "insert_word_type": 0
-}{
-    "id": 15,
-    "unit_id": 100101,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ユイちゃんに\\nおやつ作って\\nもらおうかな～♪",
-    "insert_word_type": 0
-}{
-    "id": 16,
-    "unit_id": 100101,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "寝るのも修行だって\\nこないだレイさんが\\n言ってたんだ…",
-    "insert_word_type": 0
-}{
     "id": 17,
     "unit_id": 100101,
     "trigger": 3,
@@ -367,36 +337,6 @@
     "time": 0,
     "face_id": 1,
     "description": "えへへ…\\n騎士くんの手だ…\\nあったかいな…♪",
-    "insert_word_type": 0
-}{
-    "id": 39,
-    "unit_id": 100102,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝ごはんと運動！\\nこれがあたしの\\n元気の素だよ！",
-    "insert_word_type": 0
-}{
-    "id": 40,
-    "unit_id": 100102,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ユイちゃんに\\nおやつ作って\\nもらおうかな～♪",
-    "insert_word_type": 0
-}{
-    "id": 41,
-    "unit_id": 100102,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "寝るのも修行だって\\nこないだレイさんが\\n言ってたんだ…",
     "insert_word_type": 0
 }{
     "id": 42,
@@ -609,36 +549,6 @@
     "description": "騎士クンに\\n伝えたいことがあるの\\nとっても大切な…\\nこ、今度、話すね！",
     "insert_word_type": 0
 }{
-    "id": 64,
-    "unit_id": 100201,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "お、おはよう！\\nあの…朝ごはんは\\nもう食べちゃった？",
-    "insert_word_type": 0
-}{
-    "id": 65,
-    "unit_id": 100201,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼休みだね\\nあの…良かったら\\nお弁当…食べない？",
-    "insert_word_type": 0
-}{
-    "id": 66,
-    "unit_id": 100201,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "遅くまでお疲れ様\\n明日も頑張ろうね\\nふわぁ…",
-    "insert_word_type": 0
-}{
     "id": 67,
     "unit_id": 100201,
     "trigger": 3,
@@ -847,36 +757,6 @@
     "time": 0,
     "face_id": 1,
     "description": "ふふふっ…そんなとこ\\nツンツンしないで\\nくすぐったいよ～",
-    "insert_word_type": 0
-}{
-    "id": 89,
-    "unit_id": 100202,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう\\nよく眠れた？　今日も\\n一日、頑張ろうね♪",
-    "insert_word_type": 0
-}{
-    "id": 90,
-    "unit_id": 100202,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お腹空いちゃった…\\nそうだ。騎士クンも\\n一緒にお昼食べない？",
-    "insert_word_type": 0
-}{
-    "id": 91,
-    "unit_id": 100202,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "もうこんな時間…\\nそろそろ寝なくちゃ\\nおやすみなさい",
     "insert_word_type": 0
 }{
     "id": 92,
@@ -1089,36 +969,6 @@
     "description": "キミにはこれからも\\n私のそばに…\\nいや、なんでもない",
     "insert_word_type": 0
 }{
-    "id": 114,
-    "unit_id": 100301,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう\\n今日も充実した\\n一日にしていこう",
-    "insert_word_type": 0
-}{
-    "id": 115,
-    "unit_id": 100301,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "そろそろ\\nお茶の時間か\\nキミも一緒にどう？",
-    "insert_word_type": 0
-}{
-    "id": 116,
-    "unit_id": 100301,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "遅くまで大変だね\\nまだ仕事があるなら\\n手伝おうか？",
-    "insert_word_type": 0
-}{
     "id": 117,
     "unit_id": 100301,
     "trigger": 3,
@@ -1327,36 +1177,6 @@
     "time": 0,
     "face_id": 1,
     "description": "キミにはこれからも\\n私のそばに…\\nいや、なんでもない",
-    "insert_word_type": 0
-}{
-    "id": 139,
-    "unit_id": 100302,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "今日は仕事？\\nそれとも修行？\\n良ければ付き合うよ",
-    "insert_word_type": 0
-}{
-    "id": 140,
-    "unit_id": 100302,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "休息も時には\\n必要だと、仲間から\\n教わったよ",
-    "insert_word_type": 0
-}{
-    "id": 141,
-    "unit_id": 100302,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "遅くまで大変だね\\nまだ仕事があるなら\\n手伝おうか？",
     "insert_word_type": 0
 }{
     "id": 142,
@@ -1569,36 +1389,6 @@
     "description": "だ～れだ…って？\\nにいちゃんの声くらい\\nわかるよ！\\n大好きだもん♪",
     "insert_word_type": 0
 }{
-    "id": 164,
-    "unit_id": 100401,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "にいちゃん、おはよ！\\n目覚まし時計を\\n止めておいたのに、\\nよく起きられたね～♪",
-    "insert_word_type": 0
-}{
-    "id": 165,
-    "unit_id": 100401,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "にいちゃんが\\n昼寝したら、\\nイタズラし放題♪",
-    "insert_word_type": 0
-}{
-    "id": 166,
-    "unit_id": 100401,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜の探検も\\nおもしろそう！\\nねぇ出かけちゃダメ？",
-    "insert_word_type": 0
-}{
     "id": 167,
     "unit_id": 100401,
     "trigger": 3,
@@ -1807,36 +1597,6 @@
     "time": 0,
     "face_id": 1,
     "description": "ここ、ミソギ探検隊の\\n基地にしようよ！",
-    "insert_word_type": 0
-}{
-    "id": 189,
-    "unit_id": 100402,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "にいちゃん\\n探検に行こうよ！\\n今からなら遭難しても\\n夜には帰れるよ！",
-    "insert_word_type": 0
-}{
-    "id": 190,
-    "unit_id": 100402,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "にいちゃんが昼寝したら\\nイタズラし放題♪",
-    "insert_word_type": 0
-}{
-    "id": 191,
-    "unit_id": 100402,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜の探検も\\nおもしろそう！\\nねぇ出かけちゃダメ？",
     "insert_word_type": 0
 }{
     "id": 192,
@@ -2049,36 +1809,6 @@
     "description": "コーチ、\\n今日も特訓\\nお願いします！",
     "insert_word_type": 0
 }{
-    "id": 214,
-    "unit_id": 100601,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます\\n昨夜は楽しかった\\nですね、うふふ♪",
-    "insert_word_type": 0
-}{
-    "id": 215,
-    "unit_id": 100601,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "こんな明るい時間から\\nす、するんですか…\\n二人っきりの特訓…",
-    "insert_word_type": 0
-}{
-    "id": 216,
-    "unit_id": 100601,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜はこれからですよ\\nお兄ちゃん♪",
-    "insert_word_type": 0
-}{
     "id": 217,
     "unit_id": 100601,
     "trigger": 3,
@@ -2287,36 +2017,6 @@
     "time": 0,
     "face_id": 1,
     "description": "コーチ、\\n今日も特訓\\nお願いします！",
-    "insert_word_type": 0
-}{
-    "id": 239,
-    "unit_id": 100602,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます\\n昨夜は楽しかった\\nですね、うふふ♪",
-    "insert_word_type": 0
-}{
-    "id": 240,
-    "unit_id": 100602,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お兄ちゃんに\\n食べてもらいたいなぁ\\n手作りのお昼ごはん",
-    "insert_word_type": 0
-}{
-    "id": 241,
-    "unit_id": 100602,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "お風呂入ってきますね\\nそのあとは…\\n二人でい～っぱい\\n遊びましょうね",
     "insert_word_type": 0
 }{
     "id": 242,
@@ -2529,36 +2229,6 @@
     "description": "オマエのこと\\n気に入ったからずっと\\nとり憑いてやるの～",
     "insert_word_type": 0
 }{
-    "id": 264,
-    "unit_id": 100701,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "う～　眠いの…\\n二度目の二度寝を\\nするの…",
-    "insert_word_type": 0
-}{
-    "id": 265,
-    "unit_id": 100701,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼ご飯はプリンなの\\n３時のおやつも、\\nプリンなの～",
-    "insert_word_type": 0
-}{
-    "id": 266,
-    "unit_id": 100701,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ディナーは豪華に、\\nプリンのフルコース\\nなの～♪",
-    "insert_word_type": 0
-}{
     "id": 267,
     "unit_id": 100701,
     "trigger": 3,
@@ -2767,36 +2437,6 @@
     "time": 0,
     "face_id": 1,
     "description": "ミヤコのプリン\\nオマエにだったら\\n分けてあげるの～ ",
-    "insert_word_type": 0
-}{
-    "id": 289,
-    "unit_id": 100702,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "う～　眠いの…\\n二度目の二度寝を\\nするの… ",
-    "insert_word_type": 0
-}{
-    "id": 290,
-    "unit_id": 100702,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "う～ら～め～し～や～\\n…明るい時間だと\\n驚かせないの～ ",
-    "insert_word_type": 0
-}{
-    "id": 291,
-    "unit_id": 100702,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ひゅ～どろどろ～ん☆\\n真っ暗なうちに\\nいたずらしまくるの～♪",
     "insert_word_type": 0
 }{
     "id": 292,
@@ -3009,36 +2649,6 @@
     "description": "美しい…\\nキミの瞳に写るボクは\\nより一層綺麗だ",
     "insert_word_type": 0
 }{
-    "id": 314,
-    "unit_id": 100801,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "美しいボクの\\n美しい一日が\\n始まるよ！",
-    "insert_word_type": 0
-}{
-    "id": 315,
-    "unit_id": 100801,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "さーて、午後からも\\n可愛く美しく\\n華麗に優雅に♪",
-    "insert_word_type": 0
-}{
-    "id": 316,
-    "unit_id": 100801,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "バラの花びら\\nいっぱい浮かべた\\nお風呂に入ってから\\n寝ようっと♪",
-    "insert_word_type": 0
-}{
     "id": 317,
     "unit_id": 100801,
     "trigger": 3,
@@ -3247,36 +2857,6 @@
     "time": 0,
     "face_id": 1,
     "description": "美しい…\\nキミの瞳に写るボクは\\nより一層綺麗だ",
-    "insert_word_type": 0
-}{
-    "id": 339,
-    "unit_id": 100802,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝日と共に\\nボクの美しさも\\n周りを照らすよ",
-    "insert_word_type": 0
-}{
-    "id": 340,
-    "unit_id": 100802,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ボクの美しさを\\n維持するために\\nお昼ご飯食べなくちゃ",
-    "insert_word_type": 0
-}{
-    "id": 341,
-    "unit_id": 100802,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "バラの花びらいっぱい\\n浮かべたお風呂に\\n入ってから\\n寝ようっと♪",
     "insert_word_type": 0
 }{
     "id": 342,
@@ -3489,36 +3069,6 @@
     "description": "い、いきなり目の前に\\n現れるな！　ドキドキ\\nするだろうがぁ！",
     "insert_word_type": 0
 }{
-    "id": 364,
-    "unit_id": 100901,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "「覚醒」めたか…\\n行くぞ、悪を討つ\\n戦いに出発だ！",
-    "insert_word_type": 0
-}{
-    "id": 365,
-    "unit_id": 100901,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "昼間は「ヤツら」も\\n襲ってはこない…\\n束の間の休息だ",
-    "insert_word_type": 0
-}{
-    "id": 366,
-    "unit_id": 100901,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "どうした？　夜はまだ\\nこれから…ふぁ…\\nね、眠くなどないぞ！",
-    "insert_word_type": 0
-}{
     "id": 367,
     "unit_id": 100901,
     "trigger": 3,
@@ -3727,36 +3277,6 @@
     "time": 0,
     "face_id": 1,
     "description": "い、いきなり目の前に\\n現れるな！　ドキドキ\\nするだろうがぁ！",
-    "insert_word_type": 0
-}{
-    "id": 389,
-    "unit_id": 100902,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 8,
-    "time": 1,
-    "face_id": 1,
-    "description": "夜更かしのせいか\\nまだ眠気が…いや！\\nこれは組織の罠だ！",
-    "insert_word_type": 0
-}{
-    "id": 390,
-    "unit_id": 100902,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "平穏な時に\\n出来るだけ魔力を\\n溜めておかねば…",
-    "insert_word_type": 0
-}{
-    "id": 391,
-    "unit_id": 100902,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜になると、力が\\n増した気分になるな\\n…なりませんか？",
     "insert_word_type": 0
 }{
     "id": 392,
@@ -3969,36 +3489,6 @@
     "description": "うちがもし悪い魔法に\\nかかったら、王子はん\\n口づけしてくれはる？",
     "insert_word_type": 0
 }{
-    "id": 414,
-    "unit_id": 101001,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝は小鳥はんも\\nおなかがすいてるから\\nよう飛び回りはるねえ",
-    "insert_word_type": 0
-}{
-    "id": 415,
-    "unit_id": 101001,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お茶請けはお大福が\\nよろしおすけど\\nクッキーもええなあ",
-    "insert_word_type": 0
-}{
-    "id": 416,
-    "unit_id": 101001,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "うち、普段から\\n夢見がちやけど…\\nほんに眠い時間やわぁ",
-    "insert_word_type": 0
-}{
     "id": 417,
     "unit_id": 101001,
     "trigger": 3,
@@ -4207,36 +3697,6 @@
     "time": 0,
     "face_id": 1,
     "description": "うちら並んでたら\\nお雛様みたいに\\n見えると思いまへん？",
-    "insert_word_type": 0
-}{
-    "id": 439,
-    "unit_id": 101002,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝は小鳥はんも\\nおなかがすいてるから\\nよう飛び回りはるねえ",
-    "insert_word_type": 0
-}{
-    "id": 440,
-    "unit_id": 101002,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "マホマホ王国では\\nこの時分は\\nみんなお昼寝\\nしてたんよ",
-    "insert_word_type": 0
-}{
-    "id": 441,
-    "unit_id": 101002,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜に飛んだり鳴いたり\\nする鳥はんもおるんよ\\n昼は寝てはるんかねぇ",
     "insert_word_type": 0
 }{
     "id": 442,
@@ -4449,36 +3909,6 @@
     "description": "ねぇねぇお兄ちゃん！\\n…えへへ、\\n呼んでみただけ♪",
     "insert_word_type": 0
 }{
-    "id": 464,
-    "unit_id": 101101,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "今日も１日\\n勉強がんばります！\\n…少しは遊ぼうかな",
-    "insert_word_type": 0
-}{
-    "id": 465,
-    "unit_id": 101101,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼休憩に\\n甘いものが\\n食べたいです～",
-    "insert_word_type": 0
-}{
-    "id": 466,
-    "unit_id": 101101,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ねむいです～\\nでももうちょっと\\n勉強しないと～…",
-    "insert_word_type": 0
-}{
     "id": 467,
     "unit_id": 101101,
     "trigger": 3,
@@ -4687,36 +4117,6 @@
     "time": 0,
     "face_id": 1,
     "description": "な、ナデナデとか\\n恥ずかしいな～",
-    "insert_word_type": 0
-}{
-    "id": 489,
-    "unit_id": 101102,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "今日も１日\\n勉強がんばります！\\n…少しは遊ぼうかな",
-    "insert_word_type": 0
-}{
-    "id": 490,
-    "unit_id": 101102,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼休憩に\\n甘いものが\\n食べたいです～",
-    "insert_word_type": 0
-}{
-    "id": 491,
-    "unit_id": 101102,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "お兄ちゃんは\\n夜強いんですね\\n私は眠くて…",
     "insert_word_type": 0
 }{
     "id": 492,
@@ -4929,36 +4329,6 @@
     "description": "えっ？　私とキミとの\\n相性？　むむ～…\\nうん、バッチリだよ☆",
     "insert_word_type": 0
 }{
-    "id": 514,
-    "unit_id": 101201,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "まだこんな時間？\\nベッドに行って、\\n二度寝しなくちゃ～",
-    "insert_word_type": 0
-}{
-    "id": 515,
-    "unit_id": 101201,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "適度なお昼寝は\\n健康にいいんだって！\\n８時間くらいかな？",
-    "insert_word_type": 0
-}{
-    "id": 516,
-    "unit_id": 101201,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "どんなにお昼寝しても\\n夜は眠いんだ～",
-    "insert_word_type": 0
-}{
     "id": 517,
     "unit_id": 101201,
     "trigger": 3,
@@ -5167,36 +4537,6 @@
     "time": 0,
     "face_id": 1,
     "description": "う～だんだん眠く…\\nねぇ一緒に寝よ？",
-    "insert_word_type": 0
-}{
-    "id": 539,
-    "unit_id": 101202,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "キミって早起きだね！\\n私は寝ようかな～",
-    "insert_word_type": 0
-}{
-    "id": 540,
-    "unit_id": 101202,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "適度なお昼寝は\\n健康にいいんだって！\\n８時間くらいかな？",
-    "insert_word_type": 0
-}{
-    "id": 541,
-    "unit_id": 101202,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "どんなにお昼寝しても\\n夜は眠いんだ～",
     "insert_word_type": 0
 }{
     "id": 542,
@@ -5409,36 +4749,6 @@
     "description": "ヒデサイと会ってると\\n顔熱くなるんだよね\\n熱なんかないのに…",
     "insert_word_type": 0
 }{
-    "id": 564,
-    "unit_id": 101601,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "早起きとか\\nつらたんだよねー\\n昼すぎまで寝てたい",
-    "insert_word_type": 0
-}{
-    "id": 565,
-    "unit_id": 101601,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "撮影にむけて\\nダイエットちうだから\\nお昼ぬいてるんだー",
-    "insert_word_type": 0
-}{
-    "id": 566,
-    "unit_id": 101601,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "お腹すいたー\\nでもこの時間に\\n食べたら絶対に\\n太るやつだよねー",
-    "insert_word_type": 0
-}{
     "id": 567,
     "unit_id": 101601,
     "trigger": 3,
@@ -5647,36 +4957,6 @@
     "time": 0,
     "face_id": 1,
     "description": "好きなことして\\nヒデサイもいて\\nうちって超～\\nリア充だよね♪",
-    "insert_word_type": 0
-}{
-    "id": 589,
-    "unit_id": 101602,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "今日は早起き\\nできたんだー\\nメイクもばっち\\nきまってるっしょ？",
-    "insert_word_type": 0
-}{
-    "id": 590,
-    "unit_id": 101602,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "撮影にむけて\\nダイエットちうだから\\nお昼ぬいてるんだー",
-    "insert_word_type": 0
-}{
-    "id": 591,
-    "unit_id": 101602,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "お腹すいたー\\nでもこの時間に\\n食べたら絶対に\\n太るやつだよねー",
     "insert_word_type": 0
 }{
     "id": 592,
@@ -5889,36 +5169,6 @@
     "description": "キミと一緒だから、\\n毎日楽しいこと\\nばっかりさー",
     "insert_word_type": 0
 }{
-    "id": 614,
-    "unit_id": 101701,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "ハイターイ！\\n今日も一日、\\nがんばるさー！",
-    "insert_word_type": 0
-}{
-    "id": 615,
-    "unit_id": 101701,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "午後も頑張るために\\nお昼ご飯は\\nてびちにするさー！",
-    "insert_word_type": 0
-}{
-    "id": 616,
-    "unit_id": 101701,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "故郷では見えない星が\\n見られるんだねえ。\\nなんか不思議さぁ",
-    "insert_word_type": 0
-}{
     "id": 617,
     "unit_id": 101701,
     "trigger": 3,
@@ -6127,36 +5377,6 @@
     "time": 0,
     "face_id": 1,
     "description": "海に沈む夕日は\\nとっても綺麗さ～！\\n今度一緒に見ようね～ ",
-    "insert_word_type": 0
-}{
-    "id": 639,
-    "unit_id": 101702,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "気持ちのいい朝さー！\\nひとっ走り\\nしてくるさー！",
-    "insert_word_type": 0
-}{
-    "id": 640,
-    "unit_id": 101702,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "午後も頑張るために\\nお昼ご飯は\\nてびちにするさー！ ",
-    "insert_word_type": 0
-}{
-    "id": 641,
-    "unit_id": 101702,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "故郷では見えない星が\\n見られるんだねえ\\nなんか不思議さぁ ",
     "insert_word_type": 0
 }{
     "id": 642,
@@ -6369,36 +5589,6 @@
     "description": "生徒は全員可愛いけど\\n君は少し特別…\\nみんなには内緒よ？",
     "insert_word_type": 0
 }{
-    "id": 664,
-    "unit_id": 101801,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "学校に\\n遅刻しないように\\n早く準備しないとね",
-    "insert_word_type": 0
-}{
-    "id": 665,
-    "unit_id": 101801,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "男の子といっしょに\\nお弁当を食べるの、\\n夢なんだ～",
-    "insert_word_type": 0
-}{
-    "id": 666,
-    "unit_id": 101801,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "明日の予習はやった？\\n先生も手伝うから\\n寝る前にやりましょ♪",
-    "insert_word_type": 0
-}{
     "id": 667,
     "unit_id": 101801,
     "trigger": 3,
@@ -6607,36 +5797,6 @@
     "time": 0,
     "face_id": 1,
     "description": "テストがんばったね～\\nご褒美に先生が\\n特別な授業\\nしてあげるね？",
-    "insert_word_type": 0
-}{
-    "id": 689,
-    "unit_id": 101802,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝の特別授業\\nしてあげましょうか？",
-    "insert_word_type": 0
-}{
-    "id": 690,
-    "unit_id": 101802,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "午後の授業って\\n眠いでしょう？\\n気持ちは分かるけど\\nがんばってね♪",
-    "insert_word_type": 0
-}{
-    "id": 691,
-    "unit_id": 101802,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "明日の予習はやった？\\n先生も手伝うから\\n寝る前にやりましょ♪",
     "insert_word_type": 0
 }{
     "id": 692,
@@ -6849,36 +6009,6 @@
     "description": "あのねあのね、\\nミミの頭ポンポンって\\nしてほしいな",
     "insert_word_type": 0
 }{
-    "id": 714,
-    "unit_id": 102001,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おひさまさん、\\nおはよ～！\\n毎朝、早おきだね～",
-    "insert_word_type": 0
-}{
-    "id": 715,
-    "unit_id": 102001,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "うわぁ！\\nお日さまがすごーく\\n高いところにある～",
-    "insert_word_type": 0
-}{
-    "id": 716,
-    "unit_id": 102001,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "おにいちゃん\\nおやすみのご本\\nよんで～",
-    "insert_word_type": 0
-}{
     "id": 717,
     "unit_id": 102001,
     "trigger": 3,
@@ -7087,36 +6217,6 @@
     "time": 0,
     "face_id": 1,
     "description": "わぁい♪\\nおにいちゃんの\\nなでなで\\nうれし～な♪",
-    "insert_word_type": 0
-}{
-    "id": 739,
-    "unit_id": 102002,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おひさまさん\\nおはよ～！\\n毎朝、早おきだね～",
-    "insert_word_type": 0
-}{
-    "id": 740,
-    "unit_id": 102002,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼寝お昼寝～♪\\nおにいちゃんと一緒に\\nお昼寝～♪",
-    "insert_word_type": 0
-}{
-    "id": 741,
-    "unit_id": 102002,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "眠くなっちゃった～\\nおにいちゃん！\\n今日は一緒に寝よ～",
     "insert_word_type": 0
 }{
     "id": 742,
@@ -7329,36 +6429,6 @@
     "description": "お兄ちゃん…♪\\nえへへ、呼んでみた\\nだけです…♪",
     "insert_word_type": 0
 }{
-    "id": 764,
-    "unit_id": 102101,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "今日は一日、\\n恥ずかしがらずに\\n過ごせるかなあ…？",
-    "insert_word_type": 0
-}{
-    "id": 765,
-    "unit_id": 102101,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼ご飯、どうぞ♪\\nわ、私、お料理、\\nうまくなったかな？",
-    "insert_word_type": 0
-}{
-    "id": 766,
-    "unit_id": 102101,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "おにいちゃんが\\n帰ってくるまで、\\nがんばって\\n起きてました",
-    "insert_word_type": 0
-}{
     "id": 767,
     "unit_id": 102101,
     "trigger": 3,
@@ -7567,36 +6637,6 @@
     "time": 0,
     "face_id": 1,
     "description": "お兄ちゃん…♪\\nえへへ、呼んでみた\\nだけです…♪",
-    "insert_word_type": 0
-}{
-    "id": 789,
-    "unit_id": 102102,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます♪\\n声出しして、お芝居の\\n練習しなくちゃ",
-    "insert_word_type": 0
-}{
-    "id": 790,
-    "unit_id": 102102,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お茶にしますか？\\nクッキー焼いたので、\\nよかったら…",
-    "insert_word_type": 0
-}{
-    "id": 791,
-    "unit_id": 102102,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "寝る前に\\n台本を読むと、\\n覚えやすいんです",
     "insert_word_type": 0
 }{
     "id": 792,
@@ -7809,36 +6849,6 @@
     "description": "アンタと…そ、その\\nこうして話してるのも\\nわわ、悪くないわね！",
     "insert_word_type": 0
 }{
-    "id": 814,
-    "unit_id": 102201,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おおおおはよう！\\n…よし！　ちゃんと\\nあいさつできたわ！",
-    "insert_word_type": 0
-}{
-    "id": 815,
-    "unit_id": 102201,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "一緒にごはんとか…\\nううん、やっぱいい！\\nなんでもないからっ！",
-    "insert_word_type": 0
-}{
-    "id": 816,
-    "unit_id": 102201,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜はこれからよ！\\n朝まで\\nゲームするからね！",
-    "insert_word_type": 0
-}{
     "id": 817,
     "unit_id": 102201,
     "trigger": 3,
@@ -8047,36 +7057,6 @@
     "time": 0,
     "face_id": 1,
     "description": "あ、あのさ…\\nもう少し、そこに\\nいてくれてもいいわよ",
-    "insert_word_type": 0
-}{
-    "id": 839,
-    "unit_id": 102202,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おおおおはよう！\\n…よし！　ちゃんと\\nあいさつできたわ！",
-    "insert_word_type": 0
-}{
-    "id": 840,
-    "unit_id": 102202,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "一緒にごはんとか…\\nううん、やっぱいい！\\nなんでもないからっ！",
-    "insert_word_type": 0
-}{
-    "id": 841,
-    "unit_id": 102202,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜はこれからよ！\\n朝まで\\nゲームするからね！",
     "insert_word_type": 0
 }{
     "id": 842,
@@ -8289,36 +7269,6 @@
     "description": "お兄ちゃんのこと、\\n「ぷう兄」って\\n呼ぼうかな？",
     "insert_word_type": 0
 }{
-    "id": 864,
-    "unit_id": 102301,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "お兄ちゃんって\\n朝早いんだね～\\n私はまだ眠いよ～",
-    "insert_word_type": 0
-}{
-    "id": 865,
-    "unit_id": 102301,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ふぁ～…ぷうきちと\\nお昼寝してくるね…",
-    "insert_word_type": 0
-}{
-    "id": 866,
-    "unit_id": 102301,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ぷうきちと\\nおしゃべりしてたら\\nもうこんな時間…",
-    "insert_word_type": 0
-}{
     "id": 868,
     "unit_id": 102301,
     "trigger": 3,
@@ -8507,36 +7457,6 @@
     "time": 0,
     "face_id": 1,
     "description": "私のこと、\\n専属メイドと思って\\n頼ってくださいね",
-    "insert_word_type": 0
-}{
-    "id": 914,
-    "unit_id": 102501,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます♪\\n今日も一日がんば…\\nきゃ、きゃあ！",
-    "insert_word_type": 0
-}{
-    "id": 915,
-    "unit_id": 102501,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼ごはん…\\n失敗しちゃいましたぁ\\nお、おやつでリベンジします！",
-    "insert_word_type": 0
-}{
-    "id": 916,
-    "unit_id": 102501,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "明日の目標は\\nドジをしないです！\\nき、昨日の目標も\\nドジをしないでした",
     "insert_word_type": 0
 }{
     "id": 917,
@@ -8749,36 +7669,6 @@
     "description": "私、できることなら\\nなんでもやりますよ\\nあなたのためですから",
     "insert_word_type": 0
 }{
-    "id": 939,
-    "unit_id": 102502,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます♪\\n今日も一日がんば…\\nう、うわあ！",
-    "insert_word_type": 0
-}{
-    "id": 940,
-    "unit_id": 102502,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼ごはん…\\n失敗しちゃいましたぁ\\nお、おやつでリベンジします！",
-    "insert_word_type": 0
-}{
-    "id": 941,
-    "unit_id": 102502,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "明日の目標は\\nドジをしないです！\\nき、昨日の目標も\\nドジをしないでした",
-    "insert_word_type": 0
-}{
     "id": 942,
     "unit_id": 102502,
     "trigger": 3,
@@ -8987,36 +7877,6 @@
     "time": 0,
     "face_id": 1,
     "description": "私の身も心も、全てが\\nあなた様のもの。\\nあなた様の全ても…",
-    "insert_word_type": 0
-}{
-    "id": 964,
-    "unit_id": 102701,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます\\n一晩中、あなた様の\\n寝顔を見ていましたわ",
-    "insert_word_type": 0
-}{
-    "id": 965,
-    "unit_id": 102701,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼を用意しましたの\\n何も入れていませんわ\\nクスクス…",
-    "insert_word_type": 0
-}{
-    "id": 966,
-    "unit_id": 102701,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "あなた様が眠るまで\\nお傍で見守りますわ。\\n…あの、どうして\\n眠らないのですか？",
     "insert_word_type": 0
 }{
     "id": 967,
@@ -9229,36 +8089,6 @@
     "description": "あなた様の前では\\n普通の女の子…\\n少し毒薬づくりが\\n得意なだけの…",
     "insert_word_type": 0
 }{
-    "id": 989,
-    "unit_id": 102702,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます\\n一晩中、あなた様の\\n寝顔を見ていましたわ",
-    "insert_word_type": 0
-}{
-    "id": 990,
-    "unit_id": 102702,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "さあ、お食事ですよ\\n味は保証しますわ\\n特製ソースで少しだけ\\n体が痺れますけど…",
-    "insert_word_type": 0
-}{
-    "id": 991,
-    "unit_id": 102702,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "あなた様が眠るまで\\nお傍で見守りますわ\\n…あの、どうして\\n眠らないのですか？",
-    "insert_word_type": 0
-}{
     "id": 992,
     "unit_id": 102702,
     "trigger": 3,
@@ -9467,36 +8297,6 @@
     "time": 0,
     "face_id": 1,
     "description": "ね、あんた今、幸せ？\\n何びっくりしてるのよ\\n大事なことじゃないの",
-    "insert_word_type": 0
-}{
-    "id": 1014,
-    "unit_id": 102801,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "面倒な用事は午前中に\\n片づけてしまうのが、\\n時間の使い方のコツよ",
-    "insert_word_type": 0
-}{
-    "id": 1015,
-    "unit_id": 102801,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "午後のティータイム\\nとかどう？\\n良いカフェがあるの♪",
-    "insert_word_type": 0
-}{
-    "id": 1016,
-    "unit_id": 102801,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "さ、エレガントな夜を\\n楽しみましょ。\\nモダンな音楽でも\\nかけましょうか？",
     "insert_word_type": 0
 }{
     "id": 1017,
@@ -9709,36 +8509,6 @@
     "description": "あんたが手伝って\\nくれるから、仕事も\\n前より楽しいのよね♪",
     "insert_word_type": 0
 }{
-    "id": 1039,
-    "unit_id": 102802,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "面倒な用事は午前中に\\n片づけてしまうのが\\n時間の使い方のコツよ",
-    "insert_word_type": 0
-}{
-    "id": 1040,
-    "unit_id": 102802,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ランチにして午後の\\n仕事に備えましょ！\\nやることは一杯よ♪",
-    "insert_word_type": 0
-}{
-    "id": 1041,
-    "unit_id": 102802,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ふわあ～\\nもうこんな時間\\n子供たちは\\nもう寝たかしら",
-    "insert_word_type": 0
-}{
     "id": 1042,
     "unit_id": 102802,
     "trigger": 3,
@@ -9947,36 +8717,6 @@
     "time": 0,
     "face_id": 1,
     "description": "新曲、聞いてくれた？\\nキミとのことを\\nテーマにしたんだよ。\\nどこかは秘密だけど♪",
-    "insert_word_type": 0
-}{
-    "id": 1064,
-    "unit_id": 102901,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝の発声練習に\\n行くけど、キミも\\n一緒に来ない？",
-    "insert_word_type": 0
-}{
-    "id": 1065,
-    "unit_id": 102901,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "この時間は\\nお腹すくけど…\\n水着撮影があるから\\nお昼抜いてるんだ",
-    "insert_word_type": 0
-}{
-    "id": 1066,
-    "unit_id": 102901,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜の帳が二人を包み\\n…こういう方向性の\\n歌詞も悪くないなぁ。",
     "insert_word_type": 0
 }{
     "id": 1067,
@@ -10189,36 +8929,6 @@
     "description": "ねぇ、私がトップ\\nアイドルになっても\\nちゃんと隣にいてね\\n遠くに行かないでね？",
     "insert_word_type": 0
 }{
-    "id": 1089,
-    "unit_id": 102902,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝の発声練習に\\n行くけど、キミも\\n一緒に来ない？",
-    "insert_word_type": 0
-}{
-    "id": 1090,
-    "unit_id": 102902,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼ごはん行かない？\\n誰にも知られてない\\nお店があるんだけど！",
-    "insert_word_type": 0
-}{
-    "id": 1091,
-    "unit_id": 102902,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜の帳が二人を包み\\n…こういう方向性の\\n歌詞も悪くないなぁ",
-    "insert_word_type": 0
-}{
     "id": 1092,
     "unit_id": 102902,
     "trigger": 3,
@@ -10427,36 +9137,6 @@
     "time": 0,
     "face_id": 1,
     "description": "ショーグン！\\nえへへ…これからも\\nおそばに置いて\\nクダサイね？",
-    "insert_word_type": 0
-}{
-    "id": 1114,
-    "unit_id": 103001,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようデス！\\n今日も一日\\n忍法日和デス！",
-    "insert_word_type": 0
-}{
-    "id": 1115,
-    "unit_id": 103001,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "そろそろお腹\\n空いてきたデス。\\n昼ごはんにするデス！",
-    "insert_word_type": 0
-}{
-    "id": 1116,
-    "unit_id": 103001,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "明日もきっと\\nいい日デスよ、\\nショーグン！",
     "insert_word_type": 0
 }{
     "id": 1117,
@@ -10669,36 +9349,6 @@
     "description": "ショーグン！\\nえへへ…これからも\\nおそばに置いて\\nクダサイね？",
     "insert_word_type": 0
 }{
-    "id": 1139,
-    "unit_id": 103002,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "いい朝デス！\\nトーゴク風の朝ゴハン\\n作るデス！",
-    "insert_word_type": 0
-}{
-    "id": 1140,
-    "unit_id": 103002,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "もうお昼デス\\nお昼寝するデスか？",
-    "insert_word_type": 0
-}{
-    "id": 1141,
-    "unit_id": 103002,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "そろそろおネム\\nデース…\\n一緒に寝るデス？",
-    "insert_word_type": 0
-}{
     "id": 1142,
     "unit_id": 103002,
     "trigger": 3,
@@ -10907,36 +9557,6 @@
     "time": 0,
     "face_id": 1,
     "description": "今日もたくさんの幽霊\\nに慕われていますね。\\n素敵です",
-    "insert_word_type": 0
-}{
-    "id": 1164,
-    "unit_id": 103101,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます\\n今日の運勢を\\n占いましょうか？",
-    "insert_word_type": 0
-}{
-    "id": 1165,
-    "unit_id": 103101,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "今日のラッキー\\nアイテムはドクロです\\n良ければ父を\\nお貸ししましょうか？",
-    "insert_word_type": 0
-}{
-    "id": 1166,
-    "unit_id": 103101,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "今日のあなたの運気は\\n最高潮でした。\\nもうすぐ今日は\\n終わりますが",
     "insert_word_type": 0
 }{
     "id": 1167,
@@ -11149,36 +9769,6 @@
     "description": "前世って信じますか？\\n私とあなたは\\nもしかすると…",
     "insert_word_type": 0
 }{
-    "id": 1189,
-    "unit_id": 103102,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "今日のラッキー\\nアイテムはドクロです\\n良ければ父を\\nお貸ししましょうか？",
-    "insert_word_type": 0
-}{
-    "id": 1190,
-    "unit_id": 103102,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "明るい時間は\\nあまり得意では\\nないんです…",
-    "insert_word_type": 0
-}{
-    "id": 1191,
-    "unit_id": 103102,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜のお散歩に\\n行きませんか？\\n知り合いの幽霊に\\n挨拶して回るんです",
-    "insert_word_type": 0
-}{
     "id": 1192,
     "unit_id": 103102,
     "trigger": 3,
@@ -11387,36 +9977,6 @@
     "time": 0,
     "face_id": 1,
     "description": "もしあなたさまが\\n道に迷われるなら、\\n私もお供いたします！",
-    "insert_word_type": 0
-}{
-    "id": 1214,
-    "unit_id": 103201,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "早起きは三ルピの徳と\\n申しますが…\\nもっとお得ですわね",
-    "insert_word_type": 0
-}{
-    "id": 1215,
-    "unit_id": 103201,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "昼食は町の屋台で\\n立ったまま食べて\\nみたいですわ！",
-    "insert_word_type": 0
-}{
-    "id": 1216,
-    "unit_id": 103201,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "よろしければ\\nお休み前のミルクを\\n御一緒にいかが？",
     "insert_word_type": 0
 }{
     "id": 1217,
@@ -11629,36 +10189,6 @@
     "description": "あなたさまの優しさは\\nお金には\\n代えられませんわね",
     "insert_word_type": 0
 }{
-    "id": 1239,
-    "unit_id": 103202,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "なぜだか\\n眠り足りないような\\n感じがしますわ…",
-    "insert_word_type": 0
-}{
-    "id": 1240,
-    "unit_id": 103202,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "昼食は町の屋台で\\n立ったまま食べて\\nみたいですわ！",
-    "insert_word_type": 0
-}{
-    "id": 1241,
-    "unit_id": 103202,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "よろしければ\\nお休み前のミルクを\\n御一緒にいかが？",
-    "insert_word_type": 0
-}{
     "id": 1242,
     "unit_id": 103202,
     "trigger": 3,
@@ -11867,36 +10397,6 @@
     "time": 0,
     "face_id": 1,
     "description": "将来的には夫婦漫才\\nってのも…あ、ひ、\\nひとりごとだべさ～！",
-    "insert_word_type": 0
-}{
-    "id": 1264,
-    "unit_id": 103301,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう！　一緒に\\n牛の乳しぼりいくべ？",
-    "insert_word_type": 0
-}{
-    "id": 1265,
-    "unit_id": 103301,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼だ～腹が減っては\\n笑いはできぬ～！",
-    "insert_word_type": 0
-}{
-    "id": 1266,
-    "unit_id": 103301,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "今日もよく働いたべ！\\nさ、今からは\\nお笑いの練習だ～！",
     "insert_word_type": 0
 }{
     "id": 1267,
@@ -12109,36 +10609,6 @@
     "description": "将来的には夫婦漫才\\nってのも…あ、ひ\\nひとりごとだべさ～！",
     "insert_word_type": 0
 }{
-    "id": 1289,
-    "unit_id": 103302,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう！\\n今日もいい\\nネタ作り日和だ！",
-    "insert_word_type": 0
-}{
-    "id": 1290,
-    "unit_id": 103302,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼だな\\nご飯を食べたら、\\nネタの練習するべ！",
-    "insert_word_type": 0
-}{
-    "id": 1291,
-    "unit_id": 103302,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "もうこんな時間だべ\\nネタ作りは\\n明日にするべ…",
-    "insert_word_type": 0
-}{
     "id": 1292,
     "unit_id": 103302,
     "trigger": 3,
@@ -12347,36 +10817,6 @@
     "time": 0,
     "face_id": 1,
     "description": "いつか…\\nキミと一緒に飲めたら\\n楽しいだろうな",
-    "insert_word_type": 0
-}{
-    "id": 1314,
-    "unit_id": 103401,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう…朝は\\nちょっとつらいな…\\n低血圧なのよ…",
-    "insert_word_type": 0
-}{
-    "id": 1315,
-    "unit_id": 103401,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "おっひるー♪\\nなに食べよっかな～♪",
-    "insert_word_type": 0
-}{
-    "id": 1316,
-    "unit_id": 103401,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ふわあ…\\n眠る前にちょっと\\n一杯…冗談よ",
     "insert_word_type": 0
 }{
     "id": 1317,
@@ -12589,36 +11029,6 @@
     "description": "お姉さんとチュー\\nする？　ふふふ～\\n冗談で～す！",
     "insert_word_type": 0
 }{
-    "id": 1339,
-    "unit_id": 103402,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "さーて、今日も\\nいっちょやるぞー！",
-    "insert_word_type": 0
-}{
-    "id": 1340,
-    "unit_id": 103402,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "後でのんびり\\nストレッチでも\\nしようっと♪",
-    "insert_word_type": 0
-}{
-    "id": 1341,
-    "unit_id": 103402,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "一日よく働いた～！\\n自分にごほうび\\nあげたいなー♪",
-    "insert_word_type": 0
-}{
     "id": 1342,
     "unit_id": 103402,
     "trigger": 3,
@@ -12827,36 +11237,6 @@
     "time": 0,
     "face_id": 1,
     "description": "私の病気、\\n悪化してるのかも！？\\nすごく胸がドキドキ\\nするんです…",
-    "insert_word_type": 0
-}{
-    "id": 1364,
-    "unit_id": 103801,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "えっと、朝食の前には\\nこの薬を飲んで…\\n食後にはこの薬を…",
-    "insert_word_type": 0
-}{
-    "id": 1365,
-    "unit_id": 103801,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ふぅ…午前中\\n動いたので体力が…\\nすこし休みますね",
-    "insert_word_type": 0
-}{
-    "id": 1366,
-    "unit_id": 103801,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "早く寝ないと\\n体に良くないですよね\\nでも気になっている\\n本があって…",
     "insert_word_type": 0
 }{
     "id": 1367,
@@ -13069,36 +11449,6 @@
     "description": "私の病気\\n悪化してるのかも！？\\nすごく胸がドキドキ\\nするんです…",
     "insert_word_type": 0
 }{
-    "id": 1389,
-    "unit_id": 103802,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "えっと、朝食の前には\\nこの薬を飲んで…\\n食後にはこの薬を…",
-    "insert_word_type": 0
-}{
-    "id": 1390,
-    "unit_id": 103802,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "…お昼の薬？\\nあ、飲み忘れてました\\nありがとうございます",
-    "insert_word_type": 0
-}{
-    "id": 1391,
-    "unit_id": 103802,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "この薬を飲むと\\n眠くなっちゃうんです\\nでもまだ、あなたと\\nお話したいし～",
-    "insert_word_type": 0
-}{
     "id": 1392,
     "unit_id": 103802,
     "trigger": 3,
@@ -13307,36 +11657,6 @@
     "time": 0,
     "face_id": 1,
     "description": "友達もほしいけど…\\nあなたに会えたことが\\n私の一番の幸せです",
-    "insert_word_type": 0
-}{
-    "id": 1414,
-    "unit_id": 104001,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます！\\n今日もＢＢ団、\\nがんばるぞー！",
-    "insert_word_type": 0
-}{
-    "id": 1415,
-    "unit_id": 104001,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "なんだか、お腹が\\n空いてきました。\\nお昼ごはんー♪",
-    "insert_word_type": 0
-}{
-    "id": 1416,
-    "unit_id": 104001,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "もう眠いかもです…\\n明日は友達、\\nできるといいなあ…",
     "insert_word_type": 0
 }{
     "id": 1417,
@@ -13549,36 +11869,6 @@
     "description": "友達もほしいけど…\\nあなたに会えたことが\\n私の一番の幸せです",
     "insert_word_type": 0
 }{
-    "id": 1439,
-    "unit_id": 104002,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝ですね！\\nこんないい朝は\\n友達作りのチャンス！",
-    "insert_word_type": 0
-}{
-    "id": 1440,
-    "unit_id": 104002,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "あの…そろそろお腹\\nすきませんか？\\nお昼ごはんは…",
-    "insert_word_type": 0
-}{
-    "id": 1441,
-    "unit_id": 104002,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "もう眠いかもです…\\n明日は友達\\nできるといいなあ…",
-    "insert_word_type": 0
-}{
     "id": 1442,
     "unit_id": 104002,
     "trigger": 3,
@@ -13787,36 +12077,6 @@
     "time": 0,
     "face_id": 1,
     "description": "…歌って欲しい？\\n喜んで♪\\nどの歌にしましょう？",
-    "insert_word_type": 0
-}{
-    "id": 1464,
-    "unit_id": 104201,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます♪\\n少し歌の練習を\\nしてきますね",
-    "insert_word_type": 0
-}{
-    "id": 1465,
-    "unit_id": 104201,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "もうお昼なんですか？\\n練習に夢中で\\n気づきませんでした",
-    "insert_word_type": 0
-}{
-    "id": 1466,
-    "unit_id": 104201,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "明日の予定は…\\nアイドルはやることが\\n多いみたいで…",
     "insert_word_type": 0
 }{
     "id": 1467,
@@ -14029,36 +12289,6 @@
     "description": "～～♪　あれ？\\n今私、歌ってました？\\n気づきませんでした",
     "insert_word_type": 0
 }{
-    "id": 1489,
-    "unit_id": 104202,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "呼吸を深く、大きく…\\nこれでちゃんと\\n目が覚めますよ",
-    "insert_word_type": 0
-}{
-    "id": 1490,
-    "unit_id": 104202,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "少し休んだら\\n午後の練習に\\n行ってきますね",
-    "insert_word_type": 0
-}{
-    "id": 1491,
-    "unit_id": 104202,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "曲を作っていたら\\nもうこんな時間…\\nおやすみなさい",
-    "insert_word_type": 0
-}{
     "id": 1492,
     "unit_id": 104202,
     "trigger": 3,
@@ -14267,36 +12497,6 @@
     "time": 0,
     "face_id": 1,
     "description": "お前って不思議だよな\\n一緒にいるとなんだか\\n…なんでもねーよ",
-    "insert_word_type": 0
-}{
-    "id": 1514,
-    "unit_id": 104301,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "気持ちいい朝だな！\\n体を動かしたい気分だ\\n付き合ってくれるか",
-    "insert_word_type": 0
-}{
-    "id": 1515,
-    "unit_id": 104301,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "昼飯もう食ったか？\\nまだなら、あたしが\\nなんか作ってやるよ",
-    "insert_word_type": 0
-}{
-    "id": 1516,
-    "unit_id": 104301,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "日中たっぷり動いたら\\nそのぶん夜はしっかり\\n休んどけよな",
     "insert_word_type": 0
 }{
     "id": 1517,
@@ -14509,36 +12709,6 @@
     "description": "お前って不思議だよな\\n一緒にいるとなんだか\\n…なんでもねーよ",
     "insert_word_type": 0
 }{
-    "id": 1539,
-    "unit_id": 104302,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "気持ちいい朝だな！\\n体を動かしたい気分だ\\n付き合ってくれるか？",
-    "insert_word_type": 0
-}{
-    "id": 1540,
-    "unit_id": 104302,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "昼飯もう食ったか？\\nまだなら、あたしが\\nなんか作ってやるよ",
-    "insert_word_type": 0
-}{
-    "id": 1541,
-    "unit_id": 104302,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "あんま夜更しすんなよ\\n明日に響いたら\\n大変だろ？",
-    "insert_word_type": 0
-}{
     "id": 1542,
     "unit_id": 104302,
     "trigger": 3,
@@ -14747,36 +12917,6 @@
     "time": 0,
     "face_id": 1,
     "description": "ドＳさんの視界に入る\\nだけでドキドキが…\\nこれが恋！？",
-    "insert_word_type": 0
-}{
-    "id": 1564,
-    "unit_id": 104501,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます。\\n朝からお盛んですね？\\nぐふふ…",
-    "insert_word_type": 0
-}{
-    "id": 1565,
-    "unit_id": 104501,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "こんなにも日の高い\\nうちからドＳさんは…\\nじゅるり",
-    "insert_word_type": 0
-}{
-    "id": 1566,
-    "unit_id": 104501,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜はこれから、\\nですよ…\\nぐふ、ぐふふふ…",
     "insert_word_type": 0
 }{
     "id": 1567,
@@ -14989,36 +13129,6 @@
     "description": "ドＳさんがお望みなら\\nクウカは\\nどんなことだって！",
     "insert_word_type": 0
 }{
-    "id": 1589,
-    "unit_id": 104502,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝だからこそ\\nできる妄想が\\nあります…ぐふふ",
-    "insert_word_type": 0
-}{
-    "id": 1590,
-    "unit_id": 104502,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "こんな日の高いうち\\nからドＳさんは…\\nじゅるり",
-    "insert_word_type": 0
-}{
-    "id": 1591,
-    "unit_id": 104502,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "今夜は一晩中…\\nなんですね？\\nぐふふ…",
-    "insert_word_type": 0
-}{
     "id": 1592,
     "unit_id": 104502,
     "trigger": 3,
@@ -15227,36 +13337,6 @@
     "time": 0,
     "face_id": 1,
     "description": "ふにゃあ、ねえねえ、\\n一緒にゴロゴロ\\nしようにゃあ？",
-    "insert_word_type": 0
-}{
-    "id": 1614,
-    "unit_id": 104601,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "いい朝にゃ！\\n顔を洗ってくるにゃ！",
-    "insert_word_type": 0
-}{
-    "id": 1615,
-    "unit_id": 104601,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "むーん、そろそろ\\nお昼…猫たちにも\\n猫缶を…",
-    "insert_word_type": 0
-}{
-    "id": 1616,
-    "unit_id": 104601,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ふわあ…眠いにゃ…\\n猫は布団で\\n丸くなるにゃ",
     "insert_word_type": 0
 }{
     "id": 1617,
@@ -15469,36 +13549,6 @@
     "description": "キミと一緒にいると\\n楽しくなってつい\\nじゃれちゃうにゃ！",
     "insert_word_type": 0
 }{
-    "id": 1639,
-    "unit_id": 104602,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "いい朝にゃ！\\n顔を洗ってくるにゃ！",
-    "insert_word_type": 0
-}{
-    "id": 1640,
-    "unit_id": 104602,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "そろそろおっひる～\\nにゃーんか\\n食べたい…",
-    "insert_word_type": 0
-}{
-    "id": 1641,
-    "unit_id": 104602,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "うーん、眠くなって\\nきたにゃ。あたしは\\n夜行性じゃないのにゃ",
-    "insert_word_type": 0
-}{
     "id": 1642,
     "unit_id": 104602,
     "trigger": 3,
@@ -15707,36 +13757,6 @@
     "time": 0,
     "face_id": 1,
     "description": "ねえ、あの…\\n私はキミにとって…\\nいや、何でもないわ",
-    "insert_word_type": 0
-}{
-    "id": 1664,
-    "unit_id": 104801,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう！\\n今日も朝から\\nバイトよ！",
-    "insert_word_type": 0
-}{
-    "id": 1665,
-    "unit_id": 104801,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼時ね。\\n少し休憩したら、\\nまた働くわよ！",
-    "insert_word_type": 0
-}{
-    "id": 1666,
-    "unit_id": 104801,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "もうこんな時間！\\n明日もバイトで\\n朝早いのよ…",
     "insert_word_type": 0
 }{
     "id": 1667,
@@ -15949,36 +13969,6 @@
     "description": "暇ができたから\\n働きたいけど…\\nキミとの時間も大切ね",
     "insert_word_type": 0
 }{
-    "id": 1689,
-    "unit_id": 104802,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう！\\nいい朝ね。一緒に\\nランニングでもいく？",
-    "insert_word_type": 0
-}{
-    "id": 1690,
-    "unit_id": 104802,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼時ね\\n少し休憩したら\\nまた働くわよ！",
-    "insert_word_type": 0
-}{
-    "id": 1691,
-    "unit_id": 104802,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "もうこんな時間！\\n明日もバイトで\\n朝早いのよ…",
-    "insert_word_type": 0
-}{
     "id": 1692,
     "unit_id": 104802,
     "trigger": 3,
@@ -16187,36 +14177,6 @@
     "time": 0,
     "face_id": 1,
     "description": "あ、あのね…\\nたまにはお姉ちゃんも\\n甘えていい？",
-    "insert_word_type": 0
-}{
-    "id": 1714,
-    "unit_id": 104901,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "着替えは？　荷物は？\\nお出かけの準備は\\nお姉ちゃんが手伝うね",
-    "insert_word_type": 0
-}{
-    "id": 1715,
-    "unit_id": 104901,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "出かけるなら\\n明るいうちに\\n帰ってくるんだよ！",
-    "insert_word_type": 0
-}{
-    "id": 1716,
-    "unit_id": 104901,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "まだ起きてるの？\\nそれじゃあ、\\nお姉ちゃんも\\n夜更かししちゃお☆",
     "insert_word_type": 0
 }{
     "id": 1717,
@@ -16429,36 +14389,6 @@
     "description": "お風呂にする？\\nごはんにする？\\nそれとも…うふふ♪",
     "insert_word_type": 0
 }{
-    "id": 1739,
-    "unit_id": 104902,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "着替えは？　荷物は？\\nお出かけの準備は\\nお姉ちゃんが手伝うね",
-    "insert_word_type": 0
-}{
-    "id": 1740,
-    "unit_id": 104902,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お姉ちゃんが\\nお昼ごはん\\n作ってあげようか？",
-    "insert_word_type": 0
-}{
-    "id": 1741,
-    "unit_id": 104902,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "眠れないの？\\nお姉ちゃんが子守歌\\n歌ってあげるね！",
-    "insert_word_type": 0
-}{
     "id": 1742,
     "unit_id": 104902,
     "trigger": 3,
@@ -16667,36 +14597,6 @@
     "time": 0,
     "face_id": 1,
     "description": "これから出かけるの？\\nしっかりアタシを\\nエスコートしてね！",
-    "insert_word_type": 0
-}{
-    "id": 1764,
-    "unit_id": 105001,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝のスキンケアは\\n大事なの！",
-    "insert_word_type": 0
-}{
-    "id": 1765,
-    "unit_id": 105001,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お腹すいたー\\nダイエット\\nやめちゃおうかなー",
-    "insert_word_type": 0
-}{
-    "id": 1766,
-    "unit_id": 105001,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "エイジングケアを\\nしないとねー",
     "insert_word_type": 0
 }{
     "id": 1767,
@@ -16909,36 +14809,6 @@
     "description": "これから出かけるの？\\nしっかりアタシを\\nエスコートしてね！",
     "insert_word_type": 0
 }{
-    "id": 1789,
-    "unit_id": 105002,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "レディの朝は\\n忙しいのよ",
-    "insert_word_type": 0
-}{
-    "id": 1790,
-    "unit_id": 105002,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お腹すいたー\\nダイエット\\nやめちゃおうかなー",
-    "insert_word_type": 0
-}{
-    "id": 1791,
-    "unit_id": 105002,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "エイジングケアを\\nしないとねー",
-    "insert_word_type": 0
-}{
     "id": 1792,
     "unit_id": 105002,
     "trigger": 3,
@@ -17147,36 +15017,6 @@
     "time": 0,
     "face_id": 1,
     "description": "私はおしおきする\\n側のことが多いけど…\\nキミにはされたいかも",
-    "insert_word_type": 0
-}{
-    "id": 1814,
-    "unit_id": 105101,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "お昼までに調合用の\\n花を集めたいの\\n手伝ってくれる？",
-    "insert_word_type": 0
-}{
-    "id": 1815,
-    "unit_id": 105101,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "あら、もうお昼？\\nそろそろ一息\\n入れましょうか",
-    "insert_word_type": 0
-}{
-    "id": 1816,
-    "unit_id": 105101,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜も更けて来たわね\\n私は朝まで実験だけど\\n見学していく？",
     "insert_word_type": 0
 }{
     "id": 1817,
@@ -17389,36 +15229,6 @@
     "description": "私はおしおきする\\n側のことが多いけど…\\nキミにはされたいかも",
     "insert_word_type": 0
 }{
-    "id": 1839,
-    "unit_id": 105102,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝しか取れない\\n植物があるの\\n採取しに行くわよ",
-    "insert_word_type": 0
-}{
-    "id": 1840,
-    "unit_id": 105102,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼時ってやけに\\n眠たくなるわよね\\n…調べたくなるわ",
-    "insert_word_type": 0
-}{
-    "id": 1841,
-    "unit_id": 105102,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "今日くらいは\\nゆっくり眠りたいわ\\n…キミと一緒にね",
-    "insert_word_type": 0
-}{
     "id": 1842,
     "unit_id": 105102,
     "trigger": 3,
@@ -17627,36 +15437,6 @@
     "time": 0,
     "face_id": 1,
     "description": "しょうがないなあ、\\nこんなにモフらせるの\\nあなただけだよ？",
-    "insert_word_type": 0
-}{
-    "id": 1864,
-    "unit_id": 105201,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "今朝は寝癖がひどいわ\\nしっぽの辺りとか～",
-    "insert_word_type": 0
-}{
-    "id": 1865,
-    "unit_id": 105201,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ランチは\\nおしゃれなカフェで\\nしてみたいな～♪",
-    "insert_word_type": 0
-}{
-    "id": 1866,
-    "unit_id": 105201,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "お肌のケアに\\nパックしながら\\n寝ようかな～",
     "insert_word_type": 0
 }{
     "id": 1867,
@@ -17869,36 +15649,6 @@
     "description": "人間になりたいな～\\nそれか、あなたが\\n私みたいな姿に…♪",
     "insert_word_type": 0
 }{
-    "id": 1889,
-    "unit_id": 105202,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "今朝は寝癖がひどいわ\\nしっぽの辺りとか～",
-    "insert_word_type": 0
-}{
-    "id": 1890,
-    "unit_id": 105202,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ダイエット中だから\\nお昼は抜いてるの～",
-    "insert_word_type": 0
-}{
-    "id": 1891,
-    "unit_id": 105202,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "お肌のケアに\\nパックしながら\\n寝ようかな～",
-    "insert_word_type": 0
-}{
     "id": 1892,
     "unit_id": 105202,
     "trigger": 3,
@@ -18107,36 +15857,6 @@
     "time": 0,
     "face_id": 1,
     "description": "貴公と共にいられる\\nことは私の喜びだ。\\nこれからも\\nよろしく頼むぞ",
-    "insert_word_type": 0
-}{
-    "id": 1914,
-    "unit_id": 105301,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "うむ、いい朝だ。\\n本国の夜明けを\\n思い出してしまうな！",
-    "insert_word_type": 0
-}{
-    "id": 1915,
-    "unit_id": 105301,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "そろそろ昼食に\\nするか。腹が減っては\\n戦はできないからな",
-    "insert_word_type": 0
-}{
-    "id": 1916,
-    "unit_id": 105301,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ふわああ…私は子供\\nではないが…眠い時は\\n眠いのだ…",
     "insert_word_type": 0
 }{
     "id": 1917,
@@ -18349,36 +16069,6 @@
     "description": "貴公と共にいられる\\nことは私の喜びだ\\nこれからも\\nよろしく頼むぞ",
     "insert_word_type": 0
 }{
-    "id": 1939,
-    "unit_id": 105302,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "うむ、いい朝だ\\n本国の夜明けを\\n思い出してしまうな！",
-    "insert_word_type": 0
-}{
-    "id": 1940,
-    "unit_id": 105302,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "そろそろ昼時だな\\n鍛錬の手を緩めて\\n昼食にするか",
-    "insert_word_type": 0
-}{
-    "id": 1941,
-    "unit_id": 105302,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "寝る前に…あと少し\\nだけ、鍛錬を…",
-    "insert_word_type": 0
-}{
     "id": 1942,
     "unit_id": 105302,
     "trigger": 3,
@@ -18587,36 +16277,6 @@
     "time": 0,
     "face_id": 1,
     "description": "お父さんに会えたら、\\n大切な仲間として\\nあなたを紹介するね！",
-    "insert_word_type": 0
-}{
-    "id": 1964,
-    "unit_id": 105701,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう！\\n体の調子はどう？\\n今日は頑張れそう？",
-    "insert_word_type": 0
-}{
-    "id": 1965,
-    "unit_id": 105701,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ねえねえ、お昼\\n食べに行こうよ！\\nお腹空いちゃった",
-    "insert_word_type": 0
-}{
-    "id": 1966,
-    "unit_id": 105701,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "…あれ？\\nおしゃべりしてたら\\nもうこんな時間？",
     "insert_word_type": 0
 }{
     "id": 1967,
@@ -18829,36 +16489,6 @@
     "description": "あなたと一緒なら\\nきっと、今よりもっと\\n強くなれるよ！",
     "insert_word_type": 0
 }{
-    "id": 1989,
-    "unit_id": 105702,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "ちゃんと起きてるか？\\n寝ぼけてたら\\nダメよ？",
-    "insert_word_type": 0
-}{
-    "id": 1990,
-    "unit_id": 105702,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "腹減ったね…\\nなにか食べに\\n行くよ！",
-    "insert_word_type": 0
-}{
-    "id": 1991,
-    "unit_id": 105702,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "修行のしすぎは\\n良くないよ？\\n気をつけるね",
-    "insert_word_type": 0
-}{
     "id": 1992,
     "unit_id": 105702,
     "trigger": 3,
@@ -19067,36 +16697,6 @@
     "time": 0,
     "face_id": 1,
     "description": "大好きです～\\n愛してます～\\nえへへ～♪",
-    "insert_word_type": 0
-}{
-    "id": 2014,
-    "unit_id": 105801,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝ごはんも終わったし\\n早速ブランチを\\n食べませんか？",
-    "insert_word_type": 0
-}{
-    "id": 2015,
-    "unit_id": 105801,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼ご飯、\\nおいしかったですね～\\nそれじゃあ、そろそろ\\nおやつにしましょう☆",
-    "insert_word_type": 0
-}{
-    "id": 2016,
-    "unit_id": 105801,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "お夕飯も、晩ごはんも\\n食べたし…さぁ！\\nお夜食の時間ですよ☆",
     "insert_word_type": 0
 }{
     "id": 2017,
@@ -19309,36 +16909,6 @@
     "description": "わたし食べても\\n太らないんです♪\\nほらほら～触って\\nみてくださいよ～",
     "insert_word_type": 0
 }{
-    "id": 2039,
-    "unit_id": 105802,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝ごはんも終わったし\\n早速ブランチを\\n食べませんか？",
-    "insert_word_type": 0
-}{
-    "id": 2040,
-    "unit_id": 105802,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼ご飯\\nおいしかったですね～\\nそれじゃあ、そろそろ\\nおやつにしましょう☆",
-    "insert_word_type": 0
-}{
-    "id": 2041,
-    "unit_id": 105802,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "お夕飯も、晩ごはんも\\n食べたし～。さぁ！\\nお夜食の時間ですよ☆",
-    "insert_word_type": 0
-}{
     "id": 2042,
     "unit_id": 105802,
     "trigger": 3,
@@ -19547,36 +17117,6 @@
     "time": 0,
     "face_id": 1,
     "description": "あんた、あたしに\\n操られてみない？",
-    "insert_word_type": 0
-}{
-    "id": 2064,
-    "unit_id": 106001,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "美食殿としては、\\n朝食もこだわらないと\\nねぇ～",
-    "insert_word_type": 0
-}{
-    "id": 2065,
-    "unit_id": 106001,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ギルド活動だもん！\\n美味しいランチを\\n食べましょ♪",
-    "insert_word_type": 0
-}{
-    "id": 2066,
-    "unit_id": 106001,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ディナーに行くわよ！\\nギルドの目的、\\n食べ歩きだもんね♪",
     "insert_word_type": 0
 }{
     "id": 2067,
@@ -19789,36 +17329,6 @@
     "description": "あんた、あたしに\\n操られてみない？",
     "insert_word_type": 0
 }{
-    "id": 2089,
-    "unit_id": 106002,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "美食殿としては\\n朝食もこだわらないと\\nねぇ～",
-    "insert_word_type": 0
-}{
-    "id": 2090,
-    "unit_id": 106002,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ギルド活動だもん！\\n美味しいランチを\\n食べましょ♪",
-    "insert_word_type": 0
-}{
-    "id": 2091,
-    "unit_id": 106002,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ディナーに行くわよ！\\nギルドの目的\\n食べ歩きだもんね♪",
-    "insert_word_type": 0
-}{
     "id": 2092,
     "unit_id": 106002,
     "trigger": 3,
@@ -20027,36 +17537,6 @@
     "time": 0,
     "face_id": 1,
     "description": "主さまのおそばに\\nいられて、わたくし、\\n嬉しいです…",
-    "insert_word_type": 0
-}{
-    "id": 2114,
-    "unit_id": 105901,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます。\\n洗濯をしなければ…",
-    "insert_word_type": 0
-}{
-    "id": 2115,
-    "unit_id": 105901,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "そろそろお昼ですね。\\nおいしいものを\\n食べましょう",
-    "insert_word_type": 0
-}{
-    "id": 2116,
-    "unit_id": 105901,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "おやすみになる時は、\\nお声をかけてください\\nお供致します",
     "insert_word_type": 0
 }{
     "id": 2117,
@@ -20269,36 +17749,6 @@
     "description": "主さまの優しさに\\nわたくしはいつも\\n癒されています…",
     "insert_word_type": 0
 }{
-    "id": 2139,
-    "unit_id": 105902,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます♪\\n主さまの可愛らしい\\n寝顔、堪能致しました",
-    "insert_word_type": 0
-}{
-    "id": 2140,
-    "unit_id": 105902,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "のんびりした時間帯\\nですね…ふぁ～…\\nし、失礼致しました",
-    "insert_word_type": 0
-}{
-    "id": 2141,
-    "unit_id": 105902,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ふむ、都会は夜でも\\nこんなにも、にぎやか\\nなのですね",
-    "insert_word_type": 0
-}{
     "id": 2142,
     "unit_id": 105902,
     "trigger": 3,
@@ -20417,36 +17867,6 @@
     "time": 0,
     "face_id": 1,
     "description": "ときどきみなさんと\\nクエストに行きたいな\\nって思っちゃいます",
-    "insert_word_type": 0
-}{
-    "id": 2155,
-    "unit_id": 190801,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます！\\nお掃除の方、\\nはじめていきますね",
-    "insert_word_type": 0
-}{
-    "id": 2156,
-    "unit_id": 190801,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "皆さん、お昼ごはんの\\nご要望がありましたら\\n用意致しますよ♪",
-    "insert_word_type": 0
-}{
-    "id": 2157,
-    "unit_id": 190801,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ここは夜でも\\nにぎやかですね",
     "insert_word_type": 0
 }{
     "id": 2158,
@@ -20577,36 +17997,6 @@
     "time": 0,
     "face_id": 1,
     "description": "私としゃべりたい？\\n物好きだな\\nでも、嬉しいよ",
-    "insert_word_type": 0
-}{
-    "id": 2171,
-    "unit_id": 104701,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "早いな少年\\nえ？　私の仕事に\\n合わせてくれたのか",
-    "insert_word_type": 0
-}{
-    "id": 2172,
-    "unit_id": 104701,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "昼食の誘い？\\n嬉しいけど\\n人前では食べないんだ",
-    "insert_word_type": 0
-}{
-    "id": 2173,
-    "unit_id": 104701,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "王宮騎士団の\\n日報を書かなければ…\\n『何事もなし』、と",
     "insert_word_type": 0
 }{
     "id": 2175,
@@ -20799,36 +18189,6 @@
     "description": "あんたが一生\\n世話してくれたら\\n人生安泰なんだけどね",
     "insert_word_type": 0
 }{
-    "id": 2196,
-    "unit_id": 102601,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "ふわ～っ…\\nおはよう…あたしは\\nまだ眠いよ",
-    "insert_word_type": 0
-}{
-    "id": 2197,
-    "unit_id": 102601,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "そろそろお昼寝でも\\nしたい気分だねぇ",
-    "insert_word_type": 0
-}{
-    "id": 2198,
-    "unit_id": 102601,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "徹夜でゲームするけど\\nあんたもどうだい？\\nあたしは強いよ",
-    "insert_word_type": 0
-}{
     "id": 2200,
     "unit_id": 102601,
     "trigger": 3,
@@ -21017,36 +18377,6 @@
     "time": 0,
     "face_id": 1,
     "description": "最近、\\nずっと楽しいんだ！\\nあなたのおかげかな",
-    "insert_word_type": 0
-}{
-    "id": 2221,
-    "unit_id": 106301,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう！\\n今日も一緒に\\n頑張ろうね！",
-    "insert_word_type": 0
-}{
-    "id": 2222,
-    "unit_id": 106301,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼はどうする？\\nあなたのオススメに\\n連れて行って欲しいな",
-    "insert_word_type": 0
-}{
-    "id": 2223,
-    "unit_id": 106301,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ランドソルは\\n夜でも賑やかだね！",
     "insert_word_type": 0
 }{
     "id": 2225,
@@ -21239,36 +18569,6 @@
     "description": "あの…何歳まで\\n子供だと思いますか？",
     "insert_word_type": 0
 }{
-    "id": 2246,
-    "unit_id": 103601,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "顔を洗って、着替えて\\n朝ごはんを食べて、\\n歯を磨いて…",
-    "insert_word_type": 0
-}{
-    "id": 2247,
-    "unit_id": 103601,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "て、鉄棒の練習！？　\\nほ、他のことを\\nしませんか？",
-    "insert_word_type": 0
-}{
-    "id": 2248,
-    "unit_id": 103601,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ね、眠くないです\\n子供ではありません\\nから…ふわぁ",
-    "insert_word_type": 0
-}{
     "id": 2250,
     "unit_id": 103601,
     "trigger": 3,
@@ -21457,36 +18757,6 @@
     "time": 0,
     "face_id": 1,
     "description": "あなたみたいな\\nいい子をお世話できて\\n先生は幸せものだわ",
-    "insert_word_type": 0
-}{
-    "id": 2271,
-    "unit_id": 101501,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう～\\nちゃんと朝ごはんは\\n食べた？",
-    "insert_word_type": 0
-}{
-    "id": 2272,
-    "unit_id": 101501,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼寝の時間ね♪\\nあなたも一緒に\\n寝ましょうか",
-    "insert_word_type": 0
-}{
-    "id": 2273,
-    "unit_id": 101501,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "すっかり真っ暗ね。\\n今日も一日、\\nよくできました♪",
     "insert_word_type": 0
 }{
     "id": 2275,
@@ -21679,36 +18949,6 @@
     "description": "お主が望むなら世界の\\n半分をくれてやっても\\n良いのじゃぞ？",
     "insert_word_type": 0
 }{
-    "id": 2296,
-    "unit_id": 104401,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝早くから感心じゃの\\nさすがわらわの\\n眷属じゃ",
-    "insert_word_type": 0
-}{
-    "id": 2297,
-    "unit_id": 104401,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "太陽は苦手じゃ…\\nこの部屋の中で\\n過ごそうぞ",
-    "insert_word_type": 0
-}{
-    "id": 2298,
-    "unit_id": 104401,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜も更けてきた！\\nわらわ達の時間は\\nこれからじゃ～♪",
-    "insert_word_type": 0
-}{
     "id": 2300,
     "unit_id": 104401,
     "trigger": 3,
@@ -21899,36 +19139,6 @@
     "description": "騎士さんのおかげで\\nカルミナでも\\n頑張れてますよ！",
     "insert_word_type": 0
 }{
-    "id": 2321,
-    "unit_id": 105401,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます…\\nなんで朝って毎日\\nやってくるんでしょう",
-    "insert_word_type": 0
-}{
-    "id": 2322,
-    "unit_id": 105401,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お腹空きましたね\\n騎士さんはちゃんと\\n御飯食べましたか？",
-    "insert_word_type": 0
-}{
-    "id": 2323,
-    "unit_id": 105401,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜の方が\\n作業が捗るのは\\n私だけですかね？",
-    "insert_word_type": 0
-}{
     "id": 2325,
     "unit_id": 105401,
     "trigger": 3,
@@ -22117,36 +19327,6 @@
     "time": 0,
     "face_id": 1,
     "description": "水着姿が好きなら\\nいくらでも\\n着てあげますよぉ♪",
-    "insert_word_type": 0
-}{
-    "id": 2346,
-    "unit_id": 107501,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝の海も\\n幻想的で\\nいいですよねぇ～！",
-    "insert_word_type": 0
-}{
-    "id": 2347,
-    "unit_id": 107501,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お昼はみんなで、\\n海鮮バーベキューとか\\nどうでしょう！",
-    "insert_word_type": 0
-}{
-    "id": 2348,
-    "unit_id": 107501,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜の海は星が\\n綺麗ですよ！\\n見に行きましょう！",
     "insert_word_type": 0
 }{
     "id": 2350,
@@ -22359,36 +19539,6 @@
     "description": "はじめての海が、\\n主さまと一緒で\\n幸せです♪",
     "insert_word_type": 0
 }{
-    "id": 2373,
-    "unit_id": 107601,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようございます。\\n泳ぎに行く準備は\\n万端です",
-    "insert_word_type": 0
-}{
-    "id": 2374,
-    "unit_id": 107601,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "午後は泳ぐのをやめて\\nスイカ割りなど\\nいかがでしょう？",
-    "insert_word_type": 0
-}{
-    "id": 2375,
-    "unit_id": 107601,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜も更けてきました…\\n波の音を聞きながら\\n少しお話しませんか？",
-    "insert_word_type": 0
-}{
     "id": 2377,
     "unit_id": 107601,
     "trigger": 3,
@@ -22597,36 +19747,6 @@
     "time": 0,
     "face_id": 1,
     "description": "水着姿をあなたに\\n見られると、\\nドキドキしちゃいます",
-    "insert_word_type": 0
-}{
-    "id": 2400,
-    "unit_id": 107701,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝は暑くてやる気が\\n出ない？　でしたら、\\nえぇい、元気になぁれ",
-    "insert_word_type": 0
-}{
-    "id": 2401,
-    "unit_id": 107701,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お腹がぺこぺこなら、\\nお昼は海の家で\\n食べましょう♪",
-    "insert_word_type": 0
-}{
-    "id": 2402,
-    "unit_id": 107701,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜の浜辺でお散歩も\\nいいですね。たくさん\\n転びそうですけど…",
     "insert_word_type": 0
 }{
     "id": 2404,
@@ -22839,36 +19959,6 @@
     "description": "こんなに楽しいの\\n初めてかも…\\nずっと続けばいいのに",
     "insert_word_type": 0
 }{
-    "id": 2427,
-    "unit_id": 107801,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "は、早起きしたのは、\\n楽しみで眠れなかった\\nからじゃないわよ！",
-    "insert_word_type": 0
-}{
-    "id": 2428,
-    "unit_id": 107801,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "昼食後のストレッチ\\n終わり！　さあ、\\nビーチが待ってるわ！",
-    "insert_word_type": 0
-}{
-    "id": 2429,
-    "unit_id": 107801,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜の海に散歩に\\n行こうかな～\\nあんたも来なさいよ☆",
-    "insert_word_type": 0
-}{
     "id": 2431,
     "unit_id": 107801,
     "trigger": 3,
@@ -23077,36 +20167,6 @@
     "time": 0,
     "face_id": 1,
     "description": "キミと一緒なら\\nどんなミッションも\\n楽勝ね！",
-    "insert_word_type": 0
-}{
-    "id": 2454,
-    "unit_id": 108001,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう、いい朝ね！\\n今日もめいっぱい\\n稼ぐわよ！",
-    "insert_word_type": 0
-}{
-    "id": 2455,
-    "unit_id": 108001,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "もうお昼だったのね…\\n内職のバイトに\\n集中しすぎちゃったわ",
-    "insert_word_type": 0
-}{
-    "id": 2456,
-    "unit_id": 108001,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "スケジュールは、と…\\nこういう管理の徹底が\\n効率を生み出すのよ♪",
     "insert_word_type": 0
 }{
     "id": 2458,
@@ -23319,36 +20379,6 @@
     "description": "キミと一緒にいると\\n楽しくて、もっと\\nいたくなるにゃ",
     "insert_word_type": 0
 }{
-    "id": 2481,
-    "unit_id": 107901,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはようにゃ！\\n今日も頑張って\\nいくにゃー！",
-    "insert_word_type": 0
-}{
-    "id": 2482,
-    "unit_id": 107901,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お腹すいたにゃ～…\\nお魚、ちょっとだけ、\\nつまみ食いするにゃ",
-    "insert_word_type": 0
-}{
-    "id": 2483,
-    "unit_id": 107901,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "明日の準備は万端にゃ\\nいつでも\\n出発できるにゃ",
-    "insert_word_type": 0
-}{
     "id": 2485,
     "unit_id": 107901,
     "trigger": 3,
@@ -23559,36 +20589,6 @@
     "description": "ねえ、あなた♪\\nおや、顔が真っ赤だ！\\n…ふふ、私も、かな？",
     "insert_word_type": 0
 }{
-    "id": 2508,
-    "unit_id": 103701,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "私は朝から鍛錬だよ。\\n慣れてるけど大変だ。\\nお互いに頑張ろうね",
-    "insert_word_type": 0
-}{
-    "id": 2509,
-    "unit_id": 103701,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "鍛錬でお腹ぺこぺこ。\\nお昼ごはんが\\n楽しみだね",
-    "insert_word_type": 0
-}{
-    "id": 2510,
-    "unit_id": 103701,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "今日も一日見回りと\\n鍛錬を頑張ったよ。\\nあなたもお疲れさま",
-    "insert_word_type": 0
-}{
     "id": 2512,
     "unit_id": 103701,
     "trigger": 3,
@@ -23779,36 +20779,6 @@
     "description": "あんたと一緒だと\\n幸せな気持ちに\\nなるんッス…♪",
     "insert_word_type": 0
 }{
-    "id": 2533,
-    "unit_id": 100501,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "お、早いッスね～♪\\n今日も一日一善\\nよろしくッス！",
-    "insert_word_type": 0
-}{
-    "id": 2534,
-    "unit_id": 100501,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "一休みしながら\\nヒーローについて\\n語り合うッスよ～！",
-    "insert_word_type": 0
-}{
-    "id": 2535,
-    "unit_id": 100501,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜のパトロールで\\n一緒に平和を\\n守るッス！",
-    "insert_word_type": 0
-}{
     "id": 2537,
     "unit_id": 100501,
     "trigger": 3,
@@ -23997,36 +20967,6 @@
     "time": 0,
     "face_id": 1,
     "description": "あなたと手を繋ぐと\\n胸が苦しくなります\\nでも、繋ぎたいな…",
-    "insert_word_type": 0
-}{
-    "id": 2558,
-    "unit_id": 108101,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "ハッピーハロウィン…\\n父が元気なので\\n今日の運気は良好です",
-    "insert_word_type": 0
-}{
-    "id": 2559,
-    "unit_id": 108101,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "父はお昼寝中です\\n本当に寝ているかは\\n私にも分かりませんが",
-    "insert_word_type": 0
-}{
-    "id": 2560,
-    "unit_id": 108101,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "お父さん、\\nもう眠っちゃったの？\\n…眠れるんだったっけ",
     "insert_word_type": 0
 }{
     "id": 2562,
@@ -24229,36 +21169,6 @@
     "description": "オマエが死んでも、\\nミヤコはずーっと\\n一緒にいてやるの～",
     "insert_word_type": 0
 }{
-    "id": 2585,
-    "unit_id": 108201,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝ごはんは\\nカボチャプリンなの！\\nハロウィンっぽいの～",
-    "insert_word_type": 0
-}{
-    "id": 2586,
-    "unit_id": 108201,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ランチは豪華に\\nプリンアラモードなの",
-    "insert_word_type": 0
-}{
-    "id": 2587,
-    "unit_id": 108201,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜は幽霊たちと\\nハロウィンするの！\\nオマエも来るの！",
-    "insert_word_type": 0
-}{
     "id": 2589,
     "unit_id": 108201,
     "trigger": 3,
@@ -24457,36 +21367,6 @@
     "time": 0,
     "face_id": 1,
     "description": "アタシのエスコートを\\n任せられるのは、\\nアンタだけなんだから",
-    "insert_word_type": 0
-}{
-    "id": 2612,
-    "unit_id": 108301,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "朝食はオシャレに\\nグリーンスムージー！\\n…に、にがぁ",
-    "insert_word_type": 0
-}{
-    "id": 2613,
-    "unit_id": 108301,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "昼下がりはカフェで\\n優雅なティータイム\\n…憧れるわ～",
-    "insert_word_type": 0
-}{
-    "id": 2614,
-    "unit_id": 108301,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ハロウィンナイトの\\nはじまりよ！\\n街に繰り出しましょ！",
     "insert_word_type": 0
 }{
     "id": 2616,
@@ -24689,36 +21569,6 @@
     "description": "最強無敵の女と\\n結婚できるんだ\\n誇りに思えよ☆",
     "insert_word_type": 0
 }{
-    "id": 2639,
-    "unit_id": 107101,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "なにか愉快なことが\\n起こりそうな朝だ☆\\nワクワクするね",
-    "insert_word_type": 0
-}{
-    "id": 2640,
-    "unit_id": 107101,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "うーむ、腹がすいたな\\n愉快なことで\\nこの空腹を満たしたい",
-    "insert_word_type": 0
-}{
-    "id": 2641,
-    "unit_id": 107101,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "これからは大人の\\n時間だ。愉しみ方を\\n知りたいのかい？",
-    "insert_word_type": 0
-}{
     "id": 2643,
     "unit_id": 107101,
     "trigger": 3,
@@ -24907,36 +21757,6 @@
     "time": 0,
     "face_id": 1,
     "description": "よしよし！\\nお人好しのお前さんを\\n労ってあげるよ",
-    "insert_word_type": 0
-}{
-    "id": 2664,
-    "unit_id": 105601,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよう、お前さん\\n魚屋は早起きでなきゃ\\nつとまらないよ？",
-    "insert_word_type": 0
-}{
-    "id": 2665,
-    "unit_id": 105601,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "昼飯かい？　今朝\\n仕入れた魚があるんだ\\n食べてみるかい？",
-    "insert_word_type": 0
-}{
-    "id": 2666,
-    "unit_id": 105601,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜釣りにぴったりの\\n月が出てるよ\\nいい釣りが出来そうだ",
     "insert_word_type": 0
 }{
     "id": 2668,
@@ -25129,36 +21949,6 @@
     "description": "私ってもしやリア充？\\n…そんなバカな！\\n非リア代表のはずが！",
     "insert_word_type": 0
 }{
-    "id": 2689,
-    "unit_id": 101301,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "おはよー…\\n徹夜で本読んでたから\\nまだ眠い～",
-    "insert_word_type": 0
-}{
-    "id": 2690,
-    "unit_id": 101301,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "昼飯食べて、\\n午後の定期巡回も\\n頑張りましょー！",
-    "insert_word_type": 0
-}{
-    "id": 2691,
-    "unit_id": 101301,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "夜からが、\\nオタ活本番でしょ！",
-    "insert_word_type": 0
-}{
     "id": 2693,
     "unit_id": 101301,
     "trigger": 3,
@@ -25307,36 +22097,6 @@
     "time": 0,
     "face_id": 1,
     "description": "フィオのやつ…\\nどこをウロチョロ\\nしてるのかしら？",
-    "insert_word_type": 0
-}{
-    "id": 2710,
-    "unit_id": 190901,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "人間の朝は大変ねぇ…\\n私はその様を見ながら\\nゆっくりするわね♪",
-    "insert_word_type": 0
-}{
-    "id": 2711,
-    "unit_id": 190901,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "う～私も、お日様を\\n浴びながら、お外を\\nお散歩したーい！",
-    "insert_word_type": 0
-}{
-    "id": 2712,
-    "unit_id": 190901,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "この暗さ…閉じ込め\\nられていた時を\\n思い出すわね…",
     "insert_word_type": 0
 }{
     "id": 2714,
@@ -25529,36 +22289,6 @@
     "description": "歌でならいくらでも\\nあの人への気持ちを\\n込められるのに…",
     "insert_word_type": 0
 }{
-    "id": 2735,
-    "unit_id": 108401,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "今日も一日\\n幸せな歌で世界が\\n包まれますように…",
-    "insert_word_type": 0
-}{
-    "id": 2736,
-    "unit_id": 108401,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "お茶を飲みながら\\n好きな音楽を\\n語り合いませんか？",
-    "insert_word_type": 0
-}{
-    "id": 2737,
-    "unit_id": 108401,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ふふ、寝かしつけの\\n子守唄を\\nお望みですか？",
-    "insert_word_type": 0
-}{
     "id": 2739,
     "unit_id": 108401,
     "trigger": 3,
@@ -25749,36 +22479,6 @@
     "description": "クリスマスはその…\\n二人で…あうぅ…\\nなんでもないですぅ…",
     "insert_word_type": 0
 }{
-    "id": 2762,
-    "unit_id": 108501,
-    "trigger": 2,
-    "voice_id": 1,
-    "beloved_step": 1,
-    "time": 1,
-    "face_id": 1,
-    "description": "うう…パーティーが\\n楽しみで、あんまり\\n眠れなかったよぅ…",
-    "insert_word_type": 0
-}{
-    "id": 2763,
-    "unit_id": 108501,
-    "trigger": 2,
-    "voice_id": 2,
-    "beloved_step": 1,
-    "time": 2,
-    "face_id": 1,
-    "description": "ケーキを食べられなく\\nなっちゃうから、\\nお昼は軽めにしないと",
-    "insert_word_type": 0
-}{
-    "id": 2764,
-    "unit_id": 108501,
-    "trigger": 2,
-    "voice_id": 3,
-    "beloved_step": 1,
-    "time": 3,
-    "face_id": 1,
-    "description": "ちょっと眠いけど…\\n今日は少しだけ\\n夜更かししたいです♪",
-    "insert_word_type": 0
-}{
     "id": 2766,
     "unit_id": 108501,
     "trigger": 3,
@@ -25837,5 +22537,3305 @@
     "time": 0,
     "face_id": 1,
     "description": "すごい…\\nクリスマスの\\n演劇って、\\nこんなにあるんだ…",
+    "insert_word_type": 0
+}{
+    "id": 14,
+    "unit_id": 100101,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよー！\\n今日も元気に\\nいっちゃうよー！",
+    "insert_word_type": 0
+}{
+    "id": 39,
+    "unit_id": 100102,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝ごはんと運動！\\nこれがあたしの\\n元気の素だよ！",
+    "insert_word_type": 0
+}{
+    "id": 64,
+    "unit_id": 100201,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "お、おはよう！\\nあの…朝ごはんは\\nもう食べちゃった？",
+    "insert_word_type": 0
+}{
+    "id": 89,
+    "unit_id": 100202,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう\\nよく眠れた？　今日も\\n一日、頑張ろうね♪",
+    "insert_word_type": 0
+}{
+    "id": 114,
+    "unit_id": 100301,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう\\n今日も充実した\\n一日にしていこう",
+    "insert_word_type": 0
+}{
+    "id": 139,
+    "unit_id": 100302,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "今日は仕事？\\nそれとも修行？\\n良ければ付き合うよ",
+    "insert_word_type": 0
+}{
+    "id": 164,
+    "unit_id": 100401,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "にいちゃん、おはよ！\\n目覚まし時計を\\n止めておいたのに、\\nよく起きられたね～♪",
+    "insert_word_type": 0
+}{
+    "id": 189,
+    "unit_id": 100402,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "にいちゃん\\n探検に行こうよ！\\n今からなら遭難しても\\n夜には帰れるよ！",
+    "insert_word_type": 0
+}{
+    "id": 214,
+    "unit_id": 100601,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます\\n昨夜は楽しかった\\nですね、うふふ♪",
+    "insert_word_type": 0
+}{
+    "id": 239,
+    "unit_id": 100602,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます\\n昨夜は楽しかった\\nですね、うふふ♪",
+    "insert_word_type": 0
+}{
+    "id": 264,
+    "unit_id": 100701,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "う～　眠いの…\\n二度目の二度寝を\\nするの…",
+    "insert_word_type": 0
+}{
+    "id": 289,
+    "unit_id": 100702,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "う～　眠いの…\\n二度目の二度寝を\\nするの… ",
+    "insert_word_type": 0
+}{
+    "id": 314,
+    "unit_id": 100801,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "美しいボクの\\n美しい一日が\\n始まるよ！",
+    "insert_word_type": 0
+}{
+    "id": 339,
+    "unit_id": 100802,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝日と共に\\nボクの美しさも\\n周りを照らすよ",
+    "insert_word_type": 0
+}{
+    "id": 364,
+    "unit_id": 100901,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "「覚醒」めたか…\\n行くぞ、悪を討つ\\n戦いに出発だ！",
+    "insert_word_type": 0
+}{
+    "id": 389,
+    "unit_id": 100902,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 8,
+    "time": 1,
+    "face_id": 1,
+    "description": "夜更かしのせいか\\nまだ眠気が…いや！\\nこれは組織の罠だ！",
+    "insert_word_type": 0
+}{
+    "id": 414,
+    "unit_id": 101001,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝は小鳥はんも\\nおなかがすいてるから\\nよう飛び回りはるねえ",
+    "insert_word_type": 0
+}{
+    "id": 439,
+    "unit_id": 101002,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝は小鳥はんも\\nおなかがすいてるから\\nよう飛び回りはるねえ",
+    "insert_word_type": 0
+}{
+    "id": 464,
+    "unit_id": 101101,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "今日も１日\\n勉強がんばります！\\n…少しは遊ぼうかな",
+    "insert_word_type": 0
+}{
+    "id": 489,
+    "unit_id": 101102,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "今日も１日\\n勉強がんばります！\\n…少しは遊ぼうかな",
+    "insert_word_type": 0
+}{
+    "id": 514,
+    "unit_id": 101201,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "まだこんな時間？\\nベッドに行って、\\n二度寝しなくちゃ～",
+    "insert_word_type": 0
+}{
+    "id": 539,
+    "unit_id": 101202,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "キミって早起きだね！\\n私は寝ようかな～",
+    "insert_word_type": 0
+}{
+    "id": 564,
+    "unit_id": 101601,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "早起きとか\\nつらたんだよねー\\n昼すぎまで寝てたい",
+    "insert_word_type": 0
+}{
+    "id": 589,
+    "unit_id": 101602,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "今日は早起き\\nできたんだー\\nメイクもばっち\\nきまってるっしょ？",
+    "insert_word_type": 0
+}{
+    "id": 614,
+    "unit_id": 101701,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "ハイターイ！\\n今日も一日、\\nがんばるさー！",
+    "insert_word_type": 0
+}{
+    "id": 639,
+    "unit_id": 101702,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "気持ちのいい朝さー！\\nひとっ走り\\nしてくるさー！",
+    "insert_word_type": 0
+}{
+    "id": 664,
+    "unit_id": 101801,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "学校に\\n遅刻しないように\\n早く準備しないとね",
+    "insert_word_type": 0
+}{
+    "id": 689,
+    "unit_id": 101802,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝の特別授業\\nしてあげましょうか？",
+    "insert_word_type": 0
+}{
+    "id": 714,
+    "unit_id": 102001,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おひさまさん、\\nおはよ～！\\n毎朝、早おきだね～",
+    "insert_word_type": 0
+}{
+    "id": 739,
+    "unit_id": 102002,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おひさまさん\\nおはよ～！\\n毎朝、早おきだね～",
+    "insert_word_type": 0
+}{
+    "id": 764,
+    "unit_id": 102101,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "今日は一日、\\n恥ずかしがらずに\\n過ごせるかなあ…？",
+    "insert_word_type": 0
+}{
+    "id": 789,
+    "unit_id": 102102,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます♪\\n声出しして、お芝居の\\n練習しなくちゃ",
+    "insert_word_type": 0
+}{
+    "id": 814,
+    "unit_id": 102201,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おおおおはよう！\\n…よし！　ちゃんと\\nあいさつできたわ！",
+    "insert_word_type": 0
+}{
+    "id": 839,
+    "unit_id": 102202,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おおおおはよう！\\n…よし！　ちゃんと\\nあいさつできたわ！",
+    "insert_word_type": 0
+}{
+    "id": 864,
+    "unit_id": 102301,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "お兄ちゃんって\\n朝早いんだね～\\n私はまだ眠いよ～",
+    "insert_word_type": 0
+}{
+    "id": 914,
+    "unit_id": 102501,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます♪\\n今日も一日がんば…\\nきゃ、きゃあ！",
+    "insert_word_type": 0
+}{
+    "id": 939,
+    "unit_id": 102502,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます♪\\n今日も一日がんば…\\nう、うわあ！",
+    "insert_word_type": 0
+}{
+    "id": 964,
+    "unit_id": 102701,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます\\n一晩中、あなた様の\\n寝顔を見ていましたわ",
+    "insert_word_type": 0
+}{
+    "id": 989,
+    "unit_id": 102702,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます\\n一晩中、あなた様の\\n寝顔を見ていましたわ",
+    "insert_word_type": 0
+}{
+    "id": 1014,
+    "unit_id": 102801,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "面倒な用事は午前中に\\n片づけてしまうのが、\\n時間の使い方のコツよ",
+    "insert_word_type": 0
+}{
+    "id": 1039,
+    "unit_id": 102802,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "面倒な用事は午前中に\\n片づけてしまうのが\\n時間の使い方のコツよ",
+    "insert_word_type": 0
+}{
+    "id": 1064,
+    "unit_id": 102901,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝の発声練習に\\n行くけど、キミも\\n一緒に来ない？",
+    "insert_word_type": 0
+}{
+    "id": 1089,
+    "unit_id": 102902,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝の発声練習に\\n行くけど、キミも\\n一緒に来ない？",
+    "insert_word_type": 0
+}{
+    "id": 1114,
+    "unit_id": 103001,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようデス！\\n今日も一日\\n忍法日和デス！",
+    "insert_word_type": 0
+}{
+    "id": 1139,
+    "unit_id": 103002,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "いい朝デス！\\nトーゴク風の朝ゴハン\\n作るデス！",
+    "insert_word_type": 0
+}{
+    "id": 1164,
+    "unit_id": 103101,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます\\n今日の運勢を\\n占いましょうか？",
+    "insert_word_type": 0
+}{
+    "id": 1189,
+    "unit_id": 103102,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "今日のラッキー\\nアイテムはドクロです\\n良ければ父を\\nお貸ししましょうか？",
+    "insert_word_type": 0
+}{
+    "id": 1214,
+    "unit_id": 103201,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "早起きは三ルピの徳と\\n申しますが…\\nもっとお得ですわね",
+    "insert_word_type": 0
+}{
+    "id": 1239,
+    "unit_id": 103202,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "なぜだか\\n眠り足りないような\\n感じがしますわ…",
+    "insert_word_type": 0
+}{
+    "id": 1264,
+    "unit_id": 103301,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう！　一緒に\\n牛の乳しぼりいくべ？",
+    "insert_word_type": 0
+}{
+    "id": 1289,
+    "unit_id": 103302,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう！\\n今日もいい\\nネタ作り日和だ！",
+    "insert_word_type": 0
+}{
+    "id": 1314,
+    "unit_id": 103401,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう…朝は\\nちょっとつらいな…\\n低血圧なのよ…",
+    "insert_word_type": 0
+}{
+    "id": 1339,
+    "unit_id": 103402,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "さーて、今日も\\nいっちょやるぞー！",
+    "insert_word_type": 0
+}{
+    "id": 1364,
+    "unit_id": 103801,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "えっと、朝食の前には\\nこの薬を飲んで…\\n食後にはこの薬を…",
+    "insert_word_type": 0
+}{
+    "id": 1389,
+    "unit_id": 103802,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "えっと、朝食の前には\\nこの薬を飲んで…\\n食後にはこの薬を…",
+    "insert_word_type": 0
+}{
+    "id": 1414,
+    "unit_id": 104001,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます！\\n今日もＢＢ団、\\nがんばるぞー！",
+    "insert_word_type": 0
+}{
+    "id": 1439,
+    "unit_id": 104002,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝ですね！\\nこんないい朝は\\n友達作りのチャンス！",
+    "insert_word_type": 0
+}{
+    "id": 1464,
+    "unit_id": 104201,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます♪\\n少し歌の練習を\\nしてきますね",
+    "insert_word_type": 0
+}{
+    "id": 1489,
+    "unit_id": 104202,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "呼吸を深く、大きく…\\nこれでちゃんと\\n目が覚めますよ",
+    "insert_word_type": 0
+}{
+    "id": 1514,
+    "unit_id": 104301,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "気持ちいい朝だな！\\n体を動かしたい気分だ\\n付き合ってくれるか",
+    "insert_word_type": 0
+}{
+    "id": 1539,
+    "unit_id": 104302,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "気持ちいい朝だな！\\n体を動かしたい気分だ\\n付き合ってくれるか？",
+    "insert_word_type": 0
+}{
+    "id": 1564,
+    "unit_id": 104501,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます。\\n朝からお盛んですね？\\nぐふふ…",
+    "insert_word_type": 0
+}{
+    "id": 1589,
+    "unit_id": 104502,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝だからこそ\\nできる妄想が\\nあります…ぐふふ",
+    "insert_word_type": 0
+}{
+    "id": 1614,
+    "unit_id": 104601,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "いい朝にゃ！\\n顔を洗ってくるにゃ！",
+    "insert_word_type": 0
+}{
+    "id": 1639,
+    "unit_id": 104602,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "いい朝にゃ！\\n顔を洗ってくるにゃ！",
+    "insert_word_type": 0
+}{
+    "id": 1664,
+    "unit_id": 104801,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう！\\n今日も朝から\\nバイトよ！",
+    "insert_word_type": 0
+}{
+    "id": 1689,
+    "unit_id": 104802,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう！\\nいい朝ね。一緒に\\nランニングでもいく？",
+    "insert_word_type": 0
+}{
+    "id": 1714,
+    "unit_id": 104901,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "着替えは？　荷物は？\\nお出かけの準備は\\nお姉ちゃんが手伝うね",
+    "insert_word_type": 0
+}{
+    "id": 1739,
+    "unit_id": 104902,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "着替えは？　荷物は？\\nお出かけの準備は\\nお姉ちゃんが手伝うね",
+    "insert_word_type": 0
+}{
+    "id": 1764,
+    "unit_id": 105001,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝のスキンケアは\\n大事なの！",
+    "insert_word_type": 0
+}{
+    "id": 1789,
+    "unit_id": 105002,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "レディの朝は\\n忙しいのよ",
+    "insert_word_type": 0
+}{
+    "id": 1814,
+    "unit_id": 105101,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "お昼までに調合用の\\n花を集めたいの\\n手伝ってくれる？",
+    "insert_word_type": 0
+}{
+    "id": 1839,
+    "unit_id": 105102,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝しか取れない\\n植物があるの\\n採取しに行くわよ",
+    "insert_word_type": 0
+}{
+    "id": 1864,
+    "unit_id": 105201,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "今朝は寝癖がひどいわ\\nしっぽの辺りとか～",
+    "insert_word_type": 0
+}{
+    "id": 1889,
+    "unit_id": 105202,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "今朝は寝癖がひどいわ\\nしっぽの辺りとか～",
+    "insert_word_type": 0
+}{
+    "id": 1914,
+    "unit_id": 105301,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "うむ、いい朝だ。\\n本国の夜明けを\\n思い出してしまうな！",
+    "insert_word_type": 0
+}{
+    "id": 1939,
+    "unit_id": 105302,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "うむ、いい朝だ\\n本国の夜明けを\\n思い出してしまうな！",
+    "insert_word_type": 0
+}{
+    "id": 1964,
+    "unit_id": 105701,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう！\\n体の調子はどう？\\n今日は頑張れそう？",
+    "insert_word_type": 0
+}{
+    "id": 1989,
+    "unit_id": 105702,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "ちゃんと起きてるか？\\n寝ぼけてたら\\nダメよ？",
+    "insert_word_type": 0
+}{
+    "id": 2014,
+    "unit_id": 105801,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝ごはんも終わったし\\n早速ブランチを\\n食べませんか？",
+    "insert_word_type": 0
+}{
+    "id": 2039,
+    "unit_id": 105802,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝ごはんも終わったし\\n早速ブランチを\\n食べませんか？",
+    "insert_word_type": 0
+}{
+    "id": 2064,
+    "unit_id": 106001,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "美食殿としては、\\n朝食もこだわらないと\\nねぇ～",
+    "insert_word_type": 0
+}{
+    "id": 2089,
+    "unit_id": 106002,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "美食殿としては\\n朝食もこだわらないと\\nねぇ～",
+    "insert_word_type": 0
+}{
+    "id": 2114,
+    "unit_id": 105901,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます。\\n洗濯をしなければ…",
+    "insert_word_type": 0
+}{
+    "id": 2139,
+    "unit_id": 105902,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます♪\\n主さまの可愛らしい\\n寝顔、堪能致しました",
+    "insert_word_type": 0
+}{
+    "id": 2155,
+    "unit_id": 190801,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます！\\nお掃除の方、\\nはじめていきますね",
+    "insert_word_type": 0
+}{
+    "id": 2171,
+    "unit_id": 104701,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "早いな少年\\nえ？　私の仕事に\\n合わせてくれたのか",
+    "insert_word_type": 0
+}{
+    "id": 2196,
+    "unit_id": 102601,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "ふわ～っ…\\nおはよう…あたしは\\nまだ眠いよ",
+    "insert_word_type": 0
+}{
+    "id": 2221,
+    "unit_id": 106301,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう！\\n今日も一緒に\\n頑張ろうね！",
+    "insert_word_type": 0
+}{
+    "id": 2246,
+    "unit_id": 103601,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "顔を洗って、着替えて\\n朝ごはんを食べて、\\n歯を磨いて…",
+    "insert_word_type": 0
+}{
+    "id": 2271,
+    "unit_id": 101501,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう～\\nちゃんと朝ごはんは\\n食べた？",
+    "insert_word_type": 0
+}{
+    "id": 2296,
+    "unit_id": 104401,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝早くから感心じゃの\\nさすがわらわの\\n眷属じゃ",
+    "insert_word_type": 0
+}{
+    "id": 2321,
+    "unit_id": 105401,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます…\\nなんで朝って毎日\\nやってくるんでしょう",
+    "insert_word_type": 0
+}{
+    "id": 2346,
+    "unit_id": 107501,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝の海も\\n幻想的で\\nいいですよねぇ～！",
+    "insert_word_type": 0
+}{
+    "id": 2373,
+    "unit_id": 107601,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようございます。\\n泳ぎに行く準備は\\n万端です",
+    "insert_word_type": 0
+}{
+    "id": 2400,
+    "unit_id": 107701,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝は暑くてやる気が\\n出ない？　でしたら、\\nえぇい、元気になぁれ",
+    "insert_word_type": 0
+}{
+    "id": 2427,
+    "unit_id": 107801,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "は、早起きしたのは、\\n楽しみで眠れなかった\\nからじゃないわよ！",
+    "insert_word_type": 0
+}{
+    "id": 2454,
+    "unit_id": 108001,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう、いい朝ね！\\n今日もめいっぱい\\n稼ぐわよ！",
+    "insert_word_type": 0
+}{
+    "id": 2481,
+    "unit_id": 107901,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはようにゃ！\\n今日も頑張って\\nいくにゃー！",
+    "insert_word_type": 0
+}{
+    "id": 2508,
+    "unit_id": 103701,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "私は朝から鍛錬だよ。\\n慣れてるけど大変だ。\\nお互いに頑張ろうね",
+    "insert_word_type": 0
+}{
+    "id": 2533,
+    "unit_id": 100501,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "お、早いッスね～♪\\n今日も一日一善\\nよろしくッス！",
+    "insert_word_type": 0
+}{
+    "id": 2558,
+    "unit_id": 108101,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "ハッピーハロウィン…\\n父が元気なので\\n今日の運気は良好です",
+    "insert_word_type": 0
+}{
+    "id": 2585,
+    "unit_id": 108201,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝ごはんは\\nカボチャプリンなの！\\nハロウィンっぽいの～",
+    "insert_word_type": 0
+}{
+    "id": 2612,
+    "unit_id": 108301,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "朝食はオシャレに\\nグリーンスムージー！\\n…に、にがぁ",
+    "insert_word_type": 0
+}{
+    "id": 2639,
+    "unit_id": 107101,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "なにか愉快なことが\\n起こりそうな朝だ☆\\nワクワクするね",
+    "insert_word_type": 0
+}{
+    "id": 2664,
+    "unit_id": 105601,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよう、お前さん\\n魚屋は早起きでなきゃ\\nつとまらないよ？",
+    "insert_word_type": 0
+}{
+    "id": 2689,
+    "unit_id": 101301,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "おはよー…\\n徹夜で本読んでたから\\nまだ眠い～",
+    "insert_word_type": 0
+}{
+    "id": 2710,
+    "unit_id": 190901,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "人間の朝は大変ねぇ…\\n私はその様を見ながら\\nゆっくりするわね♪",
+    "insert_word_type": 0
+}{
+    "id": 2735,
+    "unit_id": 108401,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "今日も一日\\n幸せな歌で世界が\\n包まれますように…",
+    "insert_word_type": 0
+}{
+    "id": 2762,
+    "unit_id": 108501,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "うう…パーティーが\\n楽しみで、あんまり\\n眠れなかったよぅ…",
+    "insert_word_type": 0
+}{
+    "id": 15,
+    "unit_id": 100101,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ユイちゃんに\\nおやつ作って\\nもらおうかな～♪",
+    "insert_word_type": 0
+}{
+    "id": 40,
+    "unit_id": 100102,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ユイちゃんに\\nおやつ作って\\nもらおうかな～♪",
+    "insert_word_type": 0
+}{
+    "id": 65,
+    "unit_id": 100201,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼休みだね\\nあの…良かったら\\nお弁当…食べない？",
+    "insert_word_type": 0
+}{
+    "id": 90,
+    "unit_id": 100202,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お腹空いちゃった…\\nそうだ。騎士クンも\\n一緒にお昼食べない？",
+    "insert_word_type": 0
+}{
+    "id": 115,
+    "unit_id": 100301,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "そろそろ\\nお茶の時間か\\nキミも一緒にどう？",
+    "insert_word_type": 0
+}{
+    "id": 140,
+    "unit_id": 100302,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "休息も時には\\n必要だと、仲間から\\n教わったよ",
+    "insert_word_type": 0
+}{
+    "id": 165,
+    "unit_id": 100401,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "にいちゃんが\\n昼寝したら、\\nイタズラし放題♪",
+    "insert_word_type": 0
+}{
+    "id": 190,
+    "unit_id": 100402,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "にいちゃんが昼寝したら\\nイタズラし放題♪",
+    "insert_word_type": 0
+}{
+    "id": 215,
+    "unit_id": 100601,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "こんな明るい時間から\\nす、するんですか…\\n二人っきりの特訓…",
+    "insert_word_type": 0
+}{
+    "id": 240,
+    "unit_id": 100602,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お兄ちゃんに\\n食べてもらいたいなぁ\\n手作りのお昼ごはん",
+    "insert_word_type": 0
+}{
+    "id": 265,
+    "unit_id": 100701,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼ご飯はプリンなの\\n３時のおやつも、\\nプリンなの～",
+    "insert_word_type": 0
+}{
+    "id": 290,
+    "unit_id": 100702,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "う～ら～め～し～や～\\n…明るい時間だと\\n驚かせないの～ ",
+    "insert_word_type": 0
+}{
+    "id": 315,
+    "unit_id": 100801,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "さーて、午後からも\\n可愛く美しく\\n華麗に優雅に♪",
+    "insert_word_type": 0
+}{
+    "id": 340,
+    "unit_id": 100802,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ボクの美しさを\\n維持するために\\nお昼ご飯食べなくちゃ",
+    "insert_word_type": 0
+}{
+    "id": 365,
+    "unit_id": 100901,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "昼間は「ヤツら」も\\n襲ってはこない…\\n束の間の休息だ",
+    "insert_word_type": 0
+}{
+    "id": 390,
+    "unit_id": 100902,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "平穏な時に\\n出来るだけ魔力を\\n溜めておかねば…",
+    "insert_word_type": 0
+}{
+    "id": 415,
+    "unit_id": 101001,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お茶請けはお大福が\\nよろしおすけど\\nクッキーもええなあ",
+    "insert_word_type": 0
+}{
+    "id": 440,
+    "unit_id": 101002,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "マホマホ王国では\\nこの時分は\\nみんなお昼寝\\nしてたんよ",
+    "insert_word_type": 0
+}{
+    "id": 465,
+    "unit_id": 101101,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼休憩に\\n甘いものが\\n食べたいです～",
+    "insert_word_type": 0
+}{
+    "id": 490,
+    "unit_id": 101102,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼休憩に\\n甘いものが\\n食べたいです～",
+    "insert_word_type": 0
+}{
+    "id": 515,
+    "unit_id": 101201,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "適度なお昼寝は\\n健康にいいんだって！\\n８時間くらいかな？",
+    "insert_word_type": 0
+}{
+    "id": 540,
+    "unit_id": 101202,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "適度なお昼寝は\\n健康にいいんだって！\\n８時間くらいかな？",
+    "insert_word_type": 0
+}{
+    "id": 565,
+    "unit_id": 101601,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "撮影にむけて\\nダイエットちうだから\\nお昼ぬいてるんだー",
+    "insert_word_type": 0
+}{
+    "id": 590,
+    "unit_id": 101602,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "撮影にむけて\\nダイエットちうだから\\nお昼ぬいてるんだー",
+    "insert_word_type": 0
+}{
+    "id": 615,
+    "unit_id": 101701,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "午後も頑張るために\\nお昼ご飯は\\nてびちにするさー！",
+    "insert_word_type": 0
+}{
+    "id": 640,
+    "unit_id": 101702,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "午後も頑張るために\\nお昼ご飯は\\nてびちにするさー！ ",
+    "insert_word_type": 0
+}{
+    "id": 665,
+    "unit_id": 101801,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "男の子といっしょに\\nお弁当を食べるの、\\n夢なんだ～",
+    "insert_word_type": 0
+}{
+    "id": 690,
+    "unit_id": 101802,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "午後の授業って\\n眠いでしょう？\\n気持ちは分かるけど\\nがんばってね♪",
+    "insert_word_type": 0
+}{
+    "id": 715,
+    "unit_id": 102001,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "うわぁ！\\nお日さまがすごーく\\n高いところにある～",
+    "insert_word_type": 0
+}{
+    "id": 740,
+    "unit_id": 102002,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼寝お昼寝～♪\\nおにいちゃんと一緒に\\nお昼寝～♪",
+    "insert_word_type": 0
+}{
+    "id": 765,
+    "unit_id": 102101,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼ご飯、どうぞ♪\\nわ、私、お料理、\\nうまくなったかな？",
+    "insert_word_type": 0
+}{
+    "id": 790,
+    "unit_id": 102102,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お茶にしますか？\\nクッキー焼いたので、\\nよかったら…",
+    "insert_word_type": 0
+}{
+    "id": 815,
+    "unit_id": 102201,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "一緒にごはんとか…\\nううん、やっぱいい！\\nなんでもないからっ！",
+    "insert_word_type": 0
+}{
+    "id": 840,
+    "unit_id": 102202,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "一緒にごはんとか…\\nううん、やっぱいい！\\nなんでもないからっ！",
+    "insert_word_type": 0
+}{
+    "id": 865,
+    "unit_id": 102301,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ふぁ～…ぷうきちと\\nお昼寝してくるね…",
+    "insert_word_type": 0
+}{
+    "id": 915,
+    "unit_id": 102501,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼ごはん…\\n失敗しちゃいましたぁ\\nお、おやつでリベンジします！",
+    "insert_word_type": 0
+}{
+    "id": 940,
+    "unit_id": 102502,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼ごはん…\\n失敗しちゃいましたぁ\\nお、おやつでリベンジします！",
+    "insert_word_type": 0
+}{
+    "id": 965,
+    "unit_id": 102701,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼を用意しましたの\\n何も入れていませんわ\\nクスクス…",
+    "insert_word_type": 0
+}{
+    "id": 990,
+    "unit_id": 102702,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "さあ、お食事ですよ\\n味は保証しますわ\\n特製ソースで少しだけ\\n体が痺れますけど…",
+    "insert_word_type": 0
+}{
+    "id": 1015,
+    "unit_id": 102801,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "午後のティータイム\\nとかどう？\\n良いカフェがあるの♪",
+    "insert_word_type": 0
+}{
+    "id": 1040,
+    "unit_id": 102802,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ランチにして午後の\\n仕事に備えましょ！\\nやることは一杯よ♪",
+    "insert_word_type": 0
+}{
+    "id": 1065,
+    "unit_id": 102901,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "この時間は\\nお腹すくけど…\\n水着撮影があるから\\nお昼抜いてるんだ",
+    "insert_word_type": 0
+}{
+    "id": 1090,
+    "unit_id": 102902,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼ごはん行かない？\\n誰にも知られてない\\nお店があるんだけど！",
+    "insert_word_type": 0
+}{
+    "id": 1115,
+    "unit_id": 103001,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "そろそろお腹\\n空いてきたデス。\\n昼ごはんにするデス！",
+    "insert_word_type": 0
+}{
+    "id": 1140,
+    "unit_id": 103002,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "もうお昼デス\\nお昼寝するデスか？",
+    "insert_word_type": 0
+}{
+    "id": 1165,
+    "unit_id": 103101,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "今日のラッキー\\nアイテムはドクロです\\n良ければ父を\\nお貸ししましょうか？",
+    "insert_word_type": 0
+}{
+    "id": 1190,
+    "unit_id": 103102,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "明るい時間は\\nあまり得意では\\nないんです…",
+    "insert_word_type": 0
+}{
+    "id": 1215,
+    "unit_id": 103201,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "昼食は町の屋台で\\n立ったまま食べて\\nみたいですわ！",
+    "insert_word_type": 0
+}{
+    "id": 1240,
+    "unit_id": 103202,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "昼食は町の屋台で\\n立ったまま食べて\\nみたいですわ！",
+    "insert_word_type": 0
+}{
+    "id": 1265,
+    "unit_id": 103301,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼だ～腹が減っては\\n笑いはできぬ～！",
+    "insert_word_type": 0
+}{
+    "id": 1290,
+    "unit_id": 103302,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼だな\\nご飯を食べたら、\\nネタの練習するべ！",
+    "insert_word_type": 0
+}{
+    "id": 1315,
+    "unit_id": 103401,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "おっひるー♪\\nなに食べよっかな～♪",
+    "insert_word_type": 0
+}{
+    "id": 1340,
+    "unit_id": 103402,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "後でのんびり\\nストレッチでも\\nしようっと♪",
+    "insert_word_type": 0
+}{
+    "id": 1365,
+    "unit_id": 103801,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ふぅ…午前中\\n動いたので体力が…\\nすこし休みますね",
+    "insert_word_type": 0
+}{
+    "id": 1390,
+    "unit_id": 103802,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "…お昼の薬？\\nあ、飲み忘れてました\\nありがとうございます",
+    "insert_word_type": 0
+}{
+    "id": 1415,
+    "unit_id": 104001,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "なんだか、お腹が\\n空いてきました。\\nお昼ごはんー♪",
+    "insert_word_type": 0
+}{
+    "id": 1440,
+    "unit_id": 104002,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "あの…そろそろお腹\\nすきませんか？\\nお昼ごはんは…",
+    "insert_word_type": 0
+}{
+    "id": 1465,
+    "unit_id": 104201,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "もうお昼なんですか？\\n練習に夢中で\\n気づきませんでした",
+    "insert_word_type": 0
+}{
+    "id": 1490,
+    "unit_id": 104202,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "少し休んだら\\n午後の練習に\\n行ってきますね",
+    "insert_word_type": 0
+}{
+    "id": 1515,
+    "unit_id": 104301,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "昼飯もう食ったか？\\nまだなら、あたしが\\nなんか作ってやるよ",
+    "insert_word_type": 0
+}{
+    "id": 1540,
+    "unit_id": 104302,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "昼飯もう食ったか？\\nまだなら、あたしが\\nなんか作ってやるよ",
+    "insert_word_type": 0
+}{
+    "id": 1565,
+    "unit_id": 104501,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "こんなにも日の高い\\nうちからドＳさんは…\\nじゅるり",
+    "insert_word_type": 0
+}{
+    "id": 1590,
+    "unit_id": 104502,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "こんな日の高いうち\\nからドＳさんは…\\nじゅるり",
+    "insert_word_type": 0
+}{
+    "id": 1615,
+    "unit_id": 104601,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "むーん、そろそろ\\nお昼…猫たちにも\\n猫缶を…",
+    "insert_word_type": 0
+}{
+    "id": 1640,
+    "unit_id": 104602,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "そろそろおっひる～\\nにゃーんか\\n食べたい…",
+    "insert_word_type": 0
+}{
+    "id": 1665,
+    "unit_id": 104801,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼時ね。\\n少し休憩したら、\\nまた働くわよ！",
+    "insert_word_type": 0
+}{
+    "id": 1690,
+    "unit_id": 104802,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼時ね\\n少し休憩したら\\nまた働くわよ！",
+    "insert_word_type": 0
+}{
+    "id": 1715,
+    "unit_id": 104901,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "出かけるなら\\n明るいうちに\\n帰ってくるんだよ！",
+    "insert_word_type": 0
+}{
+    "id": 1740,
+    "unit_id": 104902,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お姉ちゃんが\\nお昼ごはん\\n作ってあげようか？",
+    "insert_word_type": 0
+}{
+    "id": 1765,
+    "unit_id": 105001,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お腹すいたー\\nダイエット\\nやめちゃおうかなー",
+    "insert_word_type": 0
+}{
+    "id": 1790,
+    "unit_id": 105002,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お腹すいたー\\nダイエット\\nやめちゃおうかなー",
+    "insert_word_type": 0
+}{
+    "id": 1815,
+    "unit_id": 105101,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "あら、もうお昼？\\nそろそろ一息\\n入れましょうか",
+    "insert_word_type": 0
+}{
+    "id": 1840,
+    "unit_id": 105102,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼時ってやけに\\n眠たくなるわよね\\n…調べたくなるわ",
+    "insert_word_type": 0
+}{
+    "id": 1865,
+    "unit_id": 105201,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ランチは\\nおしゃれなカフェで\\nしてみたいな～♪",
+    "insert_word_type": 0
+}{
+    "id": 1890,
+    "unit_id": 105202,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ダイエット中だから\\nお昼は抜いてるの～",
+    "insert_word_type": 0
+}{
+    "id": 1915,
+    "unit_id": 105301,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "そろそろ昼食に\\nするか。腹が減っては\\n戦はできないからな",
+    "insert_word_type": 0
+}{
+    "id": 1940,
+    "unit_id": 105302,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "そろそろ昼時だな\\n鍛錬の手を緩めて\\n昼食にするか",
+    "insert_word_type": 0
+}{
+    "id": 1965,
+    "unit_id": 105701,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ねえねえ、お昼\\n食べに行こうよ！\\nお腹空いちゃった",
+    "insert_word_type": 0
+}{
+    "id": 1990,
+    "unit_id": 105702,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "腹減ったね…\\nなにか食べに\\n行くよ！",
+    "insert_word_type": 0
+}{
+    "id": 2015,
+    "unit_id": 105801,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼ご飯、\\nおいしかったですね～\\nそれじゃあ、そろそろ\\nおやつにしましょう☆",
+    "insert_word_type": 0
+}{
+    "id": 2040,
+    "unit_id": 105802,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼ご飯\\nおいしかったですね～\\nそれじゃあ、そろそろ\\nおやつにしましょう☆",
+    "insert_word_type": 0
+}{
+    "id": 2065,
+    "unit_id": 106001,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ギルド活動だもん！\\n美味しいランチを\\n食べましょ♪",
+    "insert_word_type": 0
+}{
+    "id": 2090,
+    "unit_id": 106002,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ギルド活動だもん！\\n美味しいランチを\\n食べましょ♪",
+    "insert_word_type": 0
+}{
+    "id": 2115,
+    "unit_id": 105901,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "そろそろお昼ですね。\\nおいしいものを\\n食べましょう",
+    "insert_word_type": 0
+}{
+    "id": 2140,
+    "unit_id": 105902,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "のんびりした時間帯\\nですね…ふぁ～…\\nし、失礼致しました",
+    "insert_word_type": 0
+}{
+    "id": 2156,
+    "unit_id": 190801,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "皆さん、お昼ごはんの\\nご要望がありましたら\\n用意致しますよ♪",
+    "insert_word_type": 0
+}{
+    "id": 2172,
+    "unit_id": 104701,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "昼食の誘い？\\n嬉しいけど\\n人前では食べないんだ",
+    "insert_word_type": 0
+}{
+    "id": 2197,
+    "unit_id": 102601,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "そろそろお昼寝でも\\nしたい気分だねぇ",
+    "insert_word_type": 0
+}{
+    "id": 2222,
+    "unit_id": 106301,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼はどうする？\\nあなたのオススメに\\n連れて行って欲しいな",
+    "insert_word_type": 0
+}{
+    "id": 2247,
+    "unit_id": 103601,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "て、鉄棒の練習！？　\\nほ、他のことを\\nしませんか？",
+    "insert_word_type": 0
+}{
+    "id": 2272,
+    "unit_id": 101501,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼寝の時間ね♪\\nあなたも一緒に\\n寝ましょうか",
+    "insert_word_type": 0
+}{
+    "id": 2297,
+    "unit_id": 104401,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "太陽は苦手じゃ…\\nこの部屋の中で\\n過ごそうぞ",
+    "insert_word_type": 0
+}{
+    "id": 2322,
+    "unit_id": 105401,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お腹空きましたね\\n騎士さんはちゃんと\\n御飯食べましたか？",
+    "insert_word_type": 0
+}{
+    "id": 2347,
+    "unit_id": 107501,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼はみんなで、\\n海鮮バーベキューとか\\nどうでしょう！",
+    "insert_word_type": 0
+}{
+    "id": 2374,
+    "unit_id": 107601,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "午後は泳ぐのをやめて\\nスイカ割りなど\\nいかがでしょう？",
+    "insert_word_type": 0
+}{
+    "id": 2401,
+    "unit_id": 107701,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お腹がぺこぺこなら、\\nお昼は海の家で\\n食べましょう♪",
+    "insert_word_type": 0
+}{
+    "id": 2428,
+    "unit_id": 107801,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "昼食後のストレッチ\\n終わり！　さあ、\\nビーチが待ってるわ！",
+    "insert_word_type": 0
+}{
+    "id": 2455,
+    "unit_id": 108001,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "もうお昼だったのね…\\n内職のバイトに\\n集中しすぎちゃったわ",
+    "insert_word_type": 0
+}{
+    "id": 2482,
+    "unit_id": 107901,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お腹すいたにゃ～…\\nお魚、ちょっとだけ、\\nつまみ食いするにゃ",
+    "insert_word_type": 0
+}{
+    "id": 2509,
+    "unit_id": 103701,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "鍛錬でお腹ぺこぺこ。\\nお昼ごはんが\\n楽しみだね",
+    "insert_word_type": 0
+}{
+    "id": 2534,
+    "unit_id": 100501,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "一休みしながら\\nヒーローについて\\n語り合うッスよ～！",
+    "insert_word_type": 0
+}{
+    "id": 2559,
+    "unit_id": 108101,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "父はお昼寝中です\\n本当に寝ているかは\\n私にも分かりませんが",
+    "insert_word_type": 0
+}{
+    "id": 2586,
+    "unit_id": 108201,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ランチは豪華に\\nプリンアラモードなの",
+    "insert_word_type": 0
+}{
+    "id": 2613,
+    "unit_id": 108301,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "昼下がりはカフェで\\n優雅なティータイム\\n…憧れるわ～",
+    "insert_word_type": 0
+}{
+    "id": 2640,
+    "unit_id": 107101,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "うーむ、腹がすいたな\\n愉快なことで\\nこの空腹を満たしたい",
+    "insert_word_type": 0
+}{
+    "id": 2665,
+    "unit_id": 105601,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "昼飯かい？　今朝\\n仕入れた魚があるんだ\\n食べてみるかい？",
+    "insert_word_type": 0
+}{
+    "id": 2690,
+    "unit_id": 101301,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "昼飯食べて、\\n午後の定期巡回も\\n頑張りましょー！",
+    "insert_word_type": 0
+}{
+    "id": 2711,
+    "unit_id": 190901,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "う～私も、お日様を\\n浴びながら、お外を\\nお散歩したーい！",
+    "insert_word_type": 0
+}{
+    "id": 2736,
+    "unit_id": 108401,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お茶を飲みながら\\n好きな音楽を\\n語り合いませんか？",
+    "insert_word_type": 0
+}{
+    "id": 2763,
+    "unit_id": 108501,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "ケーキを食べられなく\\nなっちゃうから、\\nお昼は軽めにしないと",
+    "insert_word_type": 0
+}{
+    "id": 16,
+    "unit_id": 100101,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "寝るのも修行だって\\nこないだレイさんが\\n言ってたんだ…",
+    "insert_word_type": 0
+}{
+    "id": 41,
+    "unit_id": 100102,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "寝るのも修行だって\\nこないだレイさんが\\n言ってたんだ…",
+    "insert_word_type": 0
+}{
+    "id": 66,
+    "unit_id": 100201,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "遅くまでお疲れ様\\n明日も頑張ろうね\\nふわぁ…",
+    "insert_word_type": 0
+}{
+    "id": 91,
+    "unit_id": 100202,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "もうこんな時間…\\nそろそろ寝なくちゃ\\nおやすみなさい",
+    "insert_word_type": 0
+}{
+    "id": 116,
+    "unit_id": 100301,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "遅くまで大変だね\\nまだ仕事があるなら\\n手伝おうか？",
+    "insert_word_type": 0
+}{
+    "id": 141,
+    "unit_id": 100302,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "遅くまで大変だね\\nまだ仕事があるなら\\n手伝おうか？",
+    "insert_word_type": 0
+}{
+    "id": 166,
+    "unit_id": 100401,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜の探検も\\nおもしろそう！\\nねぇ出かけちゃダメ？",
+    "insert_word_type": 0
+}{
+    "id": 191,
+    "unit_id": 100402,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜の探検も\\nおもしろそう！\\nねぇ出かけちゃダメ？",
+    "insert_word_type": 0
+}{
+    "id": 216,
+    "unit_id": 100601,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜はこれからですよ\\nお兄ちゃん♪",
+    "insert_word_type": 0
+}{
+    "id": 241,
+    "unit_id": 100602,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "お風呂入ってきますね\\nそのあとは…\\n二人でい～っぱい\\n遊びましょうね",
+    "insert_word_type": 0
+}{
+    "id": 266,
+    "unit_id": 100701,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ディナーは豪華に、\\nプリンのフルコース\\nなの～♪",
+    "insert_word_type": 0
+}{
+    "id": 291,
+    "unit_id": 100702,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ひゅ～どろどろ～ん☆\\n真っ暗なうちに\\nいたずらしまくるの～♪",
+    "insert_word_type": 0
+}{
+    "id": 316,
+    "unit_id": 100801,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "バラの花びら\\nいっぱい浮かべた\\nお風呂に入ってから\\n寝ようっと♪",
+    "insert_word_type": 0
+}{
+    "id": 341,
+    "unit_id": 100802,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "バラの花びらいっぱい\\n浮かべたお風呂に\\n入ってから\\n寝ようっと♪",
+    "insert_word_type": 0
+}{
+    "id": 366,
+    "unit_id": 100901,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "どうした？　夜はまだ\\nこれから…ふぁ…\\nね、眠くなどないぞ！",
+    "insert_word_type": 0
+}{
+    "id": 391,
+    "unit_id": 100902,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜になると、力が\\n増した気分になるな\\n…なりませんか？",
+    "insert_word_type": 0
+}{
+    "id": 416,
+    "unit_id": 101001,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "うち、普段から\\n夢見がちやけど…\\nほんに眠い時間やわぁ",
+    "insert_word_type": 0
+}{
+    "id": 441,
+    "unit_id": 101002,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜に飛んだり鳴いたり\\nする鳥はんもおるんよ\\n昼は寝てはるんかねぇ",
+    "insert_word_type": 0
+}{
+    "id": 466,
+    "unit_id": 101101,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ねむいです～\\nでももうちょっと\\n勉強しないと～…",
+    "insert_word_type": 0
+}{
+    "id": 491,
+    "unit_id": 101102,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "お兄ちゃんは\\n夜強いんですね\\n私は眠くて…",
+    "insert_word_type": 0
+}{
+    "id": 516,
+    "unit_id": 101201,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "どんなにお昼寝しても\\n夜は眠いんだ～",
+    "insert_word_type": 0
+}{
+    "id": 541,
+    "unit_id": 101202,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "どんなにお昼寝しても\\n夜は眠いんだ～",
+    "insert_word_type": 0
+}{
+    "id": 566,
+    "unit_id": 101601,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "お腹すいたー\\nでもこの時間に\\n食べたら絶対に\\n太るやつだよねー",
+    "insert_word_type": 0
+}{
+    "id": 591,
+    "unit_id": 101602,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "お腹すいたー\\nでもこの時間に\\n食べたら絶対に\\n太るやつだよねー",
+    "insert_word_type": 0
+}{
+    "id": 616,
+    "unit_id": 101701,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "故郷では見えない星が\\n見られるんだねえ。\\nなんか不思議さぁ",
+    "insert_word_type": 0
+}{
+    "id": 641,
+    "unit_id": 101702,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "故郷では見えない星が\\n見られるんだねえ\\nなんか不思議さぁ ",
+    "insert_word_type": 0
+}{
+    "id": 666,
+    "unit_id": 101801,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "明日の予習はやった？\\n先生も手伝うから\\n寝る前にやりましょ♪",
+    "insert_word_type": 0
+}{
+    "id": 691,
+    "unit_id": 101802,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "明日の予習はやった？\\n先生も手伝うから\\n寝る前にやりましょ♪",
+    "insert_word_type": 0
+}{
+    "id": 716,
+    "unit_id": 102001,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "おにいちゃん\\nおやすみのご本\\nよんで～",
+    "insert_word_type": 0
+}{
+    "id": 741,
+    "unit_id": 102002,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "眠くなっちゃった～\\nおにいちゃん！\\n今日は一緒に寝よ～",
+    "insert_word_type": 0
+}{
+    "id": 766,
+    "unit_id": 102101,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "おにいちゃんが\\n帰ってくるまで、\\nがんばって\\n起きてました",
+    "insert_word_type": 0
+}{
+    "id": 791,
+    "unit_id": 102102,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "寝る前に\\n台本を読むと、\\n覚えやすいんです",
+    "insert_word_type": 0
+}{
+    "id": 816,
+    "unit_id": 102201,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜はこれからよ！\\n朝まで\\nゲームするからね！",
+    "insert_word_type": 0
+}{
+    "id": 841,
+    "unit_id": 102202,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜はこれからよ！\\n朝まで\\nゲームするからね！",
+    "insert_word_type": 0
+}{
+    "id": 866,
+    "unit_id": 102301,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ぷうきちと\\nおしゃべりしてたら\\nもうこんな時間…",
+    "insert_word_type": 0
+}{
+    "id": 916,
+    "unit_id": 102501,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "明日の目標は\\nドジをしないです！\\nき、昨日の目標も\\nドジをしないでした",
+    "insert_word_type": 0
+}{
+    "id": 941,
+    "unit_id": 102502,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "明日の目標は\\nドジをしないです！\\nき、昨日の目標も\\nドジをしないでした",
+    "insert_word_type": 0
+}{
+    "id": 966,
+    "unit_id": 102701,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "あなた様が眠るまで\\nお傍で見守りますわ。\\n…あの、どうして\\n眠らないのですか？",
+    "insert_word_type": 0
+}{
+    "id": 991,
+    "unit_id": 102702,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "あなた様が眠るまで\\nお傍で見守りますわ\\n…あの、どうして\\n眠らないのですか？",
+    "insert_word_type": 0
+}{
+    "id": 1016,
+    "unit_id": 102801,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "さ、エレガントな夜を\\n楽しみましょ。\\nモダンな音楽でも\\nかけましょうか？",
+    "insert_word_type": 0
+}{
+    "id": 1041,
+    "unit_id": 102802,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ふわあ～\\nもうこんな時間\\n子供たちは\\nもう寝たかしら",
+    "insert_word_type": 0
+}{
+    "id": 1066,
+    "unit_id": 102901,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜の帳が二人を包み\\n…こういう方向性の\\n歌詞も悪くないなぁ。",
+    "insert_word_type": 0
+}{
+    "id": 1091,
+    "unit_id": 102902,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜の帳が二人を包み\\n…こういう方向性の\\n歌詞も悪くないなぁ",
+    "insert_word_type": 0
+}{
+    "id": 1116,
+    "unit_id": 103001,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "明日もきっと\\nいい日デスよ、\\nショーグン！",
+    "insert_word_type": 0
+}{
+    "id": 1141,
+    "unit_id": 103002,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "そろそろおネム\\nデース…\\n一緒に寝るデス？",
+    "insert_word_type": 0
+}{
+    "id": 1166,
+    "unit_id": 103101,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "今日のあなたの運気は\\n最高潮でした。\\nもうすぐ今日は\\n終わりますが",
+    "insert_word_type": 0
+}{
+    "id": 1191,
+    "unit_id": 103102,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜のお散歩に\\n行きませんか？\\n知り合いの幽霊に\\n挨拶して回るんです",
+    "insert_word_type": 0
+}{
+    "id": 1216,
+    "unit_id": 103201,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "よろしければ\\nお休み前のミルクを\\n御一緒にいかが？",
+    "insert_word_type": 0
+}{
+    "id": 1241,
+    "unit_id": 103202,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "よろしければ\\nお休み前のミルクを\\n御一緒にいかが？",
+    "insert_word_type": 0
+}{
+    "id": 1266,
+    "unit_id": 103301,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "今日もよく働いたべ！\\nさ、今からは\\nお笑いの練習だ～！",
+    "insert_word_type": 0
+}{
+    "id": 1291,
+    "unit_id": 103302,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "もうこんな時間だべ\\nネタ作りは\\n明日にするべ…",
+    "insert_word_type": 0
+}{
+    "id": 1316,
+    "unit_id": 103401,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ふわあ…\\n眠る前にちょっと\\n一杯…冗談よ",
+    "insert_word_type": 0
+}{
+    "id": 1341,
+    "unit_id": 103402,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "一日よく働いた～！\\n自分にごほうび\\nあげたいなー♪",
+    "insert_word_type": 0
+}{
+    "id": 1366,
+    "unit_id": 103801,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "早く寝ないと\\n体に良くないですよね\\nでも気になっている\\n本があって…",
+    "insert_word_type": 0
+}{
+    "id": 1391,
+    "unit_id": 103802,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "この薬を飲むと\\n眠くなっちゃうんです\\nでもまだ、あなたと\\nお話したいし～",
+    "insert_word_type": 0
+}{
+    "id": 1416,
+    "unit_id": 104001,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "もう眠いかもです…\\n明日は友達、\\nできるといいなあ…",
+    "insert_word_type": 0
+}{
+    "id": 1441,
+    "unit_id": 104002,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "もう眠いかもです…\\n明日は友達\\nできるといいなあ…",
+    "insert_word_type": 0
+}{
+    "id": 1466,
+    "unit_id": 104201,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "明日の予定は…\\nアイドルはやることが\\n多いみたいで…",
+    "insert_word_type": 0
+}{
+    "id": 1491,
+    "unit_id": 104202,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "曲を作っていたら\\nもうこんな時間…\\nおやすみなさい",
+    "insert_word_type": 0
+}{
+    "id": 1516,
+    "unit_id": 104301,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "日中たっぷり動いたら\\nそのぶん夜はしっかり\\n休んどけよな",
+    "insert_word_type": 0
+}{
+    "id": 1541,
+    "unit_id": 104302,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "あんま夜更しすんなよ\\n明日に響いたら\\n大変だろ？",
+    "insert_word_type": 0
+}{
+    "id": 1566,
+    "unit_id": 104501,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜はこれから、\\nですよ…\\nぐふ、ぐふふふ…",
+    "insert_word_type": 0
+}{
+    "id": 1591,
+    "unit_id": 104502,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "今夜は一晩中…\\nなんですね？\\nぐふふ…",
+    "insert_word_type": 0
+}{
+    "id": 1616,
+    "unit_id": 104601,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ふわあ…眠いにゃ…\\n猫は布団で\\n丸くなるにゃ",
+    "insert_word_type": 0
+}{
+    "id": 1641,
+    "unit_id": 104602,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "うーん、眠くなって\\nきたにゃ。あたしは\\n夜行性じゃないのにゃ",
+    "insert_word_type": 0
+}{
+    "id": 1666,
+    "unit_id": 104801,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "もうこんな時間！\\n明日もバイトで\\n朝早いのよ…",
+    "insert_word_type": 0
+}{
+    "id": 1691,
+    "unit_id": 104802,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "もうこんな時間！\\n明日もバイトで\\n朝早いのよ…",
+    "insert_word_type": 0
+}{
+    "id": 1716,
+    "unit_id": 104901,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "まだ起きてるの？\\nそれじゃあ、\\nお姉ちゃんも\\n夜更かししちゃお☆",
+    "insert_word_type": 0
+}{
+    "id": 1741,
+    "unit_id": 104902,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "眠れないの？\\nお姉ちゃんが子守歌\\n歌ってあげるね！",
+    "insert_word_type": 0
+}{
+    "id": 1766,
+    "unit_id": 105001,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "エイジングケアを\\nしないとねー",
+    "insert_word_type": 0
+}{
+    "id": 1791,
+    "unit_id": 105002,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "エイジングケアを\\nしないとねー",
+    "insert_word_type": 0
+}{
+    "id": 1816,
+    "unit_id": 105101,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜も更けて来たわね\\n私は朝まで実験だけど\\n見学していく？",
+    "insert_word_type": 0
+}{
+    "id": 1841,
+    "unit_id": 105102,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "今日くらいは\\nゆっくり眠りたいわ\\n…キミと一緒にね",
+    "insert_word_type": 0
+}{
+    "id": 1866,
+    "unit_id": 105201,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "お肌のケアに\\nパックしながら\\n寝ようかな～",
+    "insert_word_type": 0
+}{
+    "id": 1891,
+    "unit_id": 105202,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "お肌のケアに\\nパックしながら\\n寝ようかな～",
+    "insert_word_type": 0
+}{
+    "id": 1916,
+    "unit_id": 105301,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ふわああ…私は子供\\nではないが…眠い時は\\n眠いのだ…",
+    "insert_word_type": 0
+}{
+    "id": 1941,
+    "unit_id": 105302,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "寝る前に…あと少し\\nだけ、鍛錬を…",
+    "insert_word_type": 0
+}{
+    "id": 1966,
+    "unit_id": 105701,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "…あれ？\\nおしゃべりしてたら\\nもうこんな時間？",
+    "insert_word_type": 0
+}{
+    "id": 1991,
+    "unit_id": 105702,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "修行のしすぎは\\n良くないよ？\\n気をつけるね",
+    "insert_word_type": 0
+}{
+    "id": 2016,
+    "unit_id": 105801,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "お夕飯も、晩ごはんも\\n食べたし…さぁ！\\nお夜食の時間ですよ☆",
+    "insert_word_type": 0
+}{
+    "id": 2041,
+    "unit_id": 105802,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "お夕飯も、晩ごはんも\\n食べたし～。さぁ！\\nお夜食の時間ですよ☆",
+    "insert_word_type": 0
+}{
+    "id": 2066,
+    "unit_id": 106001,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ディナーに行くわよ！\\nギルドの目的、\\n食べ歩きだもんね♪",
+    "insert_word_type": 0
+}{
+    "id": 2091,
+    "unit_id": 106002,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ディナーに行くわよ！\\nギルドの目的\\n食べ歩きだもんね♪",
+    "insert_word_type": 0
+}{
+    "id": 2116,
+    "unit_id": 105901,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "おやすみになる時は、\\nお声をかけてください\\nお供致します",
+    "insert_word_type": 0
+}{
+    "id": 2141,
+    "unit_id": 105902,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ふむ、都会は夜でも\\nこんなにも、にぎやか\\nなのですね",
+    "insert_word_type": 0
+}{
+    "id": 2157,
+    "unit_id": 190801,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ここは夜でも\\nにぎやかですね",
+    "insert_word_type": 0
+}{
+    "id": 2173,
+    "unit_id": 104701,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "王宮騎士団の\\n日報を書かなければ…\\n『何事もなし』、と",
+    "insert_word_type": 0
+}{
+    "id": 2198,
+    "unit_id": 102601,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "徹夜でゲームするけど\\nあんたもどうだい？\\nあたしは強いよ",
+    "insert_word_type": 0
+}{
+    "id": 2223,
+    "unit_id": 106301,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ランドソルは\\n夜でも賑やかだね！",
+    "insert_word_type": 0
+}{
+    "id": 2248,
+    "unit_id": 103601,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ね、眠くないです\\n子供ではありません\\nから…ふわぁ",
+    "insert_word_type": 0
+}{
+    "id": 2273,
+    "unit_id": 101501,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "すっかり真っ暗ね。\\n今日も一日、\\nよくできました♪",
+    "insert_word_type": 0
+}{
+    "id": 2298,
+    "unit_id": 104401,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜も更けてきた！\\nわらわ達の時間は\\nこれからじゃ～♪",
+    "insert_word_type": 0
+}{
+    "id": 2323,
+    "unit_id": 105401,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜の方が\\n作業が捗るのは\\n私だけですかね？",
+    "insert_word_type": 0
+}{
+    "id": 2348,
+    "unit_id": 107501,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜の海は星が\\n綺麗ですよ！\\n見に行きましょう！",
+    "insert_word_type": 0
+}{
+    "id": 2375,
+    "unit_id": 107601,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜も更けてきました…\\n波の音を聞きながら\\n少しお話しませんか？",
+    "insert_word_type": 0
+}{
+    "id": 2402,
+    "unit_id": 107701,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜の浜辺でお散歩も\\nいいですね。たくさん\\n転びそうですけど…",
+    "insert_word_type": 0
+}{
+    "id": 2429,
+    "unit_id": 107801,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜の海に散歩に\\n行こうかな～\\nあんたも来なさいよ☆",
+    "insert_word_type": 0
+}{
+    "id": 2456,
+    "unit_id": 108001,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "スケジュールは、と…\\nこういう管理の徹底が\\n効率を生み出すのよ♪",
+    "insert_word_type": 0
+}{
+    "id": 2483,
+    "unit_id": 107901,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "明日の準備は万端にゃ\\nいつでも\\n出発できるにゃ",
+    "insert_word_type": 0
+}{
+    "id": 2510,
+    "unit_id": 103701,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "今日も一日見回りと\\n鍛錬を頑張ったよ。\\nあなたもお疲れさま",
+    "insert_word_type": 0
+}{
+    "id": 2535,
+    "unit_id": 100501,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜のパトロールで\\n一緒に平和を\\n守るッス！",
+    "insert_word_type": 0
+}{
+    "id": 2560,
+    "unit_id": 108101,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "お父さん、\\nもう眠っちゃったの？\\n…眠れるんだったっけ",
+    "insert_word_type": 0
+}{
+    "id": 2587,
+    "unit_id": 108201,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜は幽霊たちと\\nハロウィンするの！\\nオマエも来るの！",
+    "insert_word_type": 0
+}{
+    "id": 2614,
+    "unit_id": 108301,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ハロウィンナイトの\\nはじまりよ！\\n街に繰り出しましょ！",
+    "insert_word_type": 0
+}{
+    "id": 2641,
+    "unit_id": 107101,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "これからは大人の\\n時間だ。愉しみ方を\\n知りたいのかい？",
+    "insert_word_type": 0
+}{
+    "id": 2666,
+    "unit_id": 105601,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜釣りにぴったりの\\n月が出てるよ\\nいい釣りが出来そうだ",
+    "insert_word_type": 0
+}{
+    "id": 2691,
+    "unit_id": 101301,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "夜からが、\\nオタ活本番でしょ！",
+    "insert_word_type": 0
+}{
+    "id": 2712,
+    "unit_id": 190901,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "この暗さ…閉じ込め\\nられていた時を\\n思い出すわね…",
+    "insert_word_type": 0
+}{
+    "id": 2737,
+    "unit_id": 108401,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ふふ、寝かしつけの\\n子守唄を\\nお望みですか？",
+    "insert_word_type": 0
+}{
+    "id": 2764,
+    "unit_id": 108501,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "ちょっと眠いけど…\\n今日は少しだけ\\n夜更かししたいです♪",
     "insert_word_type": 0
 }

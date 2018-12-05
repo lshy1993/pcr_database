@@ -1,4 +1,4 @@
-DROP TABLE reward_collect_guide;
+DROP TABLE IF EXISTS reward_collect_guide;
 CREATE TABLE IF NOT EXISTS `reward_collect_guide` (`object_id` INTEGER NOT NULL,`quest_id_1` INTEGER NOT NULL,`quest_id_2` INTEGER NOT NULL,`quest_id_3` INTEGER NOT NULL,`quest_id_4` INTEGER NOT NULL,`quest_id_5` INTEGER NOT NULL,`quest_id_6` INTEGER NOT NULL,`quest_id_7` INTEGER NOT NULL,`quest_id_8` INTEGER NOT NULL,`quest_id_9` INTEGER NOT NULL,`quest_id_10` INTEGER NOT NULL,`system_id_1` INTEGER NOT NULL,`system_id_2` INTEGER NOT NULL,`system_id_3` INTEGER NOT NULL,`system_id_4` INTEGER NOT NULL,`system_id_5` INTEGER NOT NULL,PRIMARY KEY(`object_id`));
 INSERT INTO `reward_collect_guide` VALUES (25101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO `reward_collect_guide` VALUES (25201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

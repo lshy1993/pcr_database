@@ -1,4 +1,4 @@
-DROP TABLE clan_battle_boss_fix_reward;
+DROP TABLE IF EXISTS clan_battle_boss_fix_reward;
 CREATE TABLE IF NOT EXISTS `clan_battle_boss_fix_reward` (`fix_reward_id` INTEGER NOT NULL,`reward_type_1` INTEGER NOT NULL,`reward_id_1` INTEGER NOT NULL,`reward_num_1` INTEGER NOT NULL,`reward_type_2` INTEGER NOT NULL,`reward_id_2` INTEGER NOT NULL,`reward_num_2` INTEGER NOT NULL,`reward_type_3` INTEGER NOT NULL,`reward_id_3` INTEGER NOT NULL,`reward_num_3` INTEGER NOT NULL,`reward_type_4` INTEGER NOT NULL,`reward_id_4` INTEGER NOT NULL,`reward_num_4` INTEGER NOT NULL,`reward_type_5` INTEGER NOT NULL,`reward_id_5` INTEGER NOT NULL,`reward_num_5` INTEGER NOT NULL,PRIMARY KEY(`fix_reward_id`));
 INSERT INTO `clan_battle_boss_fix_reward` VALUES (1001101,8,91002,40,2,90006,40,2,22002,1,0,0,0,0,0,0);
 INSERT INTO `clan_battle_boss_fix_reward` VALUES (1001102,8,91002,60,2,90006,50,2,22002,2,0,0,0,0,0,0);

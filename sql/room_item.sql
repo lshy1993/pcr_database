@@ -1,4 +1,4 @@
-DROP TABLE room_item;
+DROP TABLE IF EXISTS room_item;
 CREATE TABLE IF NOT EXISTS `room_item` (`id` INTEGER NOT NULL,`item_type` INTEGER NOT NULL,`category` INTEGER NOT NULL,`name` TEXT NOT NULL,`max_level` INTEGER NOT NULL,`enable_remove` INTEGER NOT NULL,`max_possession_num` INTEGER NOT NULL,`effect_id_1` INTEGER NOT NULL,`shop_start` TEXT NOT NULL,`shop_end` TEXT NOT NULL,`shop_new_disp_end` TEXT NOT NULL,`cost_item_num` INTEGER NOT NULL,`shop_open_type` INTEGER NOT NULL,`shop_open_id` INTEGER NOT NULL,`shop_open_value` INTEGER NOT NULL,`sold_price` INTEGER NOT NULL,`sort` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `room_item` VALUES (1,1,101,"カリンの机",10,1,1,1,"2015-04-01 14:00:00","","",500,0,0,0,0,900143);
 INSERT INTO `room_item` VALUES (3,5,903,"ランドソルの背景",1,1,1,0,"2015-04-01 14:00:00","","",-1,0,0,0,0,900141);

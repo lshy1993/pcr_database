@@ -1,4 +1,4 @@
-DROP TABLE login_bonus_detail;
+DROP TABLE IF EXISTS login_bonus_detail;
 CREATE TABLE IF NOT EXISTS `login_bonus_detail` (`id` INTEGER NOT NULL,`login_bonus_id` INTEGER NOT NULL,`count` INTEGER NOT NULL,`reward_type` INTEGER NOT NULL,`reward_id` INTEGER NOT NULL,`reward_num` INTEGER NOT NULL,`character_id` INTEGER NOT NULL,`character_name` TEXT NOT NULL,`description` TEXT NOT NULL,`voice_id` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `login_bonus_detail` VALUES (1,20000,1,8,91002,100,0,"","",0);
 INSERT INTO `login_bonus_detail` VALUES (2,20000,1,2,23001,20,0,"","",0);

@@ -1,4 +1,4 @@
-DROP TABLE enemy_reward_data;
+DROP TABLE IF EXISTS enemy_reward_data;
 CREATE TABLE IF NOT EXISTS `enemy_reward_data` (`drop_reward_id` INTEGER NOT NULL,`drop_count` INTEGER NOT NULL,`reward_type_1` INTEGER NOT NULL,`reward_id_1` INTEGER NOT NULL,`reward_num_1` INTEGER NOT NULL,`odds_1` INTEGER NOT NULL,`reward_type_2` INTEGER NOT NULL,`reward_id_2` INTEGER NOT NULL,`reward_num_2` INTEGER NOT NULL,`odds_2` INTEGER NOT NULL,`reward_type_3` INTEGER NOT NULL,`reward_id_3` INTEGER NOT NULL,`reward_num_3` INTEGER NOT NULL,`odds_3` INTEGER NOT NULL,`reward_type_4` INTEGER NOT NULL,`reward_id_4` INTEGER NOT NULL,`reward_num_4` INTEGER NOT NULL,`odds_4` INTEGER NOT NULL,`reward_type_5` INTEGER NOT NULL,`reward_id_5` INTEGER NOT NULL,`reward_num_5` INTEGER NOT NULL,`odds_5` INTEGER NOT NULL,PRIMARY KEY(`drop_reward_id`));
 INSERT INTO `enemy_reward_data` VALUES (11001011,1,4,101011,1,54,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO `enemy_reward_data` VALUES (11001012,1,4,101281,1,54,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0);

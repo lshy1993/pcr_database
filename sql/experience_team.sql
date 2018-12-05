@@ -1,4 +1,4 @@
-DROP TABLE experience_team;
+DROP TABLE IF EXISTS experience_team;
 CREATE TABLE IF NOT EXISTS `experience_team` (`team_level` INTEGER NOT NULL,`total_exp` INTEGER NOT NULL,`max_stamina` INTEGER NOT NULL,`over_limit_stamina` INTEGER NOT NULL,`recover_stamina_count` INTEGER NOT NULL,PRIMARY KEY(`team_level`));
 INSERT INTO `experience_team` VALUES (1,0,20,999,30);
 INSERT INTO `experience_team` VALUES (2,24,20,999,30);

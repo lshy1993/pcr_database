@@ -1,4 +1,4 @@
-DROP TABLE room_emotion_icon;
+DROP TABLE IF EXISTS room_emotion_icon;
 CREATE TABLE IF NOT EXISTS `room_emotion_icon` (`id` INTEGER NOT NULL,`enable_auto` INTEGER NOT NULL,`enable_tap` INTEGER NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `room_emotion_icon` VALUES (0,0,0);
 INSERT INTO `room_emotion_icon` VALUES (1,0,0);

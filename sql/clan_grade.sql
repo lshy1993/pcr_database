@@ -1,4 +1,4 @@
-DROP TABLE clan_grade;
+DROP TABLE IF EXISTS clan_grade;
 CREATE TABLE IF NOT EXISTS `clan_grade` (`clan_grade_id` INTEGER NOT NULL,`rank_from` INTEGER NOT NULL,`rank_to` INTEGER NOT NULL,PRIMARY KEY(`clan_grade_id`));
 INSERT INTO `clan_grade` VALUES (1,1,10);
 INSERT INTO `clan_grade` VALUES (2,11,30);

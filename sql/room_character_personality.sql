@@ -1,4 +1,4 @@
-DROP TABLE room_character_personality;
+DROP TABLE IF EXISTS room_character_personality;
 CREATE TABLE IF NOT EXISTS `room_character_personality` (`character_id` INTEGER NOT NULL,`personality_id` INTEGER NOT NULL,PRIMARY KEY(`character_id`));
 INSERT INTO `room_character_personality` VALUES (1001,3);
 INSERT INTO `room_character_personality` VALUES (1002,1);

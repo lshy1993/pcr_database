@@ -1,2 +1,2 @@
-DROP TABLE login_bonus_adv;
+DROP TABLE IF EXISTS login_bonus_adv;
 CREATE TABLE IF NOT EXISTS `login_bonus_adv` (`id` INTEGER NOT NULL,`login_bonus_id` INTEGER NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,`count_key` INTEGER NOT NULL,`adv_id` INTEGER NOT NULL,PRIMARY KEY(`id`));

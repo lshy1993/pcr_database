@@ -1,4 +1,4 @@
-DROP TABLE skill_data;
+DROP TABLE IF EXISTS skill_data;
 CREATE TABLE IF NOT EXISTS `skill_data` (`skill_id` INTEGER NOT NULL,`name` TEXT,`skill_type` INTEGER NOT NULL,`skill_area_width` INTEGER NOT NULL,`skill_cast_time` REAL NOT NULL,`action_1` INTEGER NOT NULL,`action_2` INTEGER NOT NULL,`action_3` INTEGER NOT NULL,`action_4` INTEGER NOT NULL,`action_5` INTEGER NOT NULL,`action_6` INTEGER NOT NULL,`action_7` INTEGER NOT NULL,`depend_action_1` INTEGER NOT NULL,`depend_action_2` INTEGER NOT NULL,`depend_action_3` INTEGER NOT NULL,`depend_action_4` INTEGER NOT NULL,`depend_action_5` INTEGER NOT NULL,`depend_action_6` INTEGER NOT NULL,`depend_action_7` INTEGER NOT NULL,`description` TEXT NOT NULL,`icon_type` INTEGER NOT NULL,PRIMARY KEY(`skill_id`));
 INSERT INTO `skill_data` VALUES (1001001,"ヒヨリラッシュ",0,0,0,100100101,100100102,100100103,0,0,0,0,0,100100102,0,0,0,0,0,"目の前の敵１キャラに物理大ダメージを与え、その周りの狭い範囲の敵すべてにも物理中ダメージを与える。",1001);
 INSERT INTO `skill_data` VALUES (1001002,"キャットストライク",0,0,1.125,100100201,0,0,0,0,0,0,0,0,0,0,0,0,0,"目の前の敵１キャラに物理中ダメージを与える。",2001);

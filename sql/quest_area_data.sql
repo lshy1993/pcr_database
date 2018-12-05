@@ -1,4 +1,4 @@
-DROP TABLE quest_area_data;
+DROP TABLE IF EXISTS quest_area_data;
 CREATE TABLE IF NOT EXISTS `quest_area_data` (`area_id` INTEGER NOT NULL,`area_name` TEXT NOT NULL,`map_type` INTEGER NOT NULL,`sheet_id` TEXT NOT NULL,`que_id` TEXT NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,PRIMARY KEY(`area_id`));
 INSERT INTO `quest_area_data` VALUES (11001,"1.ジュノー平野",101,"bgm_M61","bgm_M61","2015/12/17 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (11002,"2.パラス高原",101,"bgm_M61","bgm_M61_02","2015/12/17 15:00:00","2030/12/17 14:59:59");

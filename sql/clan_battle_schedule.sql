@@ -1,4 +1,4 @@
-DROP TABLE clan_battle_schedule;
+DROP TABLE IF EXISTS clan_battle_schedule;
 CREATE TABLE IF NOT EXISTS `clan_battle_schedule` (`clan_battle_id` INTEGER NOT NULL,`release_month` INTEGER NOT NULL,`last_clan_battle_id` INTEGER NOT NULL,`point_per_stamina` INTEGER NOT NULL,`cost_group_id` INTEGER NOT NULL,`map_bgm` TEXT NOT NULL,`resource_id` INTEGER NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,PRIMARY KEY(`clan_battle_id`));
 INSERT INTO `clan_battle_schedule` VALUES (1001,3,0,1,1,"bgm_M90",1,"2018/03/21 5:00:00","2018/04/20 4:59:59");
 INSERT INTO `clan_battle_schedule` VALUES (1002,4,1001,1,1,"bgm_M97",2,"2018/04/20 5:00:00","2018/05/22 4:59:59");

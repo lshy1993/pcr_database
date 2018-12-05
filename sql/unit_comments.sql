@@ -1,4 +1,4 @@
-DROP TABLE unit_comments;
+DROP TABLE IF EXISTS unit_comments;
 CREATE TABLE IF NOT EXISTS `unit_comments` (`id` INTEGER NOT NULL,`unit_id` INTEGER NOT NULL,`use_type` INTEGER NOT NULL,`voice_id` INTEGER NOT NULL,`face_id` INTEGER NOT NULL,`change_time` REAL NOT NULL,`change_face` INTEGER NOT NULL,`description` TEXT NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `unit_comments` VALUES (1001001,100101,1,1,1,4,2,"みんなが笑顔でいてくれたら\nあたしも笑顔でいられるんだ！\nだからほら、スマイルスマイル！");
 INSERT INTO `unit_comments` VALUES (1001002,100101,1,2,1,3,2,"困った時はお互いさまさま！\n何かあったら相談してね！\n出来ること、あるはずだから！");

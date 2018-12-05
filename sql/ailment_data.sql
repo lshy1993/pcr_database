@@ -1,4 +1,4 @@
-DROP TABLE ailment_data;
+DROP TABLE IF EXISTS ailment_data;
 CREATE TABLE IF NOT EXISTS `ailment_data` (`ailment_id` INTEGER NOT NULL,`ailment_action` INTEGER NOT NULL,`ailment_detail_1` INTEGER NOT NULL,`ailment_name` TEXT NOT NULL,PRIMARY KEY(`ailment_id`));
 INSERT INTO `ailment_data` VALUES (1,8,1,"スロウ");
 INSERT INTO `ailment_data` VALUES (2,8,2,"ヘイスト");

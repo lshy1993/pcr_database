@@ -1,4 +1,4 @@
-DROP TABLE love_chara;
+DROP TABLE IF EXISTS love_chara;
 CREATE TABLE IF NOT EXISTS `love_chara` (`love_level` INTEGER NOT NULL,`total_love` INTEGER NOT NULL,`unlocked_class` INTEGER NOT NULL,`rarity` INTEGER NOT NULL,PRIMARY KEY(`love_level`));
 INSERT INTO `love_chara` VALUES (1,0,1,1);
 INSERT INTO `love_chara` VALUES (2,175,1,1);

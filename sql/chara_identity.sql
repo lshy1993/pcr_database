@@ -1,4 +1,4 @@
-DROP TABLE chara_identity;
+DROP TABLE IF EXISTS chara_identity;
 CREATE TABLE IF NOT EXISTS `chara_identity` (`unit_id` INTEGER NOT NULL,`chara_type` INTEGER NOT NULL,PRIMARY KEY(`unit_id`));
 INSERT INTO `chara_identity` VALUES (100101,1);
 INSERT INTO `chara_identity` VALUES (100201,2);

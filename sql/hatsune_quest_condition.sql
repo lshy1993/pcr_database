@@ -1,4 +1,4 @@
-DROP TABLE hatsune_quest_condition;
+DROP TABLE IF EXISTS hatsune_quest_condition;
 CREATE TABLE IF NOT EXISTS `hatsune_quest_condition` (`quest_id` INTEGER NOT NULL,`event_id` INTEGER NOT NULL,`condition_quest_id_1` INTEGER NOT NULL,`condition_quest_id_2` INTEGER NOT NULL,`condition_boss_id_1` INTEGER NOT NULL,`condition_boss_id_2` INTEGER NOT NULL,`release_quest_id_1` INTEGER NOT NULL,`release_quest_id_2` INTEGER NOT NULL,`release_boss_id_1` INTEGER NOT NULL,`release_boss_id_2` INTEGER NOT NULL,`condition_main_quest_id` INTEGER NOT NULL,PRIMARY KEY(`quest_id`));
 INSERT INTO `hatsune_quest_condition` VALUES (10001101,10001,0,0,0,0,10001102,0,0,0,11002012);
 INSERT INTO `hatsune_quest_condition` VALUES (10001102,10001,10001101,0,0,0,10001103,0,0,0,0);

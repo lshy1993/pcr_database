@@ -1,4 +1,4 @@
-DROP TABLE resist_data;
+DROP TABLE IF EXISTS resist_data;
 CREATE TABLE IF NOT EXISTS `resist_data` (`resist_status_id` INTEGER NOT NULL,`ailment_1` INTEGER NOT NULL,`ailment_2` INTEGER NOT NULL,`ailment_3` INTEGER NOT NULL,`ailment_4` INTEGER NOT NULL,`ailment_5` INTEGER NOT NULL,`ailment_6` INTEGER NOT NULL,`ailment_7` INTEGER NOT NULL,`ailment_8` INTEGER NOT NULL,`ailment_9` INTEGER NOT NULL,`ailment_10` INTEGER NOT NULL,`ailment_11` INTEGER NOT NULL,`ailment_12` INTEGER NOT NULL,`ailment_13` INTEGER NOT NULL,`ailment_14` INTEGER NOT NULL,`ailment_15` INTEGER NOT NULL,`ailment_16` INTEGER NOT NULL,`ailment_17` INTEGER NOT NULL,`ailment_18` INTEGER NOT NULL,PRIMARY KEY(`resist_status_id`));
 INSERT INTO `resist_data` VALUES (200000001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO `resist_data` VALUES (200000002,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

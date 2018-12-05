@@ -1,4 +1,4 @@
-DROP TABLE unit_motion_list;
+DROP TABLE IF EXISTS unit_motion_list;
 CREATE TABLE IF NOT EXISTS `unit_motion_list` (`unit_id` INTEGER NOT NULL,`sp_motion` INTEGER NOT NULL,PRIMARY KEY(`unit_id`));
 INSERT INTO `unit_motion_list` VALUES (100101,1);
 INSERT INTO `unit_motion_list` VALUES (100201,1);

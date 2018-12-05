@@ -1,4 +1,4 @@
-DROP TABLE unit_profile;
+DROP TABLE IF EXISTS unit_profile;
 CREATE TABLE IF NOT EXISTS `unit_profile` (`unit_id` INTEGER NOT NULL,`unit_name` TEXT NOT NULL,`age` TEXT NOT NULL,`guild` TEXT NOT NULL,`race` TEXT NOT NULL,`height` TEXT NOT NULL,`weight` TEXT NOT NULL,`birth_month` TEXT NOT NULL,`birth_day` TEXT NOT NULL,`blood_type` TEXT NOT NULL,`favorite` TEXT NOT NULL,`voice` TEXT NOT NULL,`voice_id` INTEGER NOT NULL,`catch_copy` TEXT NOT NULL,`self_text` TEXT NOT NULL,`guild_id` TEXT NOT NULL,PRIMARY KEY(`unit_id`));
 INSERT INTO `unit_profile` VALUES (100101,"ヒヨリ","16","トゥインクルウィッシュ","獣人族","155","44","8","27","A","人助け、応援","東山奈央",0,"人助けが大好き！　前向き格闘娘","こんにちは！　ヒヨリでっす！\n困っている人がいたら助けにいくよ！\nよかったら一緒に来ない？","2");
 INSERT INTO `unit_profile` VALUES (100201,"ユイ","17","トゥインクルウィッシュ","ヒューマン","158","47","4","5","O","料理、人間観察","種田梨沙",0,"戦闘のサポートが得意な、心優しい少女","あんまり役に立てるかはわからないけど…\nわたしも頑張って、\nみんなをサポートするね！","2");

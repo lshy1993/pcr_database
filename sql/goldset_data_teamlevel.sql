@@ -1,4 +1,4 @@
-DROP TABLE goldset_data_teamlevel;
+DROP TABLE IF EXISTS goldset_data_teamlevel;
 CREATE TABLE IF NOT EXISTS `goldset_data_teamlevel` (`id` INTEGER NOT NULL,`team_level` INTEGER NOT NULL,`initial_get_gold_count` INTEGER NOT NULL,PRIMARY KEY(`team_level`));
 INSERT INTO `goldset_data_teamlevel` VALUES (1,1,0);
 INSERT INTO `goldset_data_teamlevel` VALUES (2,2,0);

@@ -1,4 +1,4 @@
-DROP TABLE skill_action;
+DROP TABLE IF EXISTS skill_action;
 CREATE TABLE IF NOT EXISTS `skill_action` (`action_id` INTEGER NOT NULL,`class_id` INTEGER NOT NULL,`action_type` INTEGER NOT NULL,`action_detail_1` INTEGER NOT NULL,`action_detail_2` INTEGER NOT NULL,`action_detail_3` INTEGER NOT NULL,`action_value_1` REAL NOT NULL,`action_value_2` REAL NOT NULL,`action_value_3` REAL NOT NULL,`action_value_4` REAL NOT NULL,`action_value_5` REAL NOT NULL,`action_value_6` REAL NOT NULL,`action_value_7` REAL NOT NULL,`target_assignment` INTEGER NOT NULL,`target_area` INTEGER NOT NULL,`target_range` INTEGER NOT NULL,`target_type` INTEGER NOT NULL,`target_number` INTEGER NOT NULL,`target_count` INTEGER NOT NULL,`description` TEXT NOT NULL,`level_up_disp` TEXT NOT NULL,PRIMARY KEY(`action_id`));
 INSERT INTO `skill_action` VALUES (100100101,1,1,1,0,0,30,30,2.4,0,0,0,0,1,1,-1,3,0,1,"敵単体に{0}の物理ダメージ","単体物理ダメージ+{0}");
 INSERT INTO `skill_action` VALUES (100100102,1,3,3,0,0,50,0,500,0,0,0,0,1,1,-1,3,0,99,"","");

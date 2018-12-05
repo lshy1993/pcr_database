@@ -1,4 +1,4 @@
-DROP TABLE story_detail;
+DROP TABLE IF EXISTS story_detail;
 CREATE TABLE IF NOT EXISTS `story_detail` (`story_id` INTEGER NOT NULL,`story_group_id` INTEGER NOT NULL,`title` TEXT NOT NULL,`sub_title` TEXT NOT NULL,`visible_type` INTEGER NOT NULL,`story_end` INTEGER NOT NULL,`pre_story_id` INTEGER NOT NULL,`love_level` INTEGER NOT NULL,`requirement_id` INTEGER NOT NULL,`unlock_quest_id` INTEGER NOT NULL,`story_quest_id` INTEGER NOT NULL,`reward_type_1` INTEGER NOT NULL,`reward_id_1` INTEGER NOT NULL,`reward_value_1` INTEGER NOT NULL,`reward_type_2` INTEGER NOT NULL,`reward_id_2` INTEGER NOT NULL,`reward_value_2` INTEGER NOT NULL,`reward_type_3` INTEGER NOT NULL,`reward_id_3` INTEGER NOT NULL,`reward_value_3` INTEGER NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,PRIMARY KEY(`story_id`));
 INSERT INTO `story_detail` VALUES (1001001,1001,"ヒヨリ 第1話","困った時はお互いさまさま",0,0,0,0,100101,0,0,8,91002,20,0,0,0,0,0,0,"2015/04/01 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `story_detail` VALUES (1001002,1001,"ヒヨリ 第2話","誓いのゆびきり",0,0,1001001,2,100101,0,0,8,91002,20,0,0,0,0,0,0,"2015/04/01 15:00:00","2030/12/17 14:59:59");

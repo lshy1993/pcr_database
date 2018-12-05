@@ -1,4 +1,4 @@
-DROP TABLE navi_comment;
+DROP TABLE IF EXISTS navi_comment;
 CREATE TABLE IF NOT EXISTS `navi_comment` (`comment_id` INTEGER NOT NULL,`where_type` INTEGER NOT NULL,`character_id` INTEGER NOT NULL,`face_type` INTEGER NOT NULL,`character_name` TEXT NOT NULL,`description` TEXT,`voice_id` INTEGER NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,`pos_x` REAL NOT NULL,`pos_y` REAL NOT NULL,`change_face_time` REAL NOT NULL,`change_face_type` INTEGER NOT NULL,`event_id` INTEGER NOT NULL,PRIMARY KEY(`comment_id`));
 INSERT INTO `navi_comment` VALUES (7001,7,106001,1,"キャル","たまには\n協力するのもいいんじゃない？\nあたしも手を貸してあげる",1,"2015/12/17 15:00:00","2030/12/17 14:59:59",-363,0,0,1,0);
 INSERT INTO `navi_comment` VALUES (7002,7,105901,1,"コッコロ","多くの方と協力して\n戦えるようです\n主さまなら、さぞ\nご活躍なさることでしょう",1,"2015/12/17 15:00:00","2030/12/17 14:59:59",-363,0,0,1,0);

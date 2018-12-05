@@ -1,4 +1,4 @@
-DROP TABLE hatsune_stationary_mission_data;
+DROP TABLE IF EXISTS hatsune_stationary_mission_data;
 CREATE TABLE IF NOT EXISTS `hatsune_stationary_mission_data` (`stationary_mission_id` INTEGER NOT NULL,`disp_group` INTEGER NOT NULL,`category_icon` INTEGER NOT NULL,`description` TEXT NOT NULL,`mission_condition` INTEGER NOT NULL,`condition_value_1` INTEGER,`condition_value_2` INTEGER,`condition_value_3` INTEGER,`condition_num` INTEGER NOT NULL,`mission_reward_id` INTEGER NOT NULL,`system_id` INTEGER,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,PRIMARY KEY(`stationary_mission_id`));
 INSERT INTO `hatsune_stationary_mission_data` VALUES (71001001,102,601,"イベントクエスト1-1 (NORMAL)をクリアしよう",9003,10001101,0,0,1,71001001,6004,"2018/03/31 15:00:00","2018/04/24 14:59:59");
 INSERT INTO `hatsune_stationary_mission_data` VALUES (71001002,102,601,"イベントクエスト1-2 (NORMAL)をクリアしよう",9003,10001102,0,0,1,71001002,6004,"2018/03/31 15:00:00","2018/04/24 14:59:59");

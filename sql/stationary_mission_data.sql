@@ -1,4 +1,4 @@
-DROP TABLE stationary_mission_data;
+DROP TABLE IF EXISTS stationary_mission_data;
 CREATE TABLE IF NOT EXISTS `stationary_mission_data` (`stationary_mission_id` INTEGER NOT NULL,`disp_group` INTEGER NOT NULL,`category_icon` INTEGER NOT NULL,`description` TEXT NOT NULL,`mission_condition` INTEGER NOT NULL,`condition_value_1` INTEGER,`condition_value_2` INTEGER,`condition_value_3` INTEGER,`condition_num` INTEGER NOT NULL,`mission_reward_id` INTEGER NOT NULL,`system_id` INTEGER,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,PRIMARY KEY(`stationary_mission_id`));
 INSERT INTO `stationary_mission_data` VALUES (21001001,20,201,"メインクエスト1-1 (NORMAL)をクリアしよう",1001,11001001,0,0,1,21001001,101,"2015/04/01 15:00:00","2030/04/01 14:59:59");
 INSERT INTO `stationary_mission_data` VALUES (21001002,20,201,"メインクエスト1-2 (NORMAL)をクリアしよう",1001,11001002,0,0,1,21001001,101,"2015/04/01 15:00:00","2030/04/01 14:59:59");

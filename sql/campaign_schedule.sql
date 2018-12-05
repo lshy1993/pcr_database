@@ -1,4 +1,4 @@
-DROP TABLE campaign_schedule;
+DROP TABLE IF EXISTS campaign_schedule;
 CREATE TABLE IF NOT EXISTS `campaign_schedule` (`id` INTEGER NOT NULL,`campaign_category` INTEGER NOT NULL,`value` REAL NOT NULL,`system_id` INTEGER NOT NULL,`icon_image` INTEGER NOT NULL,`start_time` TEXT NOT NULL,`end_time` TEXT NOT NULL,PRIMARY KEY(`id`));
 INSERT INTO `campaign_schedule` VALUES (1,34,2000,103,30,"2018/03/06 05:00:00","2018/03/13 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (2,44,2000,103,40,"2018/03/06 05:00:00","2018/03/13 04:59:59");
