@@ -504,4 +504,114 @@
     "character_name": "タマキ",
     "description": "夏は一番の稼ぎ時にゃのに、\\n今年はキミと過ごしたいって\\n思ってるにゃ楽しい思い出\\n増やしてくれるかにゃ？",
     "voice_id": 2
+}{
+    "id": 57,
+    "login_bonus_id": 40003,
+    "count": 1,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 150,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
+}{
+    "id": 58,
+    "login_bonus_id": 40003,
+    "count": 2,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 150,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
+}{
+    "id": 59,
+    "login_bonus_id": 40003,
+    "count": 3,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 150,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
+}{
+    "id": 60,
+    "login_bonus_id": 40003,
+    "count": 4,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 150,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
+}{
+    "id": 61,
+    "login_bonus_id": 40003,
+    "count": 5,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 150,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
+}{
+    "id": 62,
+    "login_bonus_id": 40003,
+    "count": 6,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 150,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
+}{
+    "id": 63,
+    "login_bonus_id": 40003,
+    "count": 7,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 150,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
+}{
+    "id": 64,
+    "login_bonus_id": 40003,
+    "count": 8,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 150,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
+}{
+    "id": 65,
+    "login_bonus_id": 40003,
+    "count": 9,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 150,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
+}{
+    "id": 66,
+    "login_bonus_id": 40003,
+    "count": 10,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 150,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
 }

@@ -46,3 +46,13 @@ INSERT INTO `login_bonus_detail` VALUES (43,40001,7,8,91002,150,107601,"コッ�
 INSERT INTO `login_bonus_detail` VALUES (44,40001,8,8,91002,150,107801,"キャル","ん～なんであんたと、ひと夏を\n過ごすことになったのかな…\n結構楽しいからいいけど！\nさ、まだまだ遊ぶわよ！",2);
 INSERT INTO `login_bonus_detail` VALUES (45,40001,9,8,91002,150,107701,"スズメ","あなたと過ごすはじめての夏…\nいまからドキドキが止まりません\n楽しくて素敵な思い出が、\nまた一つ増えるんですね♪",2);
 INSERT INTO `login_bonus_detail` VALUES (46,40001,10,8,91002,150,107901,"タマキ","夏は一番の稼ぎ時にゃのに、\n今年はキミと過ごしたいって\n思ってるにゃ楽しい思い出\n増やしてくれるかにゃ？",2);
+INSERT INTO `login_bonus_detail` VALUES (57,40003,1,8,91002,150,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (58,40003,2,8,91002,150,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (59,40003,3,8,91002,150,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (60,40003,4,8,91002,150,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (61,40003,5,8,91002,150,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (62,40003,6,8,91002,150,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (63,40003,7,8,91002,150,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (64,40003,8,8,91002,150,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (65,40003,9,8,91002,150,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (66,40003,10,8,91002,150,0,"","",0);
