@@ -8,10 +8,10 @@
     "term": 30,
     "repurchase_day": 3,
     "system_id_1": 104,
-    "add_num_1": 1,
+    "add_num_1": 0,
     "item_record_id": 1,
     "condition_flg": 0,
-    "reward_rate_1": 0
+    "reward_rate_1": 2000
 }{
     "id": 15,
     "mission_id": 0,
