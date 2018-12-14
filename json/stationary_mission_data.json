@@ -5291,6 +5291,34 @@
     "start_time": "2018/11/14 12:00:00",
     "end_time": "2030/04/01 14:59:59"
 }{
+    "stationary_mission_id": 21102014,
+    "disp_group": 160,
+    "category_icon": 208,
+    "description": "ルナの塔140階をクリアしよう",
+    "mission_condition": 1102,
+    "condition_value_1": 71040140,
+    "condition_value_2": 0,
+    "condition_value_3": 0,
+    "condition_num": 1,
+    "mission_reward_id": 21102001,
+    "system_id": 108,
+    "start_time": "2018/12/14 12:00:00",
+    "end_time": "2030/04/01 14:59:59"
+}{
+    "stationary_mission_id": 21102015,
+    "disp_group": 160,
+    "category_icon": 208,
+    "description": "ルナの塔150階をクリアしよう",
+    "mission_condition": 1102,
+    "condition_value_1": 71040150,
+    "condition_value_2": 0,
+    "condition_value_3": 0,
+    "condition_num": 1,
+    "mission_reward_id": 21102001,
+    "system_id": 108,
+    "start_time": "2018/12/14 12:00:00",
+    "end_time": "2030/04/01 14:59:59"
+}{
     "stationary_mission_id": 21103001,
     "disp_group": 161,
     "category_icon": 208,
@@ -5331,6 +5359,20 @@
     "mission_reward_id": 21103001,
     "system_id": 108,
     "start_time": "2018/11/14 12:00:00",
+    "end_time": "2030/04/01 14:59:59"
+}{
+    "stationary_mission_id": 21103004,
+    "disp_group": 164,
+    "category_icon": 208,
+    "description": "ルナの塔150階EXクエストをクリアしよう",
+    "mission_condition": 1103,
+    "condition_value_1": 72030150,
+    "condition_value_2": 0,
+    "condition_value_3": 0,
+    "condition_num": 1,
+    "mission_reward_id": 21103001,
+    "system_id": 108,
+    "start_time": "2018/12/14 12:00:00",
     "end_time": "2030/04/01 14:59:59"
 }{
     "stationary_mission_id": 21201001,

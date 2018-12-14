@@ -22,4 +22,12 @@
     "recovery_disable_time": "2018/11/19 5:00:00",
     "start_time": "2018/11/14 12:00:00",
     "end_time": "2018/11/19 14:59:59"
+}{
+    "tower_schedule_id": 1004,
+    "max_tower_area_id": 4,
+    "opening_story_id": 7003003,
+    "count_start_time": "2018/12/18 14:59:59",
+    "recovery_disable_time": "2018/12/19 5:00:00",
+    "start_time": "2018/12/14 12:00:00",
+    "end_time": "2018/12/19 14:59:59"
 }
