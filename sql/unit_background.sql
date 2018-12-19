@@ -69,3 +69,4 @@ INSERT INTO `unit_background` VALUES (108201,"ミヤコ（ハロウィン）",50
 INSERT INTO `unit_background` VALUES (108301,"ミサキ（ハロウィン）",505030,"ランドソル 繁華街 ハロウィン",0,2);
 INSERT INTO `unit_background` VALUES (108401,"チカ（クリスマス）",500114,"サレンディア救護院_広間_クリスマス",0,2);
 INSERT INTO `unit_background` VALUES (108501,"クルミ（クリスマス）",500114,"サレンディア救護院_広間_クリスマス",0,4);
+INSERT INTO `unit_background` VALUES (108601,"アヤネ（クリスマス）",500114,"サレンディア救護院_広間_クリスマス",0,4);

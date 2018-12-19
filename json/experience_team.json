@@ -676,4 +676,22 @@
     "max_stamina": 171,
     "over_limit_stamina": 999,
     "recover_stamina_count": 30
+}{
+    "team_level": 114,
+    "total_exp": 210859,
+    "max_stamina": 172,
+    "over_limit_stamina": 999,
+    "recover_stamina_count": 30
+}{
+    "team_level": 115,
+    "total_exp": 215284,
+    "max_stamina": 173,
+    "over_limit_stamina": 999,
+    "recover_stamina_count": 30
+}{
+    "team_level": 116,
+    "total_exp": 219709,
+    "max_stamina": 174,
+    "over_limit_stamina": 999,
+    "recover_stamina_count": 30
 }

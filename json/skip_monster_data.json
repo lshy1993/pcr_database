@@ -2531,6 +2531,90 @@
     "wave_group_id_1": 101170403,
     "bg_skip_id": 100981
 }{
+    "quest_id": 11018001,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-1",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 100031
+}{
+    "quest_id": 11018002,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-2",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 100031
+}{
+    "quest_id": 11018003,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-3",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 101381
+}{
+    "quest_id": 11018004,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-4",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 101381
+}{
+    "quest_id": 11018005,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-5",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 101381
+}{
+    "quest_id": 11018006,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-6",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 100031
+}{
+    "quest_id": 11018007,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-7",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 100021
+}{
+    "quest_id": 11018008,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-8",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 100021
+}{
+    "quest_id": 11018009,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-9",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 101411
+}{
+    "quest_id": 11018010,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-10",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 100031
+}{
+    "quest_id": 11018011,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-11",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 101411
+}{
+    "quest_id": 11018012,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-12",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 100021
+}{
+    "quest_id": 11018013,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-13",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 101411
+}{
+    "quest_id": 11018014,
+    "area_id": 11018,
+    "quest_name": "ファエトン原野・北部 18-14",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 101421
+}{
     "quest_id": 12001001,
     "area_id": 12001,
     "quest_name": "ジュノー平野 1-1（ハード）",
@@ -2836,6 +2920,24 @@
     "quest_name": "フィデス氷原 17-3",
     "wave_group_id_1": 101170403,
     "bg_skip_id": 100991
+}{
+    "quest_id": 12018001,
+    "area_id": 12018,
+    "quest_name": "ファエトン原野・北部 18-1",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 101401
+}{
+    "quest_id": 12018002,
+    "area_id": 12018,
+    "quest_name": "ファエトン原野・北部 18-2",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 100691
+}{
+    "quest_id": 12018003,
+    "area_id": 12018,
+    "quest_name": "ファエトン原野・北部 18-3",
+    "wave_group_id_1": 101180502,
+    "bg_skip_id": 101431
 }{
     "quest_id": 18001001,
     "area_id": 18001,

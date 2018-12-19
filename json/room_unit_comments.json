@@ -25369,6 +25369,26 @@
     "description": "物語には\\n曲作りのヒントが\\n詰まっているんです",
     "insert_word_type": 0
 }{
+    "id": 2747,
+    "unit_id": 108401,
+    "trigger": 3,
+    "voice_id": 14,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "絵が飛び出してくる\\nなんて…精霊が宿って\\nいるのでしょうか？",
+    "insert_word_type": 0
+}{
+    "id": 2748,
+    "unit_id": 108401,
+    "trigger": 3,
+    "voice_id": 15,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "か、可愛い…♪\\nちょっとだけ触っても\\nいいですよね…？",
+    "insert_word_type": 0
+}{
     "id": 2749,
     "unit_id": 108501,
     "trigger": 1,
@@ -25587,6 +25607,266 @@
     "time": 0,
     "face_id": 1,
     "description": "すごい…\\nクリスマスの\\n演劇って、\\nこんなにあるんだ…",
+    "insert_word_type": 0
+}{
+    "id": 2774,
+    "unit_id": 108501,
+    "trigger": 3,
+    "voice_id": 14,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "すごい…まるで、\\nクリスマスの演劇を\\n観てるようですぅ…♪",
+    "insert_word_type": 0
+}{
+    "id": 2775,
+    "unit_id": 108501,
+    "trigger": 3,
+    "voice_id": 15,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "とっても可愛いです♪\\nお芝居の相手役に\\nしたいなぁ…♪",
+    "insert_word_type": 0
+}{
+    "id": 2776,
+    "unit_id": 108601,
+    "trigger": 1,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "甘ぁいケーキも、\\nデッカイ七面鳥も、\\nぜーんぶ私のだー♪",
+    "insert_word_type": 0
+}{
+    "id": 2777,
+    "unit_id": 108601,
+    "trigger": 1,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "毎日が\\nクリスマスだったら\\nいいのにな～♪",
+    "insert_word_type": 0
+}{
+    "id": 2778,
+    "unit_id": 108601,
+    "trigger": 1,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "プレゼントはあるし、\\n料理は美味しいし、\\nクリスマス最高ー♪",
+    "insert_word_type": 0
+}{
+    "id": 2779,
+    "unit_id": 108601,
+    "trigger": 1,
+    "voice_id": 4,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "ここでぷうきちの\\nクリスマス一発芸♪\\n『無茶ぶりするな！』",
+    "insert_word_type": 0
+}{
+    "id": 2780,
+    "unit_id": 108601,
+    "trigger": 1,
+    "voice_id": 5,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "ぷうきちがいつもより\\n重いかも…太ったの？\\n『衣装の重さだよ！』",
+    "insert_word_type": 0
+}{
+    "id": 2781,
+    "unit_id": 108601,
+    "trigger": 1,
+    "voice_id": 101,
+    "beloved_step": 4,
+    "time": 0,
+    "face_id": 1,
+    "description": "お兄ちゃんが\\n一緒にいてくれると\\nクリスマス楽しいね♪",
+    "insert_word_type": 0
+}{
+    "id": 2782,
+    "unit_id": 108601,
+    "trigger": 1,
+    "voice_id": 102,
+    "beloved_step": 8,
+    "time": 0,
+    "face_id": 1,
+    "description": "お兄ちゃんに抱きつく\\nと、なんだかドキドキ\\nする…なんでかな？",
+    "insert_word_type": 0
+}{
+    "id": 2783,
+    "unit_id": 108601,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "メリークリスマス♪\\nプレゼントは、\\nいつでも受付中だよ♪",
+    "insert_word_type": 0
+}{
+    "id": 2789,
+    "unit_id": 108601,
+    "trigger": 2,
+    "voice_id": 1,
+    "beloved_step": 1,
+    "time": 1,
+    "face_id": 1,
+    "description": "あれぇ…\\n私のケーキはぁ…？\\n『ちゃんと起きろ』",
+    "insert_word_type": 0
+}{
+    "id": 2784,
+    "unit_id": 108601,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "このクマさん耳\\n可愛いでしょ♪\\nぷうきちと\\nお揃いなんだー♪",
+    "insert_word_type": 0
+}{
+    "id": 2790,
+    "unit_id": 108601,
+    "trigger": 2,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 2,
+    "face_id": 1,
+    "description": "お昼はデッカイ\\n七面鳥が食べたーい♪\\n『夜まで我慢しろ』",
+    "insert_word_type": 0
+}{
+    "id": 2785,
+    "unit_id": 108601,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "お兄ちゃん…私、\\n甘ぁいケーキが\\n食べたいなぁ…♪",
+    "insert_word_type": 0
+}{
+    "id": 2791,
+    "unit_id": 108601,
+    "trigger": 2,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 3,
+    "face_id": 1,
+    "description": "『もう寝る時間だぞ』\\nサンタさんが来る\\nまで起きてるぅ…",
+    "insert_word_type": 0
+}{
+    "id": 2786,
+    "unit_id": 108601,
+    "trigger": 2,
+    "voice_id": 4,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "クリスマスぷうきちは\\nぬくぬく感が凄いよ！\\nお兄ちゃんもさわる？",
+    "insert_word_type": 0
+}{
+    "id": 2787,
+    "unit_id": 108601,
+    "trigger": 2,
+    "voice_id": 101,
+    "beloved_step": 4,
+    "time": 0,
+    "face_id": 1,
+    "description": "えへへ…お兄ちゃんの\\n手は、大きくて、\\n暖かくて大好き～♪",
+    "insert_word_type": 0
+}{
+    "id": 2788,
+    "unit_id": 108601,
+    "trigger": 2,
+    "voice_id": 102,
+    "beloved_step": 8,
+    "time": 0,
+    "face_id": 1,
+    "description": "来年のクリスマスも、\\nこうやって\\nお兄ちゃんに\\n甘えていたいな～♪",
+    "insert_word_type": 0
+}{
+    "id": 2793,
+    "unit_id": 108601,
+    "trigger": 3,
+    "voice_id": 2,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "このふかふか具合…\\nぷうきち！\\n負けてられないよ！",
+    "insert_word_type": 0
+}{
+    "id": 2794,
+    "unit_id": 108601,
+    "trigger": 3,
+    "voice_id": 3,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "この子、\\nすっごくかわいい～♪\\n『ライバル登場か！』",
+    "insert_word_type": 0
+}{
+    "id": 2795,
+    "unit_id": 108601,
+    "trigger": 3,
+    "voice_id": 4,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "良い匂い…あっ！\\nぷうきちにこの\\n匂いを移せば…！\\n『匂い袋にするな』",
+    "insert_word_type": 0
+}{
+    "id": 2796,
+    "unit_id": 108601,
+    "trigger": 3,
+    "voice_id": 5,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "あったか～い♪\\nえへへ、ぷうきちも\\nあっためてあげる♪",
+    "insert_word_type": 0
+}{
+    "id": 2798,
+    "unit_id": 108601,
+    "trigger": 3,
+    "voice_id": 7,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "ぷうきち！　これ、\\nとってもおいしいよ♪\\n『食べすぎるなよ』",
+    "insert_word_type": 0
+}{
+    "id": 2799,
+    "unit_id": 108601,
+    "trigger": 3,
+    "voice_id": 8,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "お、大人の私なら、\\nこれぐらい…読め…\\n『無理するな…』",
+    "insert_word_type": 0
+}{
+    "id": 2801,
+    "unit_id": 108601,
+    "trigger": 3,
+    "voice_id": 14,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "絵が飛び出す…\\nぷうきちに絵本を\\n入れれば、イタズラに\\n使えるかも…♪",
+    "insert_word_type": 0
+}{
+    "id": 2802,
+    "unit_id": 108601,
+    "trigger": 3,
+    "voice_id": 15,
+    "beloved_step": 1,
+    "time": 0,
+    "face_id": 1,
+    "description": "か、可愛いけど…\\nぷうきちサンタの方が\\n可愛いんだからぁ…！",
     "insert_word_type": 0
 }{
     "id": 2151,

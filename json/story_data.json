@@ -659,6 +659,16 @@
     "end_time": "2030/12/17 14:59:59",
     "order": 0
 }{
+    "story_group_id": 1086,
+    "story_type": 1,
+    "value": 1086,
+    "title": "アヤネ（クリスマス）",
+    "thumbnail_id": 0,
+    "disp_order": 72,
+    "start_time": "2015/04/01 15:00:00",
+    "end_time": "2030/12/17 14:59:59",
+    "order": 0
+}{
     "story_group_id": 1900,
     "story_type": 1,
     "value": 1900,
@@ -763,7 +773,7 @@
     "story_type": 2,
     "value": 0,
     "title": "第9章_狙われたライブ",
-    "thumbnail_id": 2009005,
+    "thumbnail_id": 2009099,
     "disp_order": 10,
     "start_time": "2015/04/01 15:00:00",
     "end_time": "2030/12/17 14:59:59",

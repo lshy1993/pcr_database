@@ -180,6 +180,12 @@ INSERT INTO `equipment_enhance_rate` VALUES (105161,"ゼロフロストランス
 INSERT INTO `equipment_enhance_rate` VALUES (105191,"ネクロディムアックス","斧",5,0,24,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0.2);
 INSERT INTO `equipment_enhance_rate` VALUES (105221,"ゼノスフィアロッド","攻撃杖",5,0,0,20,0,0,0,2,0,0,0,0,0,0,0,0,0.6,0);
 INSERT INTO `equipment_enhance_rate` VALUES (105251,"フレイアムルロッド","回復杖",5,0,0,19,0,0.8,0,0,24,0,0,0,0,0,1.2,0,0,0);
-INSERT INTO `equipment_enhance_rate` VALUES (105551,"ミレニアムイヤリング","斧",5,14,12.8,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2);
-INSERT INTO `equipment_enhance_rate` VALUES (105581,"精霊王の護石","攻撃杖",5,40,0,0,2,1.2,0,0,20,0,0,0,0,0,0,0,0,0);
-INSERT INTO `equipment_enhance_rate` VALUES (105611,"海神の耳飾り","回復杖",5,0,0,15.6,0,0,0,1.6,0,0,0,0,0,0,0,0,0.6,0);
+INSERT INTO `equipment_enhance_rate` VALUES (105281,"ファンタズムメイル","軽装鎧",5,20,6.4,0,1.2,0.8,0,0,0,0,0,0,0,0,0,0.6,0,0);
+INSERT INTO `equipment_enhance_rate` VALUES (105311,"蒼輝の鎧","重装鎧",5,24,0,0,2,1.8,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO `equipment_enhance_rate` VALUES (105341,"イージスコート","服",5,20,6.8,0,0.8,0.4,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO `equipment_enhance_rate` VALUES (105371,"純潔の巫女装束","魔法服",5,24,0,4,1,1.4,0,0,0,0,0,0,0,0,0,0.6,0,0);
+INSERT INTO `equipment_enhance_rate` VALUES (105401,"星詠みの円盾","盾",5,0,10.8,0,1,0.6,0,0,0,0,0.4,0,0,0,0,0,0,0);
+INSERT INTO `equipment_enhance_rate` VALUES (105521,"忘哭の冠","魔法帽子",5,20,0,9.6,0.6,1,0,1.6,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO `equipment_enhance_rate` VALUES (105551,"ミレニアムイヤリング","攻撃アクセサリ",5,14,12.8,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO `equipment_enhance_rate` VALUES (105581,"精霊王の護石","防御アクセサリ",5,40,0,0,2,1.2,0,0,20,0,0,0,0,0,0,0,0,0);
+INSERT INTO `equipment_enhance_rate` VALUES (105611,"海神の耳飾り","魔法アクセサリ",5,0,0,15.6,0,0,0,1.6,0,0,0,0,0,0,0,0,0.6,0);

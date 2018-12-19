@@ -580,9 +580,9 @@
     "softness": 50
 }{
     "chara_id": 102911,
-    "offset": 70,
-    "size": 600,
-    "softness": 50
+    "offset": -30,
+    "size": 500,
+    "softness": 65
 }{
     "chara_id": 102912,
     "offset": -50,
@@ -1074,6 +1074,11 @@
     "size": 1200,
     "softness": 50
 }{
+    "chara_id": 106832,
+    "offset": -55,
+    "size": 570,
+    "softness": 20
+}{
     "chara_id": 106911,
     "offset": 0,
     "size": 1200,
@@ -1156,8 +1161,8 @@
 }{
     "chara_id": 108411,
     "offset": 0,
-    "size": 570,
-    "softness": 65
+    "size": 650,
+    "softness": 105
 }{
     "chara_id": 108511,
     "offset": 0,

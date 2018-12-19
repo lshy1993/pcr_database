@@ -135,6 +135,14 @@
     "start_time": "2015/12/17 15:00:00",
     "end_time": "2030/12/17 14:59:59"
 }{
+    "area_id": 11018,
+    "area_name": "18.ファエトン原野・北部",
+    "map_type": 102,
+    "sheet_id": "bgm_M179",
+    "que_id": "bgm_M179",
+    "start_time": "2015/12/17 15:00:00",
+    "end_time": "2030/12/17 14:59:59"
+}{
     "area_id": 12001,
     "area_name": "1.ジュノー平野",
     "map_type": 101,
@@ -268,6 +276,14 @@
     "map_type": 101,
     "sheet_id": "bgm_M141",
     "que_id": "bgm_M141",
+    "start_time": "2015/12/17 15:00:00",
+    "end_time": "2030/12/17 14:59:59"
+}{
+    "area_id": 12018,
+    "area_name": "18.ファエトン原野・北部",
+    "map_type": 102,
+    "sheet_id": "bgm_M179",
+    "que_id": "bgm_M179",
     "start_time": "2015/12/17 15:00:00",
     "end_time": "2030/12/17 14:59:59"
 }{

@@ -43,7 +43,7 @@
     "name": "ハツネのプレゼント大作戦",
     "total_playing_time": "01:02",
     "listen_start_time": "00:00",
-    "detail": "ストーリーイベントテーマ\\n\\n時間 / 01:02\\n作曲 / 加藤慶\\n編曲 / 加藤慶",
+    "detail": "ストーリーイベントテーマ\\n-｢Smiley Contrast｣アレンジ-\\n\\n時間 / 01:02\\n作曲 / 渡部チェル\\n編曲 / 加藤慶",
     "sheet_id": "bgm_M32",
     "cue_id": "bgm_M32_juke"
 }{
@@ -75,7 +75,7 @@
     "name": "リトル・リリカル・アドベンチャーズ",
     "total_playing_time": "01:00",
     "listen_start_time": "00:00",
-    "detail": "ストーリーイベントテーマ\\n\\n時間 / 01:00\\n作曲 / 西村真吾\\n編曲 / 西村真吾",
+    "detail": "ストーリーイベントテーマ\\n-｢リトルアドベンチャー｣アレンジ-\\n\\n時間 / 01:00\\n作曲 / 池田健人\\n編曲 / 西村真吾",
     "sheet_id": "bgm_M98",
     "cue_id": "bgm_M98_juke"
 }{
@@ -107,7 +107,7 @@
     "name": "トリックオアプリン！約束のハロウィンパーティー",
     "total_playing_time": "01:01",
     "listen_start_time": "00:00",
-    "detail": "ストーリーイベントテーマ\\n\\n時間 / 01:01\\n作曲 / 西村真吾\\n編曲 / 西村真吾",
+    "detail": "ストーリーイベントテーマ\\n-｢もっと！ふたりのパ～ティ～ナイト｣アレンジ-\\n\\n時間 / 01:01\\n作曲 / TAKT\\n編曲 / 西村真吾",
     "sheet_id": "bgm_M135",
     "cue_id": "bgm_M135_juke"
 }{
@@ -187,7 +187,7 @@
     "name": "ヴァンパイアハンターwithイリヤ",
     "total_playing_time": "00:54",
     "listen_start_time": "00:00",
-    "detail": "ストーリーイベントテーマ\\n\\n時間 / 00:54\\n作曲 / 東大路憲太\\n編曲 / 東大路憲太",
+    "detail": "ストーリーイベントテーマ\\n-｢Peaceful*ちゃんぷるー｣アレンジ-\\n\\n時間 / 00:54\\n作曲 / 小野貴光\\n編曲 / 東大路憲太",
     "sheet_id": "bgm_M106",
     "cue_id": "bgm_M106_juke"
 }{
@@ -219,7 +219,7 @@
     "name": "トワイライトブレイカーズ",
     "total_playing_time": "01:30",
     "listen_start_time": "00:00",
-    "detail": "ストーリーイベントテーマ\\n\\n時間 / 01:30\\n作曲 / 多田彰文\\n編曲 / 多田彰文",
+    "detail": "ストーリーイベントテーマ\\n-｢サイツヨでしょ、でしょ？｣アレンジ-\\n\\n時間 / 01:30\\n作曲 / Heart's Cry\\n編曲 / 多田彰文",
     "sheet_id": "bgm_M162",
     "cue_id": "bgm_M162_juke"
 }{
@@ -246,4 +246,84 @@
     "detail": "メインクエスト\\n\\n時間 / 02:05\\n作曲 / 東大路憲太\\n編曲 / 東大路憲太",
     "sheet_id": "bgm_M141",
     "cue_id": "bgm_M141_juke"
+}{
+    "music_id": 32,
+    "name": "氷と雪の世界",
+    "total_playing_time": "01:08",
+    "listen_start_time": "00:00",
+    "detail": "メインクエスト\\n\\n時間 / 01:08\\n作曲 / 西村真吾\\n編曲 / 西村真吾",
+    "sheet_id": "bgm_M58",
+    "cue_id": "bgm_M58_juke"
+}{
+    "music_id": 33,
+    "name": "爽やかな風",
+    "total_playing_time": "01:05",
+    "listen_start_time": "00:00",
+    "detail": "メインクエスト\\n\\n時間 / 01:05\\n作曲 / 加藤慶\\n編曲 / 加藤慶",
+    "sheet_id": "bgm_M101",
+    "cue_id": "bgm_M101_juke"
+}{
+    "music_id": 34,
+    "name": "カルキノス",
+    "total_playing_time": "01:02",
+    "listen_start_time": "00:00",
+    "detail": "クランバトル\\n\\n時間 / 01:02\\n作曲 / 白井友規（Cygames）\\n編曲 / 白井友規（Cygames）",
+    "sheet_id": "bgm_M115",
+    "cue_id": "bgm_M115_juke"
+}{
+    "music_id": 35,
+    "name": "デンジャラスバカンス！渚のグルメプリンセス",
+    "total_playing_time": "01:05",
+    "listen_start_time": "00:00",
+    "detail": "ストーリーイベントテーマ\\n-｢えがおのマイホーム｣アレンジ-\\n\\n時間 / 01:05\\n作曲 / Lucas\\n編曲 / 西村真吾",
+    "sheet_id": "bgm_M112",
+    "cue_id": "bgm_M112_juke"
+}{
+    "music_id": 36,
+    "name": "テンタパス",
+    "total_playing_time": "02:10",
+    "listen_start_time": "00:00",
+    "detail": "ストーリーイベントボスバトル\\n\\n時間 / 02:10\\n作曲 / 東大路憲太\\n編曲 / 東大路憲太",
+    "sheet_id": "bgm_M116",
+    "cue_id": "bgm_M116_juke"
+}{
+    "music_id": 37,
+    "name": "えがおのマイホーム",
+    "total_playing_time": "01:40",
+    "listen_start_time": "01:00",
+    "detail": "キャラクターソング\\n\\n時間 / 01:40\\n歌　 / サレン（堀江由衣）\\n　　　スズメ（悠木碧）\\n作詞 / Mitsu\\n作曲 / Lucas\\n編曲 / Lucas",
+    "sheet_id": "bgm_M147",
+    "cue_id": "bgm_M147"
+}{
+    "music_id": 38,
+    "name": "サジタリウス",
+    "total_playing_time": "00:45",
+    "listen_start_time": "00:00",
+    "detail": "クランバトル\\n\\n時間 / 00:45\\n作曲 / 庄司真吾（Cygames）\\n編曲 / 庄司真吾（Cygames）",
+    "sheet_id": "bgm_M175",
+    "cue_id": "bgm_M175_juke"
+}{
+    "music_id": 39,
+    "name": "忘却のキャロル",
+    "total_playing_time": "00:55",
+    "listen_start_time": "00:00",
+    "detail": "ストーリーイベントテーマ\\n-｢Ding Dong Holy Night♪｣アレンジ-\\n\\n時間 / 00:55\\n作曲 / 馬渕直純\\n編曲 / 中村早織（Cygames）",
+    "sheet_id": "bgm_M171",
+    "cue_id": "bgm_M171_juke"
+}{
+    "music_id": 40,
+    "name": "フォギー",
+    "total_playing_time": "02:57",
+    "listen_start_time": "00:00",
+    "detail": "ストーリーイベントボスバトル\\n\\n時間 / 02:57\\n作曲 / 東大路憲太\\n編曲 / 東大路憲太",
+    "sheet_id": "bgm_M172",
+    "cue_id": "bgm_M172_juke"
+}{
+    "music_id": 41,
+    "name": "Ding Dong Holy Night♪",
+    "total_playing_time": "01:28",
+    "listen_start_time": "00:42",
+    "detail": "キャラクターソング\\n\\n時間 / 01:28\\n歌　 / アヤネ（芹澤優）\\n　　　クルミ（植田佳奈）\\n作詞 / 磯谷佳江\\n作曲 / 馬渕直純\\n編曲 / 馬渕直純",
+    "sheet_id": "bgm_M187",
+    "cue_id": "bgm_M187"
 }

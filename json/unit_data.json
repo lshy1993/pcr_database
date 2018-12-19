@@ -1379,6 +1379,26 @@
     "start_time": "2015/04/01 15:00:00",
     "end_time": "2030/12/31 15:00:00"
 }{
+    "unit_id": 108601,
+    "unit_name": "アヤネ（クリスマス）",
+    "kana": "あやね",
+    "prefab_id": 108601,
+    "rarity": 3,
+    "motion_type": 3,
+    "se_type": 3,
+    "move_speed": 450,
+    "search_area_width": 190,
+    "atk_type": 1,
+    "normal_atk_cast_time": 1.425,
+    "cutin_1": 108601,
+    "cutin_2": 0,
+    "guild_id": 10,
+    "exskill_display": 0,
+    "comment": "【物理】前衛で、敵をなぎ倒していく聖夜のくまっ子。\\nユニオンバーストはＨＰを消費するが威力は絶大。\\nスキルで物理攻撃力を上げ、さらにダメージアップ。",
+    "only_disp_owned": 0,
+    "start_time": "2018/12/19 15:00:00",
+    "end_time": "2018/12/31 11:59:59"
+}{
     "unit_id": 403101,
     "unit_name": "髑髏",
     "kana": "どくろ",

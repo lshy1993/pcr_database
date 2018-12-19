@@ -660,6 +660,16 @@ INSERT INTO `unit_promotion_status` VALUES (108501,8,3665,869,0,85,43,0,0,245,5,
 INSERT INTO `unit_promotion_status` VALUES (108501,9,4915,1065,10,110,60,5,0,445,30,7,0,0,4,0,0,0,0);
 INSERT INTO `unit_promotion_status` VALUES (108501,10,5975,1230,20,137,88,10,0,645,30,12,0,0,4,15,3,0,0);
 INSERT INTO `unit_promotion_status` VALUES (108501,11,6775,1446,20,163,116,20,0,645,30,17,0,0,4,35,6,0,0);
+INSERT INTO `unit_promotion_status` VALUES (108601,2,50,25,0,3,0,0,0,75,0,0,0,0,0,0,0,0,0);
+INSERT INTO `unit_promotion_status` VALUES (108601,3,145,93,0,7,0,0,0,125,0,0,0,0,0,0,0,0,0);
+INSERT INTO `unit_promotion_status` VALUES (108601,4,295,231,0,11,1,0,0,155,5,0,0,0,0,0,0,0,0);
+INSERT INTO `unit_promotion_status` VALUES (108601,5,540,422,0,19,3,0,0,155,25,0,0,0,0,10,0,0,0);
+INSERT INTO `unit_promotion_status` VALUES (108601,6,865,709,0,29,5,0,0,245,25,0,0,0,0,10,0,0,0);
+INSERT INTO `unit_promotion_status` VALUES (108601,7,1315,1025,0,39,7,0,0,715,25,0,0,0,0,10,0,0,0);
+INSERT INTO `unit_promotion_status` VALUES (108601,8,1765,1366,0,55,15,0,0,715,25,0,0,0,0,10,0,0,0);
+INSERT INTO `unit_promotion_status` VALUES (108601,9,2085,1784,0,69,19,10,0,715,50,0,0,0,0,10,5,0,0);
+INSERT INTO `unit_promotion_status` VALUES (108601,10,2085,2272,0,78,27,45,0,715,50,0,0,0,3,20,10,0,0);
+INSERT INTO `unit_promotion_status` VALUES (108601,11,2285,2694,0,87,40,55,0,715,50,5,0,0,5,50,13,0,1);
 INSERT INTO `unit_promotion_status` VALUES (400401,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO `unit_promotion_status` VALUES (400401,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO `unit_promotion_status` VALUES (400401,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
