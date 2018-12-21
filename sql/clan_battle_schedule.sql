@@ -9,3 +9,4 @@ INSERT INTO `clan_battle_schedule` VALUES (1006,8,1005,1,1,"bgm_M132",2,"2018/08
 INSERT INTO `clan_battle_schedule` VALUES (1007,9,1006,1,1,"bgm_M139",1,"2018/09/21 5:00:00","2018/10/22 4:59:59");
 INSERT INTO `clan_battle_schedule` VALUES (1008,10,1007,1,1,"bgm_M166",2,"2018/10/22 5:00:00","2018/11/22 4:59:59");
 INSERT INTO `clan_battle_schedule` VALUES (1009,11,1008,1,1,"bgm_M175",1,"2018/11/22 5:00:00","2018/12/22 4:59:59");
+INSERT INTO `clan_battle_schedule` VALUES (1010,12,1009,1,1,"bgm_M181",2,"2018/12/22 5:00:00","2019/01/23 4:59:59");

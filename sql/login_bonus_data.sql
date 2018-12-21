@@ -5,3 +5,4 @@ INSERT INTO `login_bonus_data` VALUES (30000,"ログインボーナス",3,15,"20
 INSERT INTO `login_bonus_data` VALUES (40000,"CM放映記念ログインボーナス第1弾",4,1,"2016/09/01 15:00:00","2017/01/01 23:59:00",0,0,0,0);
 INSERT INTO `login_bonus_data` VALUES (40001,"Half Anniversary ログインキャンペーン",4,10,"2018/08/15 5:00:00","2018/09/01 4:59:59",500160,1,0,0);
 INSERT INTO `login_bonus_data` VALUES (40003,"グラブルコラボログインボーナス",4,10,"2018/12/09 5:00:00","2018/12/22 4:59:59",40003,2,0,0);
+INSERT INTO `login_bonus_data` VALUES (70000,"クリスマスログインボーナス",7,2,"2018/12/24 5:00:00","2018/12/26 4:59:59",500160,0,0,1);

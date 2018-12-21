@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "login_bonus_id": 70000,
+    "start_time": "2018/12/24 5:00:00",
+    "end_time": "2018/12/25 4:59:59",
+    "count_key": 0,
+    "adv_id": 400
+}{
+    "id": 2,
+    "login_bonus_id": 70000,
+    "start_time": "2018/12/25 5:00:00",
+    "end_time": "2018/12/26 4:59:59",
+    "count_key": 0,
+    "adv_id": 401
+}
