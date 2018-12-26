@@ -79,4 +79,13 @@
     "disp_order": 1,
     "start_time": "2018/11/26 15:00:00",
     "end_time": "2030/04/24 14:59:59"
+}{
+    "story_group_id": 5010,
+    "story_type": 5,
+    "value": 10010,
+    "title": "新春トゥインクル クライシス！",
+    "thumbnail_id": 0,
+    "disp_order": 1,
+    "start_time": "2018/12/26 15:00:00",
+    "end_time": "2030/04/24 14:59:59"
 }

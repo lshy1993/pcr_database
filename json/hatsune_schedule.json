@@ -133,4 +133,19 @@
     "backgroud_size_y": 1060,
     "backgroud_pos_x": 60,
     "backgroud_pos_y": 50
+}{
+    "event_id": 10010,
+    "teaser_time": "2018/12/26 15:00:00",
+    "start_time": "2030/12/31 12:00:00",
+    "end_time": "2030/12/31 12:00:00",
+    "close_time": "2030/12/31 12:00:00",
+    "background": 0,
+    "sheet_id": "0",
+    "que_id": "0",
+    "banner_unit_id": 0,
+    "count_start_time": "0",
+    "backgroud_size_x": 0,
+    "backgroud_size_y": 0,
+    "backgroud_pos_x": 0,
+    "backgroud_pos_y": 0
 }

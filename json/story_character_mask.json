@@ -1174,6 +1174,16 @@
     "size": 700,
     "softness": 80
 }{
+    "chara_id": 108711,
+    "offset": -50,
+    "size": 600,
+    "softness": 90
+}{
+    "chara_id": 108911,
+    "offset": 25,
+    "size": 600,
+    "softness": 75
+}{
     "chara_id": 161199,
     "offset": 0,
     "size": 800,

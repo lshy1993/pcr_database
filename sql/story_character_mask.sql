@@ -235,6 +235,8 @@ INSERT INTO `story_character_mask` VALUES (108211,-10,540,85);
 INSERT INTO `story_character_mask` VALUES (108411,0,650,105);
 INSERT INTO `story_character_mask` VALUES (108511,0,600,60);
 INSERT INTO `story_character_mask` VALUES (108611,-60,700,80);
+INSERT INTO `story_character_mask` VALUES (108711,-50,600,90);
+INSERT INTO `story_character_mask` VALUES (108911,25,600,75);
 INSERT INTO `story_character_mask` VALUES (161199,0,800,50);
 INSERT INTO `story_character_mask` VALUES (161499,0,800,50);
 INSERT INTO `story_character_mask` VALUES (171199,0,800,50);
