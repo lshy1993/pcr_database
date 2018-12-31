@@ -13262,7 +13262,7 @@
     "target_type": 3,
     "target_number": 0,
     "target_count": 99,
-    "description": "範囲内の敵に{0}の物理ダメージ",
+    "description": "敵全体に{0}の物理ダメージ",
     "level_up_disp": "物理ダメージ+{0}"
 }{
     "action_id": 108900102,
@@ -13284,7 +13284,7 @@
     "target_type": 3,
     "target_number": 0,
     "target_count": 99,
-    "description": "範囲内の敵を一定時間行動不能にする",
+    "description": "敵全体を一定時間行動不能にする",
     "level_up_disp": "スタンの確定成功Ｌｖ+1"
 }{
     "action_id": 108900201,
