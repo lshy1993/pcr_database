@@ -58,3 +58,6 @@ INSERT INTO `login_bonus_detail` VALUES (65,40003,9,8,91002,150,0,"","",0);
 INSERT INTO `login_bonus_detail` VALUES (66,40003,10,8,91002,150,0,"","",0);
 INSERT INTO `login_bonus_detail` VALUES (77,70000,1,8,91002,500,0,"","",0);
 INSERT INTO `login_bonus_detail` VALUES (78,70000,2,8,91002,500,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (79,70001,1,8,91002,300,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (80,70001,2,8,91002,300,0,"","",0);
+INSERT INTO `login_bonus_detail` VALUES (81,70001,3,8,91002,300,0,"","",0);

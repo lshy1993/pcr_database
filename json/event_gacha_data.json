@@ -63,6 +63,14 @@
     "cost": 1,
     "repeat_step": 5
 }{
+    "gacha_id": 10010,
+    "event_id": 10010,
+    "gacha_name": "新春トゥインクルクライシス！",
+    "item_type": 2,
+    "item_id": 60092,
+    "cost": 1,
+    "repeat_step": 5
+}{
     "gacha_id": 19003,
     "event_id": 10003,
     "gacha_name": "ヴァンパイアハンターwithイリヤ討伐証交換",

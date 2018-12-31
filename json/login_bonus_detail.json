@@ -636,4 +636,37 @@
     "character_name": "",
     "description": "",
     "voice_id": 0
+}{
+    "id": 79,
+    "login_bonus_id": 70001,
+    "count": 1,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 300,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
+}{
+    "id": 80,
+    "login_bonus_id": 70001,
+    "count": 2,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 300,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
+}{
+    "id": 81,
+    "login_bonus_id": 70001,
+    "count": 3,
+    "reward_type": 8,
+    "reward_id": 91002,
+    "reward_num": 300,
+    "character_id": 0,
+    "character_name": "",
+    "description": "",
+    "voice_id": 0
 }

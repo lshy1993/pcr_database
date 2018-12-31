@@ -8,4 +8,5 @@ INSERT INTO `event_gacha_data` VALUES (10006,10006,"黒鉄の亡霊",2,60052,1,5
 INSERT INTO `event_gacha_data` VALUES (10007,10007,"トリックオアプリン！約束のハロウィンパーティー",2,60062,1,5);
 INSERT INTO `event_gacha_data` VALUES (10008,10008,"トワイライトブレイカーズ",2,60072,1,5);
 INSERT INTO `event_gacha_data` VALUES (10009,10009,"忘却のキャロル",2,60082,1,5);
+INSERT INTO `event_gacha_data` VALUES (10010,10010,"新春トゥインクルクライシス！",2,60092,1,5);
 INSERT INTO `event_gacha_data` VALUES (19003,10003,"ヴァンパイアハンターwithイリヤ討伐証交換",2,60022,1,5);

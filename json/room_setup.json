@@ -1088,4 +1088,14 @@
     "grid_height": 3,
     "grid_width": 4,
     "unit_id": 0
+}{
+    "room_item_id": 1018,
+    "grid_height": 1,
+    "grid_width": 1,
+    "unit_id": 0
+}{
+    "room_item_id": 1019,
+    "grid_height": 1,
+    "grid_width": 1,
+    "unit_id": 0
 }

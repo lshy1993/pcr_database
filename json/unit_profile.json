@@ -1188,4 +1188,38 @@
     "catch_copy": "ぷうきちといつも一緒！",
     "self_text": "この子はね、ぷうきちって言うんだ\\n武器なんだけど、しゃべるんだよ♪\\n大事な大事な、私の友達なんだぁ～！",
     "guild_id": "9"
+}{
+    "unit_id": 108801,
+    "unit_name": "ユイ（ニューイヤー）",
+    "age": "17",
+    "guild": "トゥインクルウィッシュ",
+    "race": "ヒューマン",
+    "height": "158",
+    "weight": "47",
+    "birth_month": "4",
+    "birth_day": "5",
+    "blood_type": "O",
+    "favorite": "料理、人間観察",
+    "voice": "種田梨沙",
+    "voice_id": 0,
+    "catch_copy": "戦闘のサポートが得意な、心優しい少女",
+    "self_text": "あんまり役に立てるかはわからないけど…\\nわたしも頑張って、\\nみんなをサポートするね！",
+    "guild_id": "2"
+}{
+    "unit_id": 108901,
+    "unit_name": "レイ（ニューイヤー）",
+    "age": "18",
+    "guild": "トゥインクルウィッシュ",
+    "race": "魔族",
+    "height": "163",
+    "weight": "46",
+    "birth_month": "1",
+    "birth_day": "12",
+    "blood_type": "B",
+    "favorite": "読書、乗馬、お茶",
+    "voice": "早見沙織",
+    "voice_id": 0,
+    "catch_copy": "クールで何事にも真っ直ぐな剣士",
+    "self_text": "キミと会ったのもきっと何かの縁だ\\n一緒に塔の頂上を目指す仲間として\\n頑張っていこう。よろしく頼む",
+    "guild_id": "2"
 }

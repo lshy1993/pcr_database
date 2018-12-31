@@ -23,6 +23,26 @@
     "equip_slot": 1,
     "equip_id": 130291
 }{
+    "unit_id": 103001,
+    "equip_slot": 1,
+    "equip_id": 130301
+}{
+    "unit_id": 103201,
+    "equip_slot": 1,
+    "equip_id": 130321
+}{
+    "unit_id": 103401,
+    "equip_slot": 1,
+    "equip_id": 130341
+}{
+    "unit_id": 104601,
+    "equip_slot": 1,
+    "equip_id": 130461
+}{
+    "unit_id": 104801,
+    "equip_slot": 1,
+    "equip_id": 130481
+}{
     "unit_id": 105801,
     "equip_slot": 1,
     "equip_id": 130581
@@ -34,4 +54,8 @@
     "unit_id": 106001,
     "equip_slot": 1,
     "equip_id": 130601
+}{
+    "unit_id": 106301,
+    "equip_slot": 1,
+    "equip_id": 130631
 }

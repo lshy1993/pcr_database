@@ -669,6 +669,26 @@
     "end_time": "2030/12/17 14:59:59",
     "order": 0
 }{
+    "story_group_id": 1088,
+    "story_type": 1,
+    "value": 1088,
+    "title": "ユイ（ニューイヤー）",
+    "thumbnail_id": 0,
+    "disp_order": 74,
+    "start_time": "2015/04/01 15:00:00",
+    "end_time": "2030/12/17 14:59:59",
+    "order": 0
+}{
+    "story_group_id": 1089,
+    "story_type": 1,
+    "value": 1089,
+    "title": "レイ（ニューイヤー）",
+    "thumbnail_id": 0,
+    "disp_order": 75,
+    "start_time": "2015/04/01 15:00:00",
+    "end_time": "2030/12/17 14:59:59",
+    "order": 0
+}{
     "story_group_id": 1900,
     "story_type": 1,
     "value": 1900,

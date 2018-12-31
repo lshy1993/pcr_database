@@ -488,4 +488,18 @@
     "bg_name": "サレンディア救護院_広間_クリスマス",
     "position": 0,
     "face_type": 4
+}{
+    "unit_id": 108801,
+    "unit_name": "ユイ（ニューイヤー）",
+    "bg_id": 500553,
+    "bg_name": "お正月神殿",
+    "position": 0,
+    "face_type": 4
+}{
+    "unit_id": 108901,
+    "unit_name": "レイ（ニューイヤー）",
+    "bg_id": 500553,
+    "bg_name": "お正月神殿",
+    "position": 0,
+    "face_type": 2
 }

@@ -67,3 +67,5 @@ INSERT INTO `chara_identity` VALUES (108301,50);
 INSERT INTO `chara_identity` VALUES (108401,42);
 INSERT INTO `chara_identity` VALUES (108501,21);
 INSERT INTO `chara_identity` VALUES (108601,23);
+INSERT INTO `chara_identity` VALUES (108801,2);
+INSERT INTO `chara_identity` VALUES (108901,3);

@@ -10,6 +10,7 @@ INSERT INTO `gift_message` VALUES (2007,"{0}月クランバトル月間ランキ
 INSERT INTO `gift_message` VALUES (2008,"{0}で獲得した報酬です。",9,0,0,0);
 INSERT INTO `gift_message` VALUES (2009,"{0}月クランバトルランキング{2}位の報酬です。",10,11,7,0);
 INSERT INTO `gift_message` VALUES (2010,"「{0}」{1}日分の補てんアイテムです。",1,2,0,0);
+INSERT INTO `gift_message` VALUES (2011,"「{0}」{1}日目「{2}」で獲得したアイテムです。",1,2,16,0);
 INSERT INTO `gift_message` VALUES (2013,"「{0}」で獲得したアイテムです。",1,0,0,0);
 INSERT INTO `gift_message` VALUES (3001,"ギルドハウス2階解放時に獲得したアイテムです。",0,0,0,0);
 INSERT INTO `gift_message` VALUES (3002,"ギルドハウス3階解放時に獲得したアイテムです。",0,0,0,0);

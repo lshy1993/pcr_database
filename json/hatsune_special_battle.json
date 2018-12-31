@@ -1,0 +1,37 @@
+{
+    "event_id": 10010,
+    "mode": 1,
+    "purpose_type": 2,
+    "purpose_count": 0,
+    "story_id_mode_start": 0,
+    "story_id_mode_end": 5010321,
+    "wave_group_id": 610010004,
+    "unnecessary_defeat_chara": 610010401,
+    "story_start_second": 1.5,
+    "action_start_second": 5,
+    "hp_gauge_color_flag": 0
+}{
+    "event_id": 10010,
+    "mode": 2,
+    "purpose_type": 3,
+    "purpose_count": 108,
+    "story_id_mode_start": 0,
+    "story_id_mode_end": 5010322,
+    "wave_group_id": 610010005,
+    "unnecessary_defeat_chara": 610010402,
+    "story_start_second": 1.5,
+    "action_start_second": 5,
+    "hp_gauge_color_flag": 0
+}{
+    "event_id": 10010,
+    "mode": 3,
+    "purpose_type": 1,
+    "purpose_count": 0,
+    "story_id_mode_start": 0,
+    "story_id_mode_end": 0,
+    "wave_group_id": 610010006,
+    "unnecessary_defeat_chara": 0,
+    "story_start_second": 1.5,
+    "action_start_second": 5,
+    "hp_gauge_color_flag": 0
+}

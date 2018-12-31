@@ -3214,4 +3214,100 @@
     "type": 107,
     "title": "絆ランク演出7",
     "description": ""
+}{
+    "id": 10880101,
+    "unit_id": 108801,
+    "type": 201,
+    "title": "解放演出1",
+    "description": ""
+}{
+    "id": 10880102,
+    "unit_id": 108801,
+    "type": 101,
+    "title": "絆ランク演出1",
+    "description": ""
+}{
+    "id": 10880103,
+    "unit_id": 108801,
+    "type": 102,
+    "title": "絆ランク演出2",
+    "description": ""
+}{
+    "id": 10880104,
+    "unit_id": 108801,
+    "type": 103,
+    "title": "絆ランク演出3",
+    "description": ""
+}{
+    "id": 10880105,
+    "unit_id": 108801,
+    "type": 104,
+    "title": "絆ランク演出4",
+    "description": ""
+}{
+    "id": 10880106,
+    "unit_id": 108801,
+    "type": 105,
+    "title": "絆ランク演出5",
+    "description": ""
+}{
+    "id": 10880107,
+    "unit_id": 108801,
+    "type": 106,
+    "title": "絆ランク演出6",
+    "description": ""
+}{
+    "id": 10880108,
+    "unit_id": 108801,
+    "type": 107,
+    "title": "絆ランク演出7",
+    "description": ""
+}{
+    "id": 10890101,
+    "unit_id": 108901,
+    "type": 201,
+    "title": "解放演出1",
+    "description": ""
+}{
+    "id": 10890102,
+    "unit_id": 108901,
+    "type": 101,
+    "title": "絆ランク演出1",
+    "description": ""
+}{
+    "id": 10890103,
+    "unit_id": 108901,
+    "type": 102,
+    "title": "絆ランク演出2",
+    "description": ""
+}{
+    "id": 10890104,
+    "unit_id": 108901,
+    "type": 103,
+    "title": "絆ランク演出3",
+    "description": ""
+}{
+    "id": 10890105,
+    "unit_id": 108901,
+    "type": 104,
+    "title": "絆ランク演出4",
+    "description": ""
+}{
+    "id": 10890106,
+    "unit_id": 108901,
+    "type": 105,
+    "title": "絆ランク演出5",
+    "description": ""
+}{
+    "id": 10890107,
+    "unit_id": 108901,
+    "type": 106,
+    "title": "絆ランク演出6",
+    "description": ""
+}{
+    "id": 10890108,
+    "unit_id": 108901,
+    "type": 107,
+    "title": "絆ランク演出7",
+    "description": ""
 }

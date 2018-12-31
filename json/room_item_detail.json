@@ -3353,4 +3353,26 @@
     "lvup_item1_id": 0,
     "lvup_item1_num": 0,
     "lvup_time": 0
+}{
+    "room_item_id": 1018,
+    "level": 1,
+    "item_detail": "ふっくらまんまるの鏡餅。ずっしりしたボリューム感とふっくらした丸さは、豊かな新年の訪れを感じさせてくれる。これを部屋に飾って、充実した一年をスタート！",
+    "lvup_trigger_type": 0,
+    "lvup_trigger_id": 0,
+    "lvup_trigger_value": 0,
+    "lvup_item1_type": 0,
+    "lvup_item1_id": 0,
+    "lvup_item1_num": 0,
+    "lvup_time": 0
+}{
+    "room_item_id": 1019,
+    "level": 1,
+    "item_detail": "新年を鮮やかに飾る門松。これを置くだけで正月気分がグッと高まり、厳かな気持ちで新たな年を迎えられる。鏡餅と合わせて飾り、新年の挨拶を交わそう。",
+    "lvup_trigger_type": 0,
+    "lvup_trigger_id": 0,
+    "lvup_trigger_value": 0,
+    "lvup_item1_type": 0,
+    "lvup_item1_id": 0,
+    "lvup_item1_num": 0,
+    "lvup_time": 0
 }

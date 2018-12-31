@@ -130,4 +130,16 @@
     "name": "ノゾミのメモリーピース",
     "icon_type": 99002,
     "description": ""
+}{
+    "id": 23,
+    "odds_file": "1001020101",
+    "name": "レイ（ニューイヤー）のメモリーピース",
+    "icon_type": 99002,
+    "description": ""
+}{
+    "id": 24,
+    "odds_file": "1001020102",
+    "name": "ユイのメモリーピース",
+    "icon_type": 99002,
+    "description": ""
 }

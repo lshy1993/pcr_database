@@ -167,6 +167,14 @@
     "end_date": "2018/12/31 11:59:59",
     "sub_banner_id_1": 0
 }{
+    "banner_id": 10021,
+    "type": 1,
+    "system_id": 302,
+    "priority": 1,
+    "start_date": "2019/01/03 19:00:00",
+    "end_date": "2019/01/18 14:59:59",
+    "sub_banner_id_1": 0
+}{
     "banner_id": 20000,
     "type": 2,
     "system_id": 101,
@@ -222,6 +230,14 @@
     "start_date": "2018/10/31 12:00:00",
     "end_date": "2018/11/03 18:59:59",
     "sub_banner_id_1": 0
+}{
+    "banner_id": 50023,
+    "type": 1,
+    "system_id": 303,
+    "priority": 1,
+    "start_date": "2018/12/31 12:00:00",
+    "end_date": "2019/01/03 18:59:59",
+    "sub_banner_id_1": 50018
 }{
     "banner_id": 60001,
     "type": 1,
