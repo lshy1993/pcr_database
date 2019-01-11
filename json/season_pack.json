@@ -12,4 +12,18 @@
     "item_record_id": 1,
     "condition_flg": 0,
     "reward_rate_1": 2000
+}{
+    "id": 15,
+    "mission_id": 0,
+    "disp_order": 0,
+    "category_icon": 0,
+    "receive_text": "",
+    "after_text": "",
+    "term": 7,
+    "repurchase_day": 3,
+    "system_id_1": 103,
+    "add_num_1": 3,
+    "item_record_id": 0,
+    "condition_flg": 1,
+    "reward_rate_1": 0
 }

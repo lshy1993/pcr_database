@@ -9,4 +9,81 @@
     "stamp_id": 0,
     "odds_group_id": 0,
     "adv_play_type": 0
+}{
+    "login_bonus_id": 30000,
+    "name": "ログインボーナス",
+    "login_bonus_type": 3,
+    "count_num": 15,
+    "start_time": "2016/04/01 15:00:00",
+    "end_time": "2099/01/01 23:59:00",
+    "bg_id": 0,
+    "stamp_id": 0,
+    "odds_group_id": 0,
+    "adv_play_type": 0
+}{
+    "login_bonus_id": 40000,
+    "name": "CM放映記念ログインボーナス第1弾",
+    "login_bonus_type": 4,
+    "count_num": 1,
+    "start_time": "2016/09/01 15:00:00",
+    "end_time": "2017/01/01 23:59:00",
+    "bg_id": 0,
+    "stamp_id": 0,
+    "odds_group_id": 0,
+    "adv_play_type": 0
+}{
+    "login_bonus_id": 40001,
+    "name": "Half Anniversary ログインキャンペーン",
+    "login_bonus_type": 4,
+    "count_num": 10,
+    "start_time": "2018/08/15 5:00:00",
+    "end_time": "2018/09/01 4:59:59",
+    "bg_id": 500160,
+    "stamp_id": 1,
+    "odds_group_id": 0,
+    "adv_play_type": 0
+}{
+    "login_bonus_id": 40003,
+    "name": "グラブルコラボログインボーナス",
+    "login_bonus_type": 4,
+    "count_num": 10,
+    "start_time": "2018/12/09 5:00:00",
+    "end_time": "2018/12/22 4:59:59",
+    "bg_id": 40003,
+    "stamp_id": 2,
+    "odds_group_id": 0,
+    "adv_play_type": 0
+}{
+    "login_bonus_id": 60000,
+    "name": "謹賀新年 お正月ログインボーナス",
+    "login_bonus_type": 6,
+    "count_num": 7,
+    "start_time": "2019/01/01 5:00:00",
+    "end_time": "2019/01/11 4:59:59",
+    "bg_id": 500553,
+    "stamp_id": 0,
+    "odds_group_id": 1,
+    "adv_play_type": 0
+}{
+    "login_bonus_id": 70000,
+    "name": "クリスマスログインボーナス",
+    "login_bonus_type": 7,
+    "count_num": 2,
+    "start_time": "2018/12/24 5:00:00",
+    "end_time": "2018/12/26 4:59:59",
+    "bg_id": 500160,
+    "stamp_id": 0,
+    "odds_group_id": 0,
+    "adv_play_type": 1
+}{
+    "login_bonus_id": 70001,
+    "name": "あけおめログインボーナス",
+    "login_bonus_type": 7,
+    "count_num": 3,
+    "start_time": "2019/01/01 5:00:00",
+    "end_time": "2019/01/04 4:59:59",
+    "bg_id": 500160,
+    "stamp_id": 0,
+    "odds_group_id": 0,
+    "adv_play_type": 2
 }
