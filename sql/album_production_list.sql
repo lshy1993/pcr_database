@@ -536,6 +536,14 @@ INSERT INTO `album_production_list` VALUES (10860105,108601,104,"絆ランク演
 INSERT INTO `album_production_list` VALUES (10860106,108601,105,"絆ランク演出5","");
 INSERT INTO `album_production_list` VALUES (10860107,108601,106,"絆ランク演出6","");
 INSERT INTO `album_production_list` VALUES (10860108,108601,107,"絆ランク演出7","");
+INSERT INTO `album_production_list` VALUES (10870101,108701,201,"解放演出1","");
+INSERT INTO `album_production_list` VALUES (10870102,108701,101,"絆ランク演出1","");
+INSERT INTO `album_production_list` VALUES (10870103,108701,102,"絆ランク演出2","");
+INSERT INTO `album_production_list` VALUES (10870104,108701,103,"絆ランク演出3","");
+INSERT INTO `album_production_list` VALUES (10870105,108701,104,"絆ランク演出4","");
+INSERT INTO `album_production_list` VALUES (10870106,108701,105,"絆ランク演出5","");
+INSERT INTO `album_production_list` VALUES (10870107,108701,106,"絆ランク演出6","");
+INSERT INTO `album_production_list` VALUES (10870108,108701,107,"絆ランク演出7","");
 INSERT INTO `album_production_list` VALUES (10880101,108801,201,"解放演出1","");
 INSERT INTO `album_production_list` VALUES (10880102,108801,101,"絆ランク演出1","");
 INSERT INTO `album_production_list` VALUES (10880103,108801,102,"絆ランク演出2","");

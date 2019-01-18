@@ -41,3 +41,13 @@ INSERT INTO `music_content` VALUES (38,"サジタリウス","00:45","00:00","ク
 INSERT INTO `music_content` VALUES (39,"忘却のキャロル","00:55","00:00","ストーリーイベントテーマ\n-｢Ding Dong Holy Night♪｣アレンジ-\n\n時間 / 00:55\n作曲 / 馬渕直純\n編曲 / 中村早織（Cygames）","bgm_M171","bgm_M171_juke");
 INSERT INTO `music_content` VALUES (40,"フォギー","02:57","00:00","ストーリーイベントボスバトル\n\n時間 / 02:57\n作曲 / 東大路憲太\n編曲 / 東大路憲太","bgm_M172","bgm_M172_juke");
 INSERT INTO `music_content` VALUES (41,"Ding Dong Holy Night♪","01:28","00:42","キャラクターソング\n\n時間 / 01:28\n歌　 / アヤネ（芹澤優）\n　　　クルミ（植田佳奈）\n作詞 / 磯谷佳江\n作曲 / 馬渕直純\n編曲 / 馬渕直純","bgm_M187","bgm_M187");
+INSERT INTO `music_content` VALUES (42,"険しき乾荒原","00:57","00:00","メインクエスト\n\n時間 / 00:57\n作曲 / 加藤慶\n編曲 / 加藤慶","bgm_M93","bgm_M93_juke");
+INSERT INTO `music_content` VALUES (43,"オルレオン","01:06","00:00","クランバトル\n\n時間 / 01:06\n作曲 / 庄司真吾（Cygames）\n編曲 / 西村真吾","bgm_M119","bgm_M119_juke");
+INSERT INTO `music_content` VALUES (44,"タマキとミフユの無人島0ルピ生活","01:10","00:00","ストーリーイベントテーマ\n-｢キンキラ☆ハピネス！｣アレンジ-\n\n時間 / 01:10\n作曲 / 斉藤裕也\n編曲 / 西村真吾","bgm_M121","bgm_M121_juke");
+INSERT INTO `music_content` VALUES (45,"島クジラ","02:35","00:00","ストーリーイベントボスバトル\n\n時間 / 02:35\n作曲 / 東大路憲太\n編曲 / 東大路憲太","bgm_M124","bgm_M124_juke");
+INSERT INTO `music_content` VALUES (46,"キンキラ☆ハピネス！","01:20","00:42","キャラクターソング\n\n時間 / 01:20\n歌　 / タマキ（沼倉愛美）\n　　　ミフユ（田所あずさ）\n　　　アキノ（松嵜麗）\n　　　ユカリ（今井麻美）\n作詞 / joru\n作曲 / 斉藤裕也\n編曲 / 斉藤裕也","bgm_M146","bgm_M146");
+INSERT INTO `music_content` VALUES (47,"新たな船出","01:20","00:00","メインクエスト\n\n時間 / 01:20\n作曲 / 東大路憲太\n編曲 / 東大路憲太","bgm_M179","bgm_M179_juke");
+INSERT INTO `music_content` VALUES (48,"アルゲティ","00:58","00:00","クランバトル\n\n時間 / 00:58\n作曲 / 加藤慶\n編曲 / 加藤慶","bgm_M181","bgm_M181_juke");
+INSERT INTO `music_content` VALUES (49,"新春トゥインクルクライシス！","00:58","00:00","ストーリーイベントテーマ\n-｢TwinkleStars｣アレンジ-\n\n時間 / 00:58\n作曲 / 石濱翔（MONACA）\n編曲 / 東大路憲太","bgm_M182","bgm_M182_juke");
+INSERT INTO `music_content` VALUES (50,"邪餅神ガミィ","02:32","00:00","ストーリーイベントボスバトル\n\n時間 / 02:32\n作曲 / 東大路憲太\n編曲 / 東大路憲太","bgm_M183","bgm_M183_juke");
+INSERT INTO `music_content` VALUES (51,"TwinkleStars","01:24","00:45","キャラクターソング\n\n時間 / 01:24\n歌　 / ユイ（種田梨沙）\n　　　ヒヨリ（東山奈央）\n　　　レイ（早見沙織）\n作詞 / 野村イクミ（Cygames）\n作曲 / 石濱翔（MONACA）\n編曲 / 石濱翔（MONACA）","bgm_M202","bgm_M202");

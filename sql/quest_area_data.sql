@@ -18,6 +18,7 @@ INSERT INTO `quest_area_data` VALUES (11015,"15.タリア火山",101,"bgm_M96","
 INSERT INTO `quest_area_data` VALUES (11016,"16.テミス銀嶺",101,"bgm_M140","bgm_M140","2015/12/17 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (11017,"17.フィデス氷原",101,"bgm_M141","bgm_M141","2015/12/17 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (11018,"18.ファエトン原野・北部",102,"bgm_M179","bgm_M179","2015/12/17 15:00:00","2030/12/17 14:59:59");
+INSERT INTO `quest_area_data` VALUES (11019,"19.ファエトン原野・南部",102,"bgm_M179","bgm_M179","2015/12/17 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (12001,"1.ジュノー平野",101,"bgm_M61","bgm_M61","2015/12/17 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (12002,"2.パラス高原",101,"bgm_M61","bgm_M61_02","2015/12/17 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (12003,"3.ヘーベ丘陵",101,"bgm_M61","bgm_M61_03","2015/12/17 15:00:00","2030/12/17 14:59:59");
@@ -36,6 +37,7 @@ INSERT INTO `quest_area_data` VALUES (12015,"15.タリア火山",101,"bgm_M96","
 INSERT INTO `quest_area_data` VALUES (12016,"16.テミス銀嶺",101,"bgm_M140","bgm_M140","2015/12/17 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (12017,"17.フィデス氷原",101,"bgm_M141","bgm_M141","2015/12/17 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (12018,"18.ファエトン原野・北部",102,"bgm_M179","bgm_M179","2015/12/17 15:00:00","2030/12/17 14:59:59");
+INSERT INTO `quest_area_data` VALUES (12019,"19.ファエトン原野・南部",102,"bgm_M179","bgm_M179","2015/12/17 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (18001,"聖跡調査クエスト",0,"","","2015/12/17 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (21001,"マナクエスト",0,"","","2015/12/17 15:00:00","2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (21002,"経験値クエスト",0,"","","2015/12/17 15:00:00","2030/12/17 14:59:59");

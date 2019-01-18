@@ -3,4 +3,4 @@ CREATE TABLE IF NOT EXISTS `worldmap` (`course_id` INTEGER NOT NULL,`name` TEXT 
 INSERT INTO `worldmap` VALUES (1,"アストライア大陸",1,"bgm_M61","bgm_M61_00",11001,11017);
 INSERT INTO `worldmap` VALUES (2,"ダンジョンマップ",1,"bgm_M61","bgm_M61",4001,4004);
 INSERT INTO `worldmap` VALUES (3,"イベントマップ",1,"","",7001,7008);
-INSERT INTO `worldmap` VALUES (4,"エルピス島",2,"bgm_M179","bgm_M179_00",11018,11018);
+INSERT INTO `worldmap` VALUES (4,"エルピス島",2,"bgm_M179","bgm_M179_00",11018,11019);
