@@ -87,7 +87,7 @@ INSERT INTO `mission_reward_data` VALUES (92,26002007,8,91002,50);
 INSERT INTO `mission_reward_data` VALUES (93,26005001,8,91002,100);
 INSERT INTO `mission_reward_data` VALUES (94,26005002,8,91002,100);
 INSERT INTO `mission_reward_data` VALUES (95,21007001,8,91002,50);
-INSERT INTO `mission_reward_data` VALUES (97,28006001,8,91002,100);
+INSERT INTO `mission_reward_data` VALUES (97,28006001,8,91002,1000);
 INSERT INTO `mission_reward_data` VALUES (98,28005001,5,0,20);
 INSERT INTO `mission_reward_data` VALUES (99,28005001,2,20001,10);
 INSERT INTO `mission_reward_data` VALUES (100,15005001,12,94002,1500);

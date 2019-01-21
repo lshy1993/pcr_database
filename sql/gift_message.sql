@@ -31,6 +31,7 @@ INSERT INTO `gift_message` VALUES (9212,"ラジオ1周年記念生放送内コ�
 INSERT INTO `gift_message` VALUES (9213,"運営からギルドハウスアイテムのプレゼントです。",0,0,0,0);
 INSERT INTO `gift_message` VALUES (9214,"「公式生放送　2018　秋」内コーナーの特別プレゼントです。",0,0,0,0);
 INSERT INTO `gift_message` VALUES (9215,"ルナの塔のアップデートにともなうプレゼントです。",0,0,0,0);
+INSERT INTO `gift_message` VALUES (9216,"ミッションの報酬変更にともなうプレゼントです。",0,0,0,0);
 INSERT INTO `gift_message` VALUES (9301,"所持上限を超えて獲得したスタミナです。",0,0,0,0);
 INSERT INTO `gift_message` VALUES (9302,"バトルアリーナの防衛報酬です。",0,0,0,0);
 INSERT INTO `gift_message` VALUES (9303,"プリンセスアリーナの防衛報酬です。",0,0,0,0);
