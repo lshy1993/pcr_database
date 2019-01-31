@@ -3507,4 +3507,15 @@
     "lvup_item1_id": 0,
     "lvup_item1_num": 0,
     "lvup_time": 0
+}{
+    "room_item_id": 1113,
+    "level": 1,
+    "item_detail": "とっても甘いバレンタインのために、美味しいケーキを作り上げた者へ贈られるトロフィー。金色に輝くケーキは新たなスイーツの可能性を感じさせるとともに、甘いものへの食欲をかき立ててくれる。食べ過ぎにはくれぐれも注意！",
+    "lvup_trigger_type": 0,
+    "lvup_trigger_id": 0,
+    "lvup_trigger_value": 0,
+    "lvup_item1_type": 0,
+    "lvup_item1_id": 0,
+    "lvup_item1_num": 0,
+    "lvup_time": 0
 }

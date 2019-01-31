@@ -79,4 +79,22 @@
     "que_id": "bgm_M171",
     "start_area_id": 10009101,
     "end_area_id": 10009101
+}{
+    "course_id": 10010,
+    "event_id": 10010,
+    "name": "神殿への参道",
+    "map_id": 10010,
+    "sheet_id": "bgm_M121",
+    "que_id": "bgm_M121",
+    "start_area_id": 10010101,
+    "end_area_id": 10010101
+}{
+    "course_id": 10011,
+    "event_id": 10011,
+    "name": "バレンタイン",
+    "map_id": 10011,
+    "sheet_id": "bgm_M189",
+    "que_id": "bgm_M189",
+    "start_area_id": 10011101,
+    "end_area_id": 10011101
 }

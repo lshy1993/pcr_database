@@ -70,3 +70,5 @@ INSERT INTO `actual_unit_background` VALUES (108631,"北条 綾音",510280,1);
 INSERT INTO `actual_unit_background` VALUES (108731,"春咲 ひより",510360,9);
 INSERT INTO `actual_unit_background` VALUES (108831,"草野 優衣",510220,2);
 INSERT INTO `actual_unit_background` VALUES (108931,"士条 怜",510350,2);
+INSERT INTO `actual_unit_background` VALUES (109031,"倉石 恵理子",510300,4);
+INSERT INTO `actual_unit_background` VALUES (109131,"星野 静流",510090,2);

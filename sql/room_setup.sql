@@ -229,3 +229,4 @@ INSERT INTO `room_setup` VALUES (1106,2,2,0);
 INSERT INTO `room_setup` VALUES (1107,2,2,0);
 INSERT INTO `room_setup` VALUES (1108,3,6,0);
 INSERT INTO `room_setup` VALUES (1109,1,2,0);
+INSERT INTO `room_setup` VALUES (1113,1,1,0);

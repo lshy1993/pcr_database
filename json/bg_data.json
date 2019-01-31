@@ -175,6 +175,14 @@
     "bg_id": 530032,
     "event_id": 0
 }{
+    "view_name": "MINIGAME_PCT",
+    "bg_id": 0,
+    "event_id": 0
+}{
+    "view_name": "MINIGAME_PCT_TOP",
+    "bg_id": 500600,
+    "event_id": 0
+}{
     "view_name": "MISSION",
     "bg_id": 500390,
     "event_id": 0

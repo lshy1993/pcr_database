@@ -20,5 +20,5 @@ INSERT INTO `content_release_data` VALUES (503,1,0,11002002,"メインクエス�
 INSERT INTO `content_release_data` VALUES (506,1,0,11003005,"メインクエスト3-5（NORMAL）クリアで解放");
 INSERT INTO `content_release_data` VALUES (601,1,0,11002001,"メインクエスト2-1（NORMAL）クリアで解放");
 INSERT INTO `content_release_data` VALUES (602,1,0,11007001,"メインクエスト7-1（NORMAL）クリアで解放");
-INSERT INTO `content_release_data` VALUES (603,1,0,11011001,"メインクエスト11-1（NORMAL）クリアで解放");
+INSERT INTO `content_release_data` VALUES (603,1,0,11016014,"メインクエスト16-14（NORMAL）クリアで解放");
 INSERT INTO `content_release_data` VALUES (701,1,0,11003001,"メインクエスト3-1（NORMAL）クリアで解放");

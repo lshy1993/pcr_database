@@ -73,3 +73,5 @@ INSERT INTO `unit_background` VALUES (108601,"アヤネ（クリスマス）",50
 INSERT INTO `unit_background` VALUES (108701,"ヒヨリ（ニューイヤー）",500553,"お正月神殿",0,4);
 INSERT INTO `unit_background` VALUES (108801,"ユイ（ニューイヤー）",500553,"お正月神殿",0,4);
 INSERT INTO `unit_background` VALUES (108901,"レイ（ニューイヤー）",500553,"お正月神殿",0,2);
+INSERT INTO `unit_background` VALUES (109001,"エリコ（バレンタイン）",500600,"キッチンスタジアム",0,4);
+INSERT INTO `unit_background` VALUES (109101,"シズル（バレンタイン）",500600,"キッチンスタジアム",0,4);

@@ -890,6 +890,28 @@
     "start_time": "2015/12/17 15:00:00",
     "end_time": "2030/08/01 14:59:59"
 }{
+    "item_id": 31090,
+    "item_name": "エリコ（バレンタイン）のメモリーピース",
+    "description": "エリコ（バレンタイン）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。",
+    "promotion_level": 1,
+    "item_type": 11,
+    "value": 31090,
+    "price": 0,
+    "limit_num": 9999,
+    "start_time": "2015/12/17 15:00:00",
+    "end_time": "2030/08/01 14:59:59"
+}{
+    "item_id": 31091,
+    "item_name": "シズル（バレンタイン）のメモリーピース",
+    "description": "シズル（バレンタイン）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。",
+    "promotion_level": 1,
+    "item_type": 11,
+    "value": 31091,
+    "price": 0,
+    "limit_num": 9999,
+    "start_time": "2015/12/17 15:00:00",
+    "end_time": "2030/08/01 14:59:59"
+}{
     "item_id": 50001,
     "item_name": "ハートチュロ",
     "description": "ギルドハウス内で使用すると、キャラの絆Ptが10加算される。",
@@ -1135,6 +1157,61 @@
     "item_id": 60092,
     "item_name": "討伐証",
     "description": "イベント期間中にモンスターを討伐した証。集めて討伐証交換ができる。",
+    "promotion_level": 1,
+    "item_type": 13,
+    "value": 0,
+    "price": 0,
+    "limit_num": 9999,
+    "start_time": "2015/12/17 15:00:00",
+    "end_time": "2030/04/24 14:59:59"
+}{
+    "item_id": 60101,
+    "item_name": "ボスチケット",
+    "description": "イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。",
+    "promotion_level": 1,
+    "item_type": 13,
+    "value": 0,
+    "price": 0,
+    "limit_num": 9999,
+    "start_time": "2015/12/17 15:00:00",
+    "end_time": "2030/04/24 14:59:59"
+}{
+    "item_id": 60102,
+    "item_name": "討伐証",
+    "description": "イベント期間中にモンスターを討伐した証。集めて討伐証交換ができる。",
+    "promotion_level": 1,
+    "item_type": 13,
+    "value": 0,
+    "price": 0,
+    "limit_num": 9999,
+    "start_time": "2015/12/17 15:00:00",
+    "end_time": "2030/04/24 14:59:59"
+}{
+    "item_id": 60103,
+    "item_name": "普通のカカオ",
+    "description": "ミニゲームで使用するアイテム。",
+    "promotion_level": 1,
+    "item_type": 13,
+    "value": 0,
+    "price": 0,
+    "limit_num": 9999,
+    "start_time": "2015/12/17 15:00:00",
+    "end_time": "2030/04/24 14:59:59"
+}{
+    "item_id": 60104,
+    "item_name": "完熟カカオ",
+    "description": "ミニゲームで使用するアイテム。",
+    "promotion_level": 1,
+    "item_type": 13,
+    "value": 0,
+    "price": 0,
+    "limit_num": 9999,
+    "start_time": "2015/12/17 15:00:00",
+    "end_time": "2030/04/24 14:59:59"
+}{
+    "item_id": 60105,
+    "item_name": "極上カカオ",
+    "description": "ミニゲームで使用するアイテム。",
     "promotion_level": 1,
     "item_type": 13,
     "value": 0,

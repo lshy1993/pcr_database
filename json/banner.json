@@ -183,6 +183,14 @@
     "end_date": "2019/01/31 11:59:59",
     "sub_banner_id_1": 0
 }{
+    "banner_id": 10023,
+    "type": 1,
+    "system_id": 302,
+    "priority": 1,
+    "start_date": "2019/01/31 12:00:00",
+    "end_date": "2019/02/15 22:59:59",
+    "sub_banner_id_1": 0
+}{
     "banner_id": 20000,
     "type": 2,
     "system_id": 101,

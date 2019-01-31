@@ -71,6 +71,14 @@
     "cost": 1,
     "repeat_step": 5
 }{
+    "gacha_id": 10011,
+    "event_id": 10011,
+    "gacha_name": "バトルオブバレンタイン！想いぶつかるスウィートバトル",
+    "item_type": 2,
+    "item_id": 60102,
+    "cost": 1,
+    "repeat_step": 5
+}{
     "gacha_id": 19003,
     "event_id": 10003,
     "gacha_name": "ヴァンパイアハンターwithイリヤ討伐証交換",

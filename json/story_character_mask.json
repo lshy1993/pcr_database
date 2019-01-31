@@ -350,9 +350,9 @@
     "softness": 50
 }{
     "chara_id": 101111,
-    "offset": -100,
-    "size": 730,
-    "softness": 40
+    "offset": 20,
+    "size": 650,
+    "softness": 50
 }{
     "chara_id": 101112,
     "offset": -100,
@@ -1188,6 +1188,16 @@
     "offset": 25,
     "size": 600,
     "softness": 75
+}{
+    "chara_id": 109011,
+    "offset": -30,
+    "size": 680,
+    "softness": 180
+}{
+    "chara_id": 109111,
+    "offset": -55,
+    "size": 700,
+    "softness": 105
 }{
     "chara_id": 161199,
     "offset": 0,

@@ -699,6 +699,26 @@
     "end_time": "2030/12/17 14:59:59",
     "order": 0
 }{
+    "story_group_id": 1090,
+    "story_type": 1,
+    "value": 1090,
+    "title": "エリコ（バレンタイン）",
+    "thumbnail_id": 0,
+    "disp_order": 76,
+    "start_time": "2015/04/01 15:00:00",
+    "end_time": "2030/12/17 14:59:59",
+    "order": 0
+}{
+    "story_group_id": 1091,
+    "story_type": 1,
+    "value": 1091,
+    "title": "シズル（バレンタイン）",
+    "thumbnail_id": 0,
+    "disp_order": 77,
+    "start_time": "2015/04/01 15:00:00",
+    "end_time": "2030/12/17 14:59:59",
+    "order": 0
+}{
     "story_group_id": 1900,
     "story_type": 1,
     "value": 1900,

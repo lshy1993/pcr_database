@@ -53,3 +53,4 @@ INSERT INTO `gift_message` VALUES (9505,"イベントボス「{1}」のバトル
 INSERT INTO `gift_message` VALUES (9506,"イベントミッション達成で獲得したアイテムです。",13,0,0,0);
 INSERT INTO `gift_message` VALUES (9507,"「{1}」で獲得したアイテムです。",13,12,0,0);
 INSERT INTO `gift_message` VALUES (9508,"「{0}」で獲得したアイテムです。",13,0,0,0);
+INSERT INTO `gift_message` VALUES (9600,"ミニゲームで獲得したアイテムです。",0,0,0,0);

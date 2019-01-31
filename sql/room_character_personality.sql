@@ -70,4 +70,6 @@ INSERT INTO `room_character_personality` VALUES (1086,3);
 INSERT INTO `room_character_personality` VALUES (1087,3);
 INSERT INTO `room_character_personality` VALUES (1088,1);
 INSERT INTO `room_character_personality` VALUES (1089,4);
+INSERT INTO `room_character_personality` VALUES (1090,4);
+INSERT INTO `room_character_personality` VALUES (1091,1);
 INSERT INTO `room_character_personality` VALUES (1909,7);

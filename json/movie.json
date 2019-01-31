@@ -59,6 +59,12 @@
     "bgm_id": "bgm_M182_02",
     "se_id": ""
 }{
+    "movie_id": 1001101,
+    "story_group_id": 5011,
+    "story_id": 5011000,
+    "bgm_id": "bgm_M189",
+    "se_id": ""
+}{
     "movie_id": 200000101,
     "story_group_id": 2000,
     "story_id": 2000001,
@@ -584,6 +590,18 @@
     "movie_id": 501050101,
     "story_group_id": 5010,
     "story_id": 5010501,
+    "bgm_id": "",
+    "se_id": ""
+}{
+    "movie_id": 501100601,
+    "story_group_id": 5011,
+    "story_id": 5011006,
+    "bgm_id": "bgm_M192_emt5011_005",
+    "se_id": ""
+}{
+    "movie_id": 501100701,
+    "story_group_id": 5011,
+    "story_id": 5011007,
     "bgm_id": "",
     "se_id": ""
 }{

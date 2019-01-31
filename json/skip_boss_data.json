@@ -1,0 +1,17 @@
+{
+    "boss_id": 1001101,
+    "skip_motion_id": 306700,
+    "skip_bg_id": 81001105,
+    "skip_position_x": 0,
+    "skip_position_y": 0,
+    "skip_scale_x": 1,
+    "skip_scale_y": 1
+}{
+    "boss_id": 1001102,
+    "skip_motion_id": 306700,
+    "skip_bg_id": 81001106,
+    "skip_position_x": 0,
+    "skip_position_y": 0,
+    "skip_scale_x": 1,
+    "skip_scale_y": 1
+}

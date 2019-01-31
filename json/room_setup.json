@@ -1143,4 +1143,9 @@
     "grid_height": 1,
     "grid_width": 2,
     "unit_id": 0
+}{
+    "room_item_id": 1113,
+    "grid_height": 1,
+    "grid_width": 1,
+    "unit_id": 0
 }

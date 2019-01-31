@@ -509,4 +509,18 @@
     "bg_name": "お正月神殿",
     "position": 0,
     "face_type": 2
+}{
+    "unit_id": 109001,
+    "unit_name": "エリコ（バレンタイン）",
+    "bg_id": 500600,
+    "bg_name": "キッチンスタジアム",
+    "position": 0,
+    "face_type": 4
+}{
+    "unit_id": 109101,
+    "unit_name": "シズル（バレンタイン）",
+    "bg_id": 500600,
+    "bg_name": "キッチンスタジアム",
+    "position": 0,
+    "face_type": 4
 }

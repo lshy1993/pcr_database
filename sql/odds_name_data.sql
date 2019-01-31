@@ -24,3 +24,13 @@ INSERT INTO `odds_name_data` VALUES (21,"1000920101","クルミ（クリスマ�
 INSERT INTO `odds_name_data` VALUES (22,"1000920102","ノゾミのメモリーピース",99002,"");
 INSERT INTO `odds_name_data` VALUES (23,"1001020101","レイ（ニューイヤー）のメモリーピース",99002,"");
 INSERT INTO `odds_name_data` VALUES (24,"1001020102","ユイのメモリーピース",99002,"");
+INSERT INTO `odds_name_data` VALUES (25,"1001120101","エリコ（バレンタイン）のメモリーピース",99002,"");
+INSERT INTO `odds_name_data` VALUES (26,"1001120102","リノのメモリーピース",99002,"");
+INSERT INTO `odds_name_data` VALUES (27,"box_rank_2-4","ランダム装備BOX",99002,"ランダムな装備が獲得できる。");
+INSERT INTO `odds_name_data` VALUES (28,"box_rank_2-5","ランダム装備BOX",99002,"ランダムな装備が獲得できる。");
+INSERT INTO `odds_name_data` VALUES (29,"box_rank_3-6","ランダム装備BOX",99002,"ランダムな装備が獲得できる。");
+INSERT INTO `odds_name_data` VALUES (30,"box_rank_4-5","ランダム装備BOX",99002,"ランダムな装備が獲得できる。");
+INSERT INTO `odds_name_data` VALUES (31,"box_rank_6-7","ランダム装備BOX",99002,"ランダムな装備が獲得できる。");
+INSERT INTO `odds_name_data` VALUES (32,"box_rank_7-8","ランダム装備BOX",99002,"ランダムな装備が獲得できる。");
+INSERT INTO `odds_name_data` VALUES (33,"box_rank_8-10","ランダム装備BOX",99002,"ランダムな装備が獲得できる。");
+INSERT INTO `odds_name_data` VALUES (34,"box_rank_8-11","ランダム装備BOX",99002,"ランダムな装備が獲得できる。");
