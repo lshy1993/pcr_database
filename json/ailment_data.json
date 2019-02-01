@@ -88,4 +88,9 @@
     "ailment_action": 3,
     "ailment_detail_1": -1,
     "ailment_name": "ノックバック"
+}{
+    "ailment_id": 19,
+    "ailment_action": 11,
+    "ailment_detail_1": 1,
+    "ailment_name": "混乱"
 }

@@ -16,7 +16,8 @@
     "start_time": "2015/04/01 15:00:00",
     "end_time": "2018/02/28 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10002,
     "gacha_name": "ノーマルガチャ",
@@ -35,7 +36,8 @@
     "start_time": "2018/02/28 15:00:00",
     "end_time": "2018/03/15 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10003,
     "gacha_name": "ノーマルガチャ",
@@ -54,7 +56,8 @@
     "start_time": "2018/03/15 15:00:00",
     "end_time": "2018/03/31 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10004,
     "gacha_name": "ノーマルガチャ",
@@ -73,7 +76,8 @@
     "start_time": "2018/03/31 15:00:00",
     "end_time": "2018/04/16 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10005,
     "gacha_name": "ノーマルガチャ",
@@ -92,7 +96,8 @@
     "start_time": "2018/04/16 15:00:00",
     "end_time": "2018/04/30 11:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10006,
     "gacha_name": "ノーマルガチャ",
@@ -111,7 +116,8 @@
     "start_time": "2018/04/30 12:00:00",
     "end_time": "2018/05/15 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10007,
     "gacha_name": "ノーマルガチャ",
@@ -130,7 +136,8 @@
     "start_time": "2018/05/15 15:00:00",
     "end_time": "2018/05/31 11:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10008,
     "gacha_name": "ノーマルガチャ",
@@ -149,7 +156,8 @@
     "start_time": "2018/05/31 12:00:00",
     "end_time": "2018/06/15 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10009,
     "gacha_name": "ノーマルガチャ",
@@ -168,7 +176,8 @@
     "start_time": "2018/06/15 15:00:00",
     "end_time": "2018/06/30 11:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10010,
     "gacha_name": "ノーマルガチャ",
@@ -187,7 +196,8 @@
     "start_time": "2018/06/30 12:00:00",
     "end_time": "2018/07/17 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10011,
     "gacha_name": "ノーマルガチャ",
@@ -206,7 +216,8 @@
     "start_time": "2018/07/17 15:00:00",
     "end_time": "2018/07/31 11:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10012,
     "gacha_name": "ノーマルガチャ",
@@ -225,7 +236,8 @@
     "start_time": "2018/07/31 12:00:00",
     "end_time": "2018/08/21 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10013,
     "gacha_name": "ノーマルガチャ",
@@ -244,7 +256,8 @@
     "start_time": "2018/08/21 15:00:00",
     "end_time": "2018/08/31 11:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10014,
     "gacha_name": "ノーマルガチャ",
@@ -263,7 +276,8 @@
     "start_time": "2018/08/31 12:00:00",
     "end_time": "2018/09/18 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10015,
     "gacha_name": "ノーマルガチャ",
@@ -282,7 +296,8 @@
     "start_time": "2018/09/18 15:00:00",
     "end_time": "2018/09/30 11:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10016,
     "gacha_name": "ノーマルガチャ",
@@ -301,7 +316,8 @@
     "start_time": "2018/09/30 12:00:00",
     "end_time": "2018/10/18 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10017,
     "gacha_name": "ノーマルガチャ",
@@ -320,7 +336,8 @@
     "start_time": "2018/10/18 15:00:00",
     "end_time": "2018/10/31 11:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10018,
     "gacha_name": "ノーマルガチャ",
@@ -339,7 +356,8 @@
     "start_time": "2018/10/31 12:00:00",
     "end_time": "2018/11/03 18:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10019,
     "gacha_name": "ノーマルガチャ",
@@ -358,7 +376,8 @@
     "start_time": "2018/11/03 19:00:00",
     "end_time": "2018/11/19 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10020,
     "gacha_name": "ノーマルガチャ",
@@ -377,7 +396,8 @@
     "start_time": "2018/11/19 15:00:00",
     "end_time": "2018/11/30 11:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10021,
     "gacha_name": "ノーマルガチャ",
@@ -396,7 +416,8 @@
     "start_time": "2018/11/30 12:00:00",
     "end_time": "2018/12/19 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10022,
     "gacha_name": "ノーマルガチャ",
@@ -415,7 +436,8 @@
     "start_time": "2018/12/19 15:00:00",
     "end_time": "2018/12/31 11:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10023,
     "gacha_name": "ノーマルガチャ",
@@ -434,7 +456,8 @@
     "start_time": "2018/12/31 12:00:00",
     "end_time": "2019/01/03 18:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10024,
     "gacha_name": "ノーマルガチャ",
@@ -453,7 +476,8 @@
     "start_time": "2019/01/03 19:00:00",
     "end_time": "2019/01/18 14:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10025,
     "gacha_name": "ノーマルガチャ",
@@ -472,7 +496,8 @@
     "start_time": "2019/01/18 15:00:00",
     "end_time": "2019/01/31 11:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 10026,
     "gacha_name": "ノーマルガチャ",
@@ -491,7 +516,8 @@
     "start_time": "2019/01/31 12:00:00",
     "end_time": "2030/02/15 22:59:59",
     "ticket_id": 0,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20001,
     "gacha_name": "プラチナガチャ",
@@ -510,7 +536,8 @@
     "start_time": "2015/04/01 15:00:00",
     "end_time": "2018/02/28 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20002,
     "gacha_name": "プラチナガチャ",
@@ -529,7 +556,8 @@
     "start_time": "2018/02/28 15:00:00",
     "end_time": "2018/03/15 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20003,
     "gacha_name": "プラチナガチャ",
@@ -548,7 +576,8 @@
     "start_time": "2018/03/15 15:00:00",
     "end_time": "2018/03/31 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20004,
     "gacha_name": "プラチナガチャ",
@@ -567,7 +596,8 @@
     "start_time": "2018/03/31 15:00:00",
     "end_time": "2018/04/16 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20005,
     "gacha_name": "プラチナガチャ",
@@ -586,7 +616,8 @@
     "start_time": "2018/04/16 15:00:00",
     "end_time": "2018/04/30 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20006,
     "gacha_name": "プラチナガチャ",
@@ -605,7 +636,8 @@
     "start_time": "2018/04/30 12:00:00",
     "end_time": "2018/05/15 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20007,
     "gacha_name": "プラチナガチャ",
@@ -624,7 +656,8 @@
     "start_time": "2018/05/15 15:00:00",
     "end_time": "2018/05/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20008,
     "gacha_name": "プラチナガチャ",
@@ -643,7 +676,8 @@
     "start_time": "2018/05/31 12:00:00",
     "end_time": "2018/06/15 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20009,
     "gacha_name": "プラチナガチャ",
@@ -662,7 +696,8 @@
     "start_time": "2018/06/15 15:00:00",
     "end_time": "2018/06/30 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20010,
     "gacha_name": "プラチナガチャ",
@@ -681,7 +716,8 @@
     "start_time": "2018/06/30 12:00:00",
     "end_time": "2018/07/17 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20011,
     "gacha_name": "プラチナガチャ",
@@ -700,7 +736,8 @@
     "start_time": "2018/07/17 15:00:00",
     "end_time": "2018/07/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20012,
     "gacha_name": "プラチナガチャ",
@@ -719,7 +756,8 @@
     "start_time": "2018/07/31 12:00:00",
     "end_time": "2018/08/21 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20013,
     "gacha_name": "プラチナガチャ",
@@ -738,7 +776,8 @@
     "start_time": "2018/08/21 15:00:00",
     "end_time": "2018/08/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20014,
     "gacha_name": "プラチナガチャ",
@@ -757,7 +796,8 @@
     "start_time": "2018/08/31 12:00:00",
     "end_time": "2018/09/18 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20015,
     "gacha_name": "プラチナガチャ",
@@ -776,7 +816,8 @@
     "start_time": "2018/09/18 15:00:00",
     "end_time": "2018/09/30 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20016,
     "gacha_name": "プラチナガチャ",
@@ -795,7 +836,8 @@
     "start_time": "2018/09/30 12:00:00",
     "end_time": "2018/10/18 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20017,
     "gacha_name": "プラチナガチャ",
@@ -814,7 +856,8 @@
     "start_time": "2018/10/18 15:00:00",
     "end_time": "2018/10/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20019,
     "gacha_name": "プラチナガチャ",
@@ -833,7 +876,8 @@
     "start_time": "2018/11/03 19:00:00",
     "end_time": "2018/11/19 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20020,
     "gacha_name": "プラチナガチャ",
@@ -852,7 +896,8 @@
     "start_time": "2018/11/19 15:00:00",
     "end_time": "2018/11/30 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20021,
     "gacha_name": "プラチナガチャ",
@@ -871,7 +916,8 @@
     "start_time": "2018/11/30 12:00:00",
     "end_time": "2018/12/19 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20022,
     "gacha_name": "プラチナガチャ",
@@ -890,7 +936,8 @@
     "start_time": "2018/12/19 15:00:00",
     "end_time": "2018/12/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20024,
     "gacha_name": "プラチナガチャ",
@@ -909,7 +956,8 @@
     "start_time": "2019/01/03 19:00:00",
     "end_time": "2019/01/18 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20025,
     "gacha_name": "プラチナガチャ",
@@ -928,7 +976,8 @@
     "start_time": "2019/01/18 15:00:00",
     "end_time": "2019/01/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 20026,
     "gacha_name": "プラチナガチャ",
@@ -947,7 +996,8 @@
     "start_time": "2019/01/31 12:00:00",
     "end_time": "2030/02/15 22:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30002,
     "gacha_name": "ピックアップガチャ",
@@ -966,7 +1016,8 @@
     "start_time": "2018/02/28 15:00:00",
     "end_time": "2018/03/15 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30003,
     "gacha_name": "ピックアップガチャ",
@@ -985,7 +1036,8 @@
     "start_time": "2018/03/15 17:00:00",
     "end_time": "2018/03/31 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30004,
     "gacha_name": "ピックアップガチャ",
@@ -1004,7 +1056,8 @@
     "start_time": "2018/03/31 15:00:00",
     "end_time": "2018/04/16 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30005,
     "gacha_name": "ピックアップガチャ",
@@ -1023,7 +1076,8 @@
     "start_time": "2018/04/16 15:00:00",
     "end_time": "2018/04/30 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30006,
     "gacha_name": "ピックアップガチャ",
@@ -1042,7 +1096,8 @@
     "start_time": "2018/04/30 12:00:00",
     "end_time": "2018/05/15 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30007,
     "gacha_name": "ピックアップガチャ",
@@ -1061,7 +1116,8 @@
     "start_time": "2018/05/15 15:00:00",
     "end_time": "2018/05/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30008,
     "gacha_name": "ピックアップガチャ",
@@ -1080,7 +1136,8 @@
     "start_time": "2018/05/31 12:00:00",
     "end_time": "2018/06/15 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30009,
     "gacha_name": "ピックアップガチャ",
@@ -1099,7 +1156,8 @@
     "start_time": "2018/06/15 15:00:00",
     "end_time": "2018/06/30 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30010,
     "gacha_name": "ピックアップガチャ",
@@ -1118,7 +1176,8 @@
     "start_time": "2018/06/30 12:00:00",
     "end_time": "2018/07/17 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30011,
     "gacha_name": "ピックアップガチャ",
@@ -1137,7 +1196,8 @@
     "start_time": "2018/07/17 15:00:00",
     "end_time": "2018/07/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30012,
     "gacha_name": "ピックアップガチャ",
@@ -1156,7 +1216,8 @@
     "start_time": "2018/07/31 12:00:00",
     "end_time": "2018/08/21 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30014,
     "gacha_name": "ピックアップガチャ",
@@ -1175,7 +1236,8 @@
     "start_time": "2018/08/31 12:00:00",
     "end_time": "2018/09/18 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30015,
     "gacha_name": "ピックアップガチャ",
@@ -1194,7 +1256,8 @@
     "start_time": "2018/09/18 15:00:00",
     "end_time": "2018/09/30 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30016,
     "gacha_name": "ピックアップガチャ",
@@ -1213,7 +1276,8 @@
     "start_time": "2018/09/30 12:00:00",
     "end_time": "2018/10/18 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30017,
     "gacha_name": "ピックアップガチャ",
@@ -1232,7 +1296,8 @@
     "start_time": "2018/10/18 15:00:00",
     "end_time": "2018/10/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30019,
     "gacha_name": "ピックアップガチャ",
@@ -1251,7 +1316,8 @@
     "start_time": "2018/11/03 19:00:00",
     "end_time": "2018/11/19 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30020,
     "gacha_name": "ピックアップガチャ",
@@ -1270,7 +1336,8 @@
     "start_time": "2018/11/19 15:00:00",
     "end_time": "2018/11/30 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30021,
     "gacha_name": "ピックアップガチャ",
@@ -1289,7 +1356,8 @@
     "start_time": "2018/11/30 12:00:00",
     "end_time": "2018/12/19 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30022,
     "gacha_name": "ピックアップガチャ",
@@ -1308,7 +1376,8 @@
     "start_time": "2018/12/19 15:00:00",
     "end_time": "2018/12/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30024,
     "gacha_name": "ピックアップガチャ",
@@ -1327,7 +1396,8 @@
     "start_time": "2019/01/03 19:00:00",
     "end_time": "2019/01/18 14:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30025,
     "gacha_name": "ピックアップガチャ",
@@ -1346,7 +1416,8 @@
     "start_time": "2019/01/18 15:00:00",
     "end_time": "2019/01/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 30026,
     "gacha_name": "ピックアップガチャ",
@@ -1365,7 +1436,8 @@
     "start_time": "2019/01/31 12:00:00",
     "end_time": "2019/02/15 22:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 40001,
     "gacha_name": "Half Anniversaryガチャ",
@@ -1384,7 +1456,8 @@
     "start_time": "2018/08/21 15:00:00",
     "end_time": "2018/08/31 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 50018,
     "gacha_name": "プリンセスフェス",
@@ -1403,7 +1476,8 @@
     "start_time": "2018/10/31 12:00:00",
     "end_time": "2018/11/03 18:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 50023,
     "gacha_name": "プリンセスフェス",
@@ -1422,7 +1496,8 @@
     "start_time": "2018/12/31 12:00:00",
     "end_time": "2019/01/03 18:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 60001,
     "gacha_name": "スタートダッシュガチャ",
@@ -1441,7 +1516,8 @@
     "start_time": "2018/10/18 15:00:00",
     "end_time": "2030/10/18 11:59:59",
     "ticket_id": 24001,
-    "special_id": 0
+    "special_id": 0,
+    "exchange_id": 0
 }{
     "gacha_id": 70001,
     "gacha_name": "★3確定プラチナガチャ",
@@ -1460,7 +1536,8 @@
     "start_time": "2018/12/18 12:00:00",
     "end_time": "2018/12/19 14:59:59",
     "ticket_id": 24001,
-    "special_id": 70001
+    "special_id": 70001,
+    "exchange_id": 0
 }{
     "gacha_id": 70002,
     "gacha_name": "★3確定プラチナガチャ",
@@ -1479,7 +1556,8 @@
     "start_time": "2018/12/19 15:00:00",
     "end_time": "2018/12/25 14:59:59",
     "ticket_id": 24001,
-    "special_id": 70001
+    "special_id": 70001,
+    "exchange_id": 0
 }{
     "gacha_id": 70003,
     "gacha_name": "★3確定プラチナガチャ",
@@ -1498,5 +1576,6 @@
     "start_time": "2019/01/18 15:00:00",
     "end_time": "2019/01/25 11:59:59",
     "ticket_id": 24001,
-    "special_id": 70003
+    "special_id": 70003,
+    "exchange_id": 0
 }

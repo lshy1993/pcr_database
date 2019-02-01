@@ -36,7 +36,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_ex_quest_id": 72020110,
     "tower_area_id": 2,
@@ -75,7 +76,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_ex_quest_id": 72030130,
     "tower_area_id": 3,
@@ -114,7 +116,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_ex_quest_id": 72040150,
     "tower_area_id": 4,
@@ -153,7 +156,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_ex_quest_id": 72050170,
     "tower_area_id": 5,
@@ -192,5 +196,6 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }

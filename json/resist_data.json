@@ -17,7 +17,8 @@
     "ailment_15": 0,
     "ailment_16": 0,
     "ailment_17": 0,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 0
 }{
     "resist_status_id": 200000002,
     "ailment_1": 0,
@@ -37,7 +38,8 @@
     "ailment_15": 0,
     "ailment_16": 0,
     "ailment_17": 0,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 0
 }{
     "resist_status_id": 200000003,
     "ailment_1": 0,
@@ -57,7 +59,8 @@
     "ailment_15": 0,
     "ailment_16": 0,
     "ailment_17": 0,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 0
 }{
     "resist_status_id": 200000004,
     "ailment_1": 0,
@@ -77,7 +80,8 @@
     "ailment_15": 0,
     "ailment_16": 0,
     "ailment_17": 0,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 0
 }{
     "resist_status_id": 200000005,
     "ailment_1": 0,
@@ -97,7 +101,8 @@
     "ailment_15": 0,
     "ailment_16": 0,
     "ailment_17": 0,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 0
 }{
     "resist_status_id": 200000006,
     "ailment_1": 0,
@@ -117,7 +122,8 @@
     "ailment_15": 0,
     "ailment_16": 100,
     "ailment_17": 0,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 0
 }{
     "resist_status_id": 200000007,
     "ailment_1": 0,
@@ -137,7 +143,8 @@
     "ailment_15": 0,
     "ailment_16": 100,
     "ailment_17": 0,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 0
 }{
     "resist_status_id": 200000008,
     "ailment_1": 0,
@@ -157,7 +164,8 @@
     "ailment_15": 0,
     "ailment_16": 100,
     "ailment_17": 0,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 0
 }{
     "resist_status_id": 200000009,
     "ailment_1": 0,
@@ -177,7 +185,8 @@
     "ailment_15": 0,
     "ailment_16": 100,
     "ailment_17": 0,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 0
 }{
     "resist_status_id": 200000010,
     "ailment_1": 0,
@@ -197,7 +206,8 @@
     "ailment_15": 0,
     "ailment_16": 100,
     "ailment_17": 0,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 0
 }{
     "resist_status_id": 300000001,
     "ailment_1": 100,
@@ -217,7 +227,8 @@
     "ailment_15": 100,
     "ailment_16": 100,
     "ailment_17": 100,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 100
 }{
     "resist_status_id": 300000002,
     "ailment_1": 100,
@@ -237,7 +248,8 @@
     "ailment_15": 100,
     "ailment_16": 100,
     "ailment_17": 100,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 100
 }{
     "resist_status_id": 300000003,
     "ailment_1": 100,
@@ -257,7 +269,8 @@
     "ailment_15": 100,
     "ailment_16": 100,
     "ailment_17": 100,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 100
 }{
     "resist_status_id": 300000004,
     "ailment_1": 100,
@@ -277,7 +290,8 @@
     "ailment_15": 100,
     "ailment_16": 100,
     "ailment_17": 100,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 30
 }{
     "resist_status_id": 300000005,
     "ailment_1": 30,
@@ -297,7 +311,8 @@
     "ailment_15": 30,
     "ailment_16": 30,
     "ailment_17": 100,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 100
 }{
     "resist_status_id": 300000006,
     "ailment_1": 100,
@@ -317,7 +332,8 @@
     "ailment_15": 30,
     "ailment_16": 100,
     "ailment_17": 100,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 100
 }{
     "resist_status_id": 300000007,
     "ailment_1": 100,
@@ -337,7 +353,8 @@
     "ailment_15": 30,
     "ailment_16": 100,
     "ailment_17": 100,
-    "ailment_18": 100
+    "ailment_18": 100,
+    "ailment_19": 100
 }{
     "resist_status_id": 300000008,
     "ailment_1": 100,
@@ -357,7 +374,8 @@
     "ailment_15": 100,
     "ailment_16": 100,
     "ailment_17": 100,
-    "ailment_18": 100
+    "ailment_18": 100,
+    "ailment_19": 100
 }{
     "resist_status_id": 300000009,
     "ailment_1": 100,
@@ -377,7 +395,8 @@
     "ailment_15": 100,
     "ailment_16": 100,
     "ailment_17": 100,
-    "ailment_18": 100
+    "ailment_18": 100,
+    "ailment_19": 100
 }{
     "resist_status_id": 300000010,
     "ailment_1": 0,
@@ -397,7 +416,29 @@
     "ailment_15": 100,
     "ailment_16": 100,
     "ailment_17": 100,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 100
+}{
+    "resist_status_id": 300000011,
+    "ailment_1": 100,
+    "ailment_2": 0,
+    "ailment_3": 0,
+    "ailment_4": 100,
+    "ailment_5": 100,
+    "ailment_6": 100,
+    "ailment_7": 100,
+    "ailment_8": 100,
+    "ailment_9": 100,
+    "ailment_10": 100,
+    "ailment_11": 100,
+    "ailment_12": 100,
+    "ailment_13": 100,
+    "ailment_14": 100,
+    "ailment_15": 100,
+    "ailment_16": 100,
+    "ailment_17": 100,
+    "ailment_18": 0,
+    "ailment_19": 100
 }{
     "resist_status_id": 300000012,
     "ailment_1": 100,
@@ -417,7 +458,8 @@
     "ailment_15": 100,
     "ailment_16": 100,
     "ailment_17": 0,
-    "ailment_18": 100
+    "ailment_18": 100,
+    "ailment_19": 100
 }{
     "resist_status_id": 900000001,
     "ailment_1": 0,
@@ -437,5 +479,6 @@
     "ailment_15": 0,
     "ailment_16": 0,
     "ailment_17": 0,
-    "ailment_18": 0
+    "ailment_18": 0,
+    "ailment_19": 0
 }

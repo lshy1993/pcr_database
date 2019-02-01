@@ -44,7 +44,8 @@
     "enemy_position_x_5": 0,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010002,
     "tower_area_id": 1,
@@ -91,7 +92,8 @@
     "enemy_position_x_5": 0,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010003,
     "tower_area_id": 1,
@@ -138,7 +140,8 @@
     "enemy_position_x_5": 0,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010004,
     "tower_area_id": 1,
@@ -185,7 +188,8 @@
     "enemy_position_x_5": 0,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010005,
     "tower_area_id": 1,
@@ -232,7 +236,8 @@
     "enemy_position_x_5": 0,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010006,
     "tower_area_id": 1,
@@ -279,7 +284,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010007,
     "tower_area_id": 1,
@@ -326,7 +332,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010008,
     "tower_area_id": 1,
@@ -373,7 +380,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010009,
     "tower_area_id": 1,
@@ -420,7 +428,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010010,
     "tower_area_id": 1,
@@ -467,7 +476,8 @@
     "enemy_position_x_5": 0,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010011,
     "tower_area_id": 1,
@@ -514,7 +524,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010012,
     "tower_area_id": 1,
@@ -561,7 +572,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010013,
     "tower_area_id": 1,
@@ -608,7 +620,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010014,
     "tower_area_id": 1,
@@ -655,7 +668,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010015,
     "tower_area_id": 1,
@@ -702,7 +716,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010016,
     "tower_area_id": 1,
@@ -749,7 +764,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010017,
     "tower_area_id": 1,
@@ -796,7 +812,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010018,
     "tower_area_id": 1,
@@ -843,7 +860,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010019,
     "tower_area_id": 1,
@@ -890,7 +908,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010020,
     "tower_area_id": 1,
@@ -937,7 +956,8 @@
     "enemy_position_x_5": 0,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010021,
     "tower_area_id": 1,
@@ -984,7 +1004,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010022,
     "tower_area_id": 1,
@@ -1031,7 +1052,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010023,
     "tower_area_id": 1,
@@ -1078,7 +1100,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010024,
     "tower_area_id": 1,
@@ -1125,7 +1148,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010025,
     "tower_area_id": 1,
@@ -1172,7 +1196,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010026,
     "tower_area_id": 1,
@@ -1219,7 +1244,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010027,
     "tower_area_id": 1,
@@ -1266,7 +1292,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010028,
     "tower_area_id": 1,
@@ -1313,7 +1340,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010029,
     "tower_area_id": 1,
@@ -1360,7 +1388,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010030,
     "tower_area_id": 1,
@@ -1407,7 +1436,8 @@
     "enemy_position_x_5": 0,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010031,
     "tower_area_id": 1,
@@ -1454,7 +1484,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010032,
     "tower_area_id": 1,
@@ -1501,7 +1532,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010033,
     "tower_area_id": 1,
@@ -1548,7 +1580,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010034,
     "tower_area_id": 1,
@@ -1595,7 +1628,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010035,
     "tower_area_id": 1,
@@ -1642,7 +1676,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010036,
     "tower_area_id": 1,
@@ -1689,7 +1724,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010037,
     "tower_area_id": 1,
@@ -1736,7 +1772,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010038,
     "tower_area_id": 1,
@@ -1783,7 +1820,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010039,
     "tower_area_id": 1,
@@ -1830,7 +1868,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010040,
     "tower_area_id": 1,
@@ -1877,7 +1916,8 @@
     "enemy_position_x_5": 0,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010041,
     "tower_area_id": 1,
@@ -1924,7 +1964,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010042,
     "tower_area_id": 1,
@@ -1971,7 +2012,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010043,
     "tower_area_id": 1,
@@ -2018,7 +2060,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010044,
     "tower_area_id": 1,
@@ -2065,7 +2108,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010045,
     "tower_area_id": 1,
@@ -2112,7 +2156,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010046,
     "tower_area_id": 1,
@@ -2159,7 +2204,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010047,
     "tower_area_id": 1,
@@ -2206,7 +2252,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010048,
     "tower_area_id": 1,
@@ -2253,7 +2300,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010049,
     "tower_area_id": 1,
@@ -2300,7 +2348,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010050,
     "tower_area_id": 1,
@@ -2347,7 +2396,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010051,
     "tower_area_id": 1,
@@ -2394,7 +2444,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010052,
     "tower_area_id": 1,
@@ -2441,7 +2492,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010053,
     "tower_area_id": 1,
@@ -2488,7 +2540,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010054,
     "tower_area_id": 1,
@@ -2535,7 +2588,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010055,
     "tower_area_id": 1,
@@ -2582,7 +2636,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010056,
     "tower_area_id": 1,
@@ -2629,7 +2684,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010057,
     "tower_area_id": 1,
@@ -2676,7 +2732,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010058,
     "tower_area_id": 1,
@@ -2723,7 +2780,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010059,
     "tower_area_id": 1,
@@ -2770,7 +2828,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010060,
     "tower_area_id": 1,
@@ -2817,7 +2876,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010061,
     "tower_area_id": 1,
@@ -2864,7 +2924,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010062,
     "tower_area_id": 1,
@@ -2911,7 +2972,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010063,
     "tower_area_id": 1,
@@ -2958,7 +3020,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010064,
     "tower_area_id": 1,
@@ -3005,7 +3068,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010065,
     "tower_area_id": 1,
@@ -3052,7 +3116,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010066,
     "tower_area_id": 1,
@@ -3099,7 +3164,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010067,
     "tower_area_id": 1,
@@ -3146,7 +3212,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010068,
     "tower_area_id": 1,
@@ -3193,7 +3260,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010069,
     "tower_area_id": 1,
@@ -3240,7 +3308,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71010070,
     "tower_area_id": 1,
@@ -3287,7 +3356,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020071,
     "tower_area_id": 2,
@@ -3334,7 +3404,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020072,
     "tower_area_id": 2,
@@ -3381,7 +3452,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020073,
     "tower_area_id": 2,
@@ -3428,7 +3500,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020074,
     "tower_area_id": 2,
@@ -3475,7 +3548,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020075,
     "tower_area_id": 2,
@@ -3522,7 +3596,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020076,
     "tower_area_id": 2,
@@ -3569,7 +3644,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020077,
     "tower_area_id": 2,
@@ -3616,7 +3692,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020078,
     "tower_area_id": 2,
@@ -3663,7 +3740,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020079,
     "tower_area_id": 2,
@@ -3710,7 +3788,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020080,
     "tower_area_id": 2,
@@ -3757,7 +3836,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020081,
     "tower_area_id": 2,
@@ -3804,7 +3884,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020082,
     "tower_area_id": 2,
@@ -3851,7 +3932,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020083,
     "tower_area_id": 2,
@@ -3898,7 +3980,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020084,
     "tower_area_id": 2,
@@ -3945,7 +4028,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020085,
     "tower_area_id": 2,
@@ -3992,7 +4076,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020086,
     "tower_area_id": 2,
@@ -4039,7 +4124,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020087,
     "tower_area_id": 2,
@@ -4086,7 +4172,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020088,
     "tower_area_id": 2,
@@ -4133,7 +4220,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020089,
     "tower_area_id": 2,
@@ -4180,7 +4268,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020090,
     "tower_area_id": 2,
@@ -4227,7 +4316,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020091,
     "tower_area_id": 2,
@@ -4274,7 +4364,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020092,
     "tower_area_id": 2,
@@ -4321,7 +4412,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020093,
     "tower_area_id": 2,
@@ -4368,7 +4460,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020094,
     "tower_area_id": 2,
@@ -4415,7 +4508,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020095,
     "tower_area_id": 2,
@@ -4462,7 +4556,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020096,
     "tower_area_id": 2,
@@ -4509,7 +4604,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020097,
     "tower_area_id": 2,
@@ -4556,7 +4652,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020098,
     "tower_area_id": 2,
@@ -4603,7 +4700,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020099,
     "tower_area_id": 2,
@@ -4650,7 +4748,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020100,
     "tower_area_id": 2,
@@ -4697,7 +4796,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": -20,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020101,
     "tower_area_id": 2,
@@ -4744,7 +4844,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020102,
     "tower_area_id": 2,
@@ -4791,7 +4892,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020103,
     "tower_area_id": 2,
@@ -4838,7 +4940,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020104,
     "tower_area_id": 2,
@@ -4885,7 +4988,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020105,
     "tower_area_id": 2,
@@ -4932,7 +5036,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020106,
     "tower_area_id": 2,
@@ -4979,7 +5084,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020107,
     "tower_area_id": 2,
@@ -5026,7 +5132,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020108,
     "tower_area_id": 2,
@@ -5073,7 +5180,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020109,
     "tower_area_id": 2,
@@ -5120,7 +5228,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71020110,
     "tower_area_id": 2,
@@ -5167,7 +5276,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030111,
     "tower_area_id": 3,
@@ -5214,7 +5324,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030112,
     "tower_area_id": 3,
@@ -5261,7 +5372,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030113,
     "tower_area_id": 3,
@@ -5308,7 +5420,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030114,
     "tower_area_id": 3,
@@ -5355,7 +5468,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030115,
     "tower_area_id": 3,
@@ -5402,7 +5516,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030116,
     "tower_area_id": 3,
@@ -5449,7 +5564,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030117,
     "tower_area_id": 3,
@@ -5496,7 +5612,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030118,
     "tower_area_id": 3,
@@ -5543,7 +5660,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030119,
     "tower_area_id": 3,
@@ -5590,7 +5708,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030120,
     "tower_area_id": 3,
@@ -5637,7 +5756,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030121,
     "tower_area_id": 3,
@@ -5684,7 +5804,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030122,
     "tower_area_id": 3,
@@ -5731,7 +5852,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030123,
     "tower_area_id": 3,
@@ -5778,7 +5900,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030124,
     "tower_area_id": 3,
@@ -5825,7 +5948,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030125,
     "tower_area_id": 3,
@@ -5872,7 +5996,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030126,
     "tower_area_id": 3,
@@ -5919,7 +6044,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030127,
     "tower_area_id": 3,
@@ -5966,7 +6092,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030128,
     "tower_area_id": 3,
@@ -6013,7 +6140,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030129,
     "tower_area_id": 3,
@@ -6060,7 +6188,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71030130,
     "tower_area_id": 3,
@@ -6107,7 +6236,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040131,
     "tower_area_id": 4,
@@ -6154,7 +6284,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040132,
     "tower_area_id": 4,
@@ -6201,7 +6332,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040133,
     "tower_area_id": 4,
@@ -6248,7 +6380,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040134,
     "tower_area_id": 4,
@@ -6295,7 +6428,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040135,
     "tower_area_id": 4,
@@ -6342,7 +6476,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040136,
     "tower_area_id": 4,
@@ -6389,7 +6524,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040137,
     "tower_area_id": 4,
@@ -6436,7 +6572,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040138,
     "tower_area_id": 4,
@@ -6483,7 +6620,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040139,
     "tower_area_id": 4,
@@ -6530,7 +6668,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040140,
     "tower_area_id": 4,
@@ -6577,7 +6716,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040141,
     "tower_area_id": 4,
@@ -6624,7 +6764,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040142,
     "tower_area_id": 4,
@@ -6671,7 +6812,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040143,
     "tower_area_id": 4,
@@ -6718,7 +6860,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040144,
     "tower_area_id": 4,
@@ -6765,7 +6908,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040145,
     "tower_area_id": 4,
@@ -6812,7 +6956,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040146,
     "tower_area_id": 4,
@@ -6859,7 +7004,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040147,
     "tower_area_id": 4,
@@ -6906,7 +7052,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040148,
     "tower_area_id": 4,
@@ -6953,7 +7100,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040149,
     "tower_area_id": 4,
@@ -7000,7 +7148,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71040150,
     "tower_area_id": 4,
@@ -7047,7 +7196,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050151,
     "tower_area_id": 5,
@@ -7094,7 +7244,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050152,
     "tower_area_id": 5,
@@ -7141,7 +7292,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050153,
     "tower_area_id": 5,
@@ -7188,7 +7340,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050154,
     "tower_area_id": 5,
@@ -7235,7 +7388,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050155,
     "tower_area_id": 5,
@@ -7282,7 +7436,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050156,
     "tower_area_id": 5,
@@ -7329,7 +7484,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050157,
     "tower_area_id": 5,
@@ -7376,7 +7532,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050158,
     "tower_area_id": 5,
@@ -7423,7 +7580,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050159,
     "tower_area_id": 5,
@@ -7470,7 +7628,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050160,
     "tower_area_id": 5,
@@ -7517,7 +7676,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050161,
     "tower_area_id": 5,
@@ -7564,7 +7724,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050162,
     "tower_area_id": 5,
@@ -7611,7 +7772,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050163,
     "tower_area_id": 5,
@@ -7658,7 +7820,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050164,
     "tower_area_id": 5,
@@ -7705,7 +7868,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050165,
     "tower_area_id": 5,
@@ -7752,7 +7916,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050166,
     "tower_area_id": 5,
@@ -7799,7 +7964,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050167,
     "tower_area_id": 5,
@@ -7846,7 +8012,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050168,
     "tower_area_id": 5,
@@ -7893,7 +8060,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050169,
     "tower_area_id": 5,
@@ -7940,7 +8108,8 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M127"
+    "wave_bgm": "bgm_M127",
+    "clp_flag": 0
 }{
     "tower_quest_id": 71050170,
     "tower_area_id": 5,
@@ -7987,5 +8156,6 @@
     "enemy_position_x_5": 333,
     "enemy_local_position_y_5": 0,
     "enemy_size_5": 0.7,
-    "wave_bgm": "bgm_M126"
+    "wave_bgm": "bgm_M126",
+    "clp_flag": 0
 }

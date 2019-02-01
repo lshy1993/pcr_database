@@ -18,3 +18,4 @@ INSERT INTO `ailment_data` VALUES (15,12,-1,"暗闇");
 INSERT INTO `ailment_data` VALUES (16,13,0,"沈黙");
 INSERT INTO `ailment_data` VALUES (17,30,0,"即死");
 INSERT INTO `ailment_data` VALUES (18,3,-1,"ノックバック");
+INSERT INTO `ailment_data` VALUES (19,11,1,"混乱");
