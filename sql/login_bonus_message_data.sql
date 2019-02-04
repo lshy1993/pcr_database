@@ -49,7 +49,7 @@ INSERT INTO `login_bonus_message_data` VALUES (46,80001,1,6,0,0,103401,"ユカ�
 INSERT INTO `login_bonus_message_data` VALUES (47,80001,1,6,0,0,103401,"ユカリ","情けないところいっぱいみせるかも\nしれないけど、これからも一緒に\nいてくれると、うれしいな",2);
 INSERT INTO `login_bonus_message_data` VALUES (48,80001,0,7,0,0,107101,"クリスティーナ","オマエと出会ってもう1年か\nまさかこのワタシの結婚相手に\nなろうとはな…",1);
 INSERT INTO `login_bonus_message_data` VALUES (49,80001,0,7,0,0,107101,"クリスティーナ","ともかくこれからも\n愉しませてくれよ☆",2);
-INSERT INTO `login_bonus_message_data` VALUES (50,80001,1,7,0,0,104701,"ジュン","君と出会ってからもう1年か以前と\n比べて私の表情もいくらか\n柔らかくなった気がするんだが、\nどうだろう？",1);
+INSERT INTO `login_bonus_message_data` VALUES (50,80001,1,7,0,0,104701,"ジュン","君と出会ってからもう1年か。\n以前と比べて私の表情もいくらか\n柔らかくなった気がするんだが、\nどうだろう？",1);
 INSERT INTO `login_bonus_message_data` VALUES (51,80001,1,7,0,0,104701,"ジュン","見えないから分からないって？\nそれもそうだな…",2);
 INSERT INTO `login_bonus_message_data` VALUES (52,80001,0,8,0,0,103701,"トモ","もう1年たったみたいだね\nあなたをからかってばかりだった\nけど、楽しかった♪",1);
 INSERT INTO `login_bonus_message_data` VALUES (53,80001,0,8,0,0,103701,"トモ","これからもよろしくね！",2);
@@ -75,7 +75,7 @@ INSERT INTO `login_bonus_message_data` VALUES (72,80001,1,12,0,0,104201,"チカ"
 INSERT INTO `login_bonus_message_data` VALUES (73,80001,1,12,0,0,104201,"チカ","私のことを見守ってください\nできることなら、ずっと…",2);
 INSERT INTO `login_bonus_message_data` VALUES (74,80001,2,12,0,0,102101,"クルミ","お兄ちゃんと出会って1年かぁ\n私、相変わらずダメダメで…",1);
 INSERT INTO `login_bonus_message_data` VALUES (75,80001,2,12,0,0,102101,"クルミ","で、でもこれからもずっと…\n一緒にいたいなぁ…",2);
-INSERT INTO `login_bonus_message_data` VALUES (76,80001,0,13,0,0,104901,"シズル","再会してちょうど1年だねお祝いに\nごちそう作ってきたよ～♪\n特製ケーキと、お寿司と、",1);
+INSERT INTO `login_bonus_message_data` VALUES (76,80001,0,13,0,0,104901,"シズル","再会してちょうど1年だね\nお祝いにごちそう作ってきたよ～♪\n特製ケーキと、お寿司と、",1);
 INSERT INTO `login_bonus_message_data` VALUES (77,80001,0,13,0,0,104901,"シズル","ハンバーグと、カレーと、\nシチューと、あ、隠しきれない隠し\n味は、お姉ちゃんの愛情だよ！",2);
 INSERT INTO `login_bonus_message_data` VALUES (78,80001,1,13,0,0,101101,"リノ","お兄ちゃんと再会して、もう1年\nなんですね。\n会えなかった時を思うと、",1);
 INSERT INTO `login_bonus_message_data` VALUES (79,80001,1,13,0,0,101101,"リノ","信じられないくらい幸せな1年\nでした！もう絶対、私から離れ\nないでくださいね♪",2);
