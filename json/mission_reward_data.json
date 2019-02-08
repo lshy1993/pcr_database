@@ -598,4 +598,22 @@
     "reward_type": 2,
     "reward_id": 23001,
     "reward_num": 6
+}{
+    "id": 113,
+    "mission_reward_id": 28007001,
+    "reward_type": 6,
+    "reward_id": 93001,
+    "reward_num": 100
+}{
+    "id": 114,
+    "mission_reward_id": 28007002,
+    "reward_type": 6,
+    "reward_id": 93001,
+    "reward_num": 100
+}{
+    "id": 115,
+    "mission_reward_id": 28007003,
+    "reward_type": 6,
+    "reward_id": 93001,
+    "reward_num": 100
 }

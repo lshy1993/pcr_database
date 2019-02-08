@@ -11,6 +11,14 @@
     "bg_id": 530032,
     "event_id": 0
 }{
+    "view_name": "CHARACTER_VOTE_OPENING",
+    "bg_id": 0,
+    "event_id": 0
+}{
+    "view_name": "CHARACTER_VOTE_TOP",
+    "bg_id": 500590,
+    "event_id": 0
+}{
     "view_name": "CLAN_BATTLE_RANKING",
     "bg_id": 500390,
     "event_id": 0
